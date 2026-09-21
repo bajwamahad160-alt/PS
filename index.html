@@ -55,8 +55,8 @@
             can spend less time chasing links.
           </p>
           <div class="hero-cta">
-            <a href="#courses" class="btn btn-primary btn-lg">Browse courses</a>
-            <a href="#login" class="btn btn-outline btn-lg">I already have an account</a>
+            <a href="#login" class="btn btn-primary btn-lg">Log in to your classroom</a>
+            <a href="#courses" class="btn btn-outline btn-lg">Browse courses</a>
           </div>
           <ul class="hero-trust">
             <li><strong>200+</strong> lessons</li>
@@ -271,11 +271,11 @@
     <section class="section" id="login">
       <div class="container contact-grid">
         <div id="contact">
-          <p class="eyebrow">Get started</p>
-          <h2>Join the classroom</h2>
+          <p class="eyebrow">Welcome back</p>
+          <h2>Log in to your classroom</h2>
           <p class="section-sub">
-            Have a class code from your teacher? Enter it to jump straight in.
-            Questions? Reach out any time.
+            Use the account your school gave you. Enter your student username
+            and password to jump straight into your lessons.
           </p>
           <ul class="contact-list">
             <li><span>✉️</span> <a href="mailto:hello@samonline.ca">hello@samonline.ca</a></li>
@@ -286,19 +286,17 @@
 
         <form class="login-form" onsubmit="return false;">
           <label>
-            Class code
-            <input type="text" placeholder="e.g. SAM-2026" autocomplete="off" />
+            Username
+            <input type="text" placeholder="Student username" autocomplete="username" />
           </label>
           <label>
-            Your name
-            <input type="text" placeholder="First name" autocomplete="given-name" />
+            Password
+            <input type="password" placeholder="Your password" autocomplete="current-password" />
           </label>
-          <label>
-            Email
-            <input type="email" placeholder="you@example.com" autocomplete="email" />
-          </label>
-          <button type="submit" class="btn btn-primary btn-block btn-lg">Enter classroom</button>
-          <p class="form-note">By continuing you agree to the class guidelines.</p>
+          <button type="submit" class="btn btn-primary btn-block btn-lg">Log in</button>
+          <p class="form-note">
+            <a href="#">Forgot your password?</a> · Trouble logging in? Ask your teacher.
+          </p>
         </form>
       </div>
     </section>
@@ -329,7 +327,7 @@
       <div class="footer-col">
         <h4>Account</h4>
         <a href="#login">Log in</a>
-        <a href="#login">Join a class</a>
+        <a href="#login">Forgot password</a>
       </div>
     </div>
     <div class="container footer-bottom">

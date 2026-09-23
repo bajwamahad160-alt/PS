@@ -24,11 +24,12 @@ It got industrialized and regulated, and it runs through the everyday.
 | Large | ~10,000 |
 
 The author picks a size per chapter, or leaves it to judgment. Chapter 1
-is **medium**, since an opening chapter has a lot of setup to cover.
+runs about 8,000 words, between medium and large, since it covers two
+big Bindery moments.
 
 ## Status
 
-**Chapter 1 drafted** (`chapters/chapter-01.md`, medium, ~6,800 words).
+**Chapter 1 drafted** (`chapters/chapter-01.md`, ~8,000 words, between medium and large).
 
 - `world-bible.md` covers the world, how griamores work, the Elemental
   Seven, the Demonic Seven, and rare powers.

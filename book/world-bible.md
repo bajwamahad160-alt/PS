@@ -70,6 +70,16 @@ Bindery ceiling lights up.
 on her sixteenth birthday, five months before Chapter 1, after the old
 Light Grandmaster died of old age.
 
+**Current Thunder Grandmaster: Jonah Pike** *(author's decision)*, Owen's
+other best friend. He got it at the Bindery on the same day as Owen, six
+weeks after the old Thunder Grandmaster, Barnaby Holt, died. That makes two
+Grandmasters from Cable Street in five months. When a Grandmaster book
+binds, the matching ceiling mark lights up: clean white for Talia, and
+flickering blue-white with a real roll of thunder for Jonah.
+
+**Current Flame Grandmaster: Cassius Rourke.** Water, Air, Earth, and Ice
+are still unnamed.
+
 ### The Demonic Seven: the forgotten books
 
 There are seven more griamores, one for each of the seven deadly sins.
@@ -136,3 +146,5 @@ learns the truth at the end of Chapter 1. Owen doesn't.
   she held Owen's book.
 - Talia has invited Owen and Jonah to her exhibition at Harbor Arena on
   Saturday.
+- A Ministry car picks Jonah up at **nine the next morning** to "relocate"
+  him for training. Owen promised to visit every Sunday.

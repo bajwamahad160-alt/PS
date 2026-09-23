@@ -40,18 +40,19 @@ A guy named Owen. Everything past that is still open.
   birthday. Now lives in the Ministry towers with a handler and a packed
   schedule, and she's tired and a little lonely, but she's still Talia.
   Her hands always run warm.
-- **Jonah Pike** — Owen's other best friend. Shares Owen's birthday
-  *(author's decision)*: born twenty minutes apart in neighboring hospital
+- **Jonah Pike** — Owen's other best friend and the new **Thunder
+  Grandmaster** *(author's decision)*. Shares Owen's birthday *(author's
+  decision)*: they were born twenty minutes apart in neighboring hospital
   beds, on either side of midnight. The two families have always had one
-  party with one cake. Gets an ordinary water griamore the same day as
-  Owen. Drew a mustache on Talia's poster.
+  party with one cake. He wanted an ordinary water book and never wished
+  for Grandmaster. Drew a mustache on Talia's poster.
 - **Pop** — Owen's dad. Stokes the boilers at the Eastside power station
   with a small fire griamore.
 - **Mom** — works the early shift at the cannery. Tells Owen the truth when
   Pop wants to spare him.
 - **Tess** — Owen's ten-year-old sister. Collects Grandmaster trading
   cards and owns a signed Talia card she will never trade.
-- **Mrs. Pike** — Jonah's mom. Has a sound griamore and can be heard from
+- **Ruth Pike** — Jonah's mom. Has a sound griamore and can be heard from
   across a street without raising her voice.
 - **Mr. Crane** — Talia's Ministry handler. Always checking his watch.
 - **Mr. Pettibone** — tired Bindery clerk.
@@ -59,6 +60,8 @@ A guy named Owen. Everything past that is still open.
   Demonic Seven from her grandmother's stories. Plans to keep an eye on
   Owen.
 - **Mrs. Abernathy** — downstairs neighbor.
+- **Barnaby Holt** — the old Thunder Grandmaster. Died six weeks before
+  Chapter 1, in his armchair during a rainstorm.
 - **Cassius Rourke** — the current Flame Grandmaster, heard only on the
   radio so far.
 - **Port Aldren** — the harbor city where the story starts.

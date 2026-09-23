@@ -28,7 +28,7 @@ is **medium**, since an opening chapter has a lot of setup to cover.
 
 ## Status
 
-**Chapter 1 drafted** (`chapters/chapter-01.md`, medium, ~6,600 words).
+**Chapter 1 drafted** (`chapters/chapter-01.md`, medium, ~6,800 words).
 
 - `world-bible.md` covers the world, how griamores work, the Elemental
   Seven, the Demonic Seven, and rare powers.

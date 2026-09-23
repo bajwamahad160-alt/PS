@@ -371,8 +371,7 @@ it feels like."
 
 Owen wiped his hand on his trousers. His heart was going hard. He could
 feel Talia standing right behind him, and Jonah dripping on his shoe, and
-the clock on the wall behind Mr. Pettibone's desk ticking along with all
-the others.
+the clock on the wall ticking along with all the others.
 
 He put his hand on the book.
 
@@ -382,21 +381,23 @@ January, and also like the floor had tipped a little under his feet. It
 was everything at once, far too much to hold.
 
 Then it narrowed down, the way a crowd goes quiet when a door shuts, and
-all that was left was one small, clear feeling.
+all that was left was one small, clear feeling: *weight.* As if the whole
+room had leaned toward him, just slightly, the way a table leans when
+somebody sits on one end.
 
-*Tick.*
+Mr. Pettibone's pencil rolled off the ledger.
 
-The clock on the wall behind Mr. Pettibone stopped.
+It rolled across the desk, slowly, the wrong way. The desk was flat, and
+if anything it tipped toward the clerk, but the pencil rolled toward Owen
+anyway, across the blotter and past the ink pot, and bumped to a stop
+against the side of Owen's book. The ink in the ink pot had tilted too, all
+of it leaning against the near side of the glass. It held there for the
+length of a breath. Then the ink sloshed back level, and the pencil just
+lay there like a pencil.
 
-Only that one. The rest of the clocks in the hall went on ticking, and
-nobody in the other lines noticed a thing. But that one clock, right in
-front of Owen, stopped with its second hand stuck halfway between two
-marks. It hung there for the length of a breath. Then it jumped forward and
-went on ticking as if nothing had happened.
+Mr. Pettibone looked at the pencil, frowned, and picked it back up.
 
-Mr. Pettibone glanced at the clock, frowned, and glanced back down.
-
-The book under Owen's hand had gone cool and quiet. A mark was inking
+The book under Owen's hand had gone cool and quiet, and very heavy. A mark was inking
 itself onto the grey cloth, slowly, dark as a bruise. It wasn't a flame
 or a wave or any of the others from the ceiling. Owen didn't recognize it.
 Behind him, Jonah whispered, "What's *that* one?"
@@ -425,13 +426,13 @@ She looked at the book for a long time.
 
 It was, Owen would think later, a little bit too long.
 
-"Yes," she said at last. "That's Time."
+"Yes," she said at last. "That's Gravity."
 
 Behind Owen, Talia made a small sound.
 
-"Time?" Owen said.
+"Gravity?" Owen said.
 
-"Time. It's rare." Mrs. Harrow took her glasses off and let them fall on
+"Gravity. It's rare." Mrs. Harrow took her glasses off and let them fall on
 their chain. "There are a handful in the country. Maybe one every few years
 in a city this size. I've been at this desk thirty-eight years and I've
 stamped two." She said it simply, the way you'd tell someone the weather.
@@ -441,7 +442,7 @@ He did. The first page had filled. There was a single word written at the
 top in dark ink, and under it a line that explained what it did, as
 plainly as if it had always been printed there:
 
-**Hold.** *For a moment, the thing you name does not move forward.*
+**Lighten.** *For a moment, the thing you name weighs nothing.*
 
 He turned the page. It was blank. So was the next one. He flipped through
 faster. The book was thick, thicker than Pop's, thicker than Jonah's, and
@@ -457,28 +458,36 @@ Owen opened his mouth to tell her. *Too much. Hot and cold and heavy, all
 at once.* But it had only lasted half a second, and it sounded stupid even
 in his own head, and there was a whole line of people waiting behind him.
 
-"Cold," he said. "And then it ticked."
+"Cold," he said. "And then it got heavy."
 
 Mrs. Harrow held his eyes for one more moment. Then she nodded, once, and
 picked up the big stamp and brought it down on the ledger.
 
-"File number four-four-one-nine," she said. "Time. Happy birthday, Mr.
+"File number four-four-one-nine," she said. "Gravity. Happy birthday, Mr.
 Calder."
 
 She walked back down the row of desks, not hurrying.
 
 Talia grabbed Owen from behind before he'd even turned around, both arms
-tight around his neck, and she was laughing. "*Time!* Owen! That's *so*
+tight around his neck, and she was laughing. "*Gravity!* Owen! That's *so*
 much better than fire!"
 
 "Don't tell my dad that."
 
 "I'm telling *everyone.*" She let go and grabbed the book out of his hands
 to look at the mark, turning it in the light. For a second, she went still,
-her thumb on the cover. Then she handed it back and smiled. "It suits you.
-You were always late for everything. Now you've got an excuse."
+her thumb on the cover. Then she handed it back and smiled. "Do you know
+what Mr. Okafor said in physics? Back when we still went to physics?"
 
-"That's not how it works."
+"You went to physics. I slept in physics."
+
+"He said gravity moves at exactly the same speed as light. Exactly the
+same. Nobody knows why, it just does." She tapped the mark on his cover,
+and then the gold mark on her own shoulder. "So that's it. You can't get
+left behind. You'll always keep up with me."
+
+Owen didn't know what to say to that, so he said, "That's not how it
+works."
 
 "How do you know? You've had it for one minute."
 
@@ -494,14 +503,14 @@ rafters."
 
 "I *mean* it this time." She was already walking backward toward the door,
 Mr. Crane at her elbow, people parting around her white coat. "Happy
-birthday! Happy birthday! Owen, *Time!*"
+birthday! Happy birthday! Owen, *Gravity!*"
 
 Then she was gone through the big bronze doors, and the hall went back to
 its normal noise, and the clocks went on ticking.
 
 Jonah looked at Owen, and at the book, and at the doors.
 
-"*Time,*" he said. "You got Time. Nobody gets Time."
+"*Gravity,*" he said. "You got Gravity. Nobody gets Gravity."
 
 "Mrs. Harrow's stamped two."
 
@@ -519,7 +528,7 @@ They were walking the last stretch along the docks, Mrs. Pike somewhere up
 ahead telling a man selling eels exactly what she thought of his prices.
 The big cranes were swinging cargo off the freighters. A gull was diving at
 a crate of mackerel. Owen put his hand on the book, pointed with the
-other, and whispered, "*Hold.*"
+other, and whispered, "*Lighten.*"
 
 Nothing happened.
 
@@ -529,10 +538,10 @@ The gull grabbed a fish and wheeled away, screaming.
 
 "It's not broken." Owen frowned. He'd said it right. He'd had his hand on
 it. He tried to remember exactly what it had felt like at the desk, that
-one clear tick, and realized that he'd been looking at the book, not at the
+one clear weight, and realized that he'd been looking at the book, not at the
 gull. Thinking about the word, not the thing.
 
-*For a moment, the thing you name does not move forward.*
+*For a moment, the thing you name weighs nothing.*
 
 The thing you *name.*
 
@@ -541,15 +550,16 @@ of a crate, back and forth. Owen looked at it. Really looked at it, the way
 you'd look at somebody you were about to shout to across a crowded room.
 *That* rope.
 
-"*Hold.*"
+"*Lighten.*"
 
-The rope stopped in the middle of its swing, bent in a curve, like a
-drawing of a rope.
+The rope stopped swinging and started to *rise.* Its loose end lifted up
+off the crate and drifted upward in a lazy curl, slow and weightless, the
+way seaweed floats in a tide pool.
 
 It lasted about as long as it takes to breathe in. Then something sharp
 went through Owen's head, right behind his eyes, like a headache arriving
-all at once instead of slowly, and the rope finished its swing and knocked
-against the crate, *thunk*, as if nothing had happened.
+all at once instead of slowly, and the rope dropped and knocked against
+the crate, *thunk*, as if nothing had happened.
 
 Owen sat down hard on a bollard.
 
@@ -560,8 +570,8 @@ something. It *hurts.*"
 
 "Everything costs something," said Jonah, who was sixteen, or would be
 tomorrow, and had heard his mother say it about a thousand times. Then he
-looked at the rope, then at Owen, and started to laugh. "But you *stopped*
-it, Owen. You stopped a *rope.*"
+looked at the rope, then at Owen, and started to laugh. "But you *floated*
+it, Owen. You floated a *rope.*"
 
 Owen started laughing too, even though it made his head throb.
 
@@ -577,14 +587,15 @@ the way she knocked something off the table about twice a day, and before
 Owen could think about it his hand was flat on the book and he was looking
 right at the bottle.
 
-"*Hold.*"
+"*Lighten.*"
 
-The bottle stopped.
+The bottle stopped falling.
 
-It didn't slow down. It stopped, a foot off the floor, tilted over
-sideways, with a long curl of milk hanging out of its neck. The milk looked
-like glass. One drop hung below the rest, perfectly round, with the kitchen
-light caught inside it.
+It hung a foot off the floor, tilted over sideways, turning very slowly,
+and the milk that had been pouring out of its neck didn't fall either. It
+floated out into the air in a long white ribbon that wobbled and curled
+like it was underwater. One drop broke off the end and drifted up past
+Tess's nose, perfectly round, with the kitchen light caught inside it.
 
 Nobody breathed.
 
@@ -607,15 +618,15 @@ later that night to understand it was pride.
 "Well," Pop said, and his voice came out rough. "I'll be damned."
 
 Then he went and got the mop, because some things don't change just
-because your son can stop a milk bottle.
+because your son can float a milk bottle.
 
 ---
 
 Mom came home from the cannery at six, smelling like brine and tin the way
 she always did. She'd barely gotten through the door before Tess was
 hanging off her arm, shouting the whole day at her in one breath: *he got
-Time, it's rare, the lady's only stamped two, and he froze the milk, Mom,
-in the AIR, and Talia came, and she hugged him, and she's getting us
+Gravity, it's rare, the lady's only stamped two, and he made the milk
+FLOAT, Mom, in the AIR, and Talia came, and she hugged him, and she's getting us
 seats at the arena.*
 
 Mom set her bag down on the hook. She looked at Owen, who was sitting at
@@ -647,7 +658,7 @@ she'd heard the noise, and brought a jar of plums. Everybody wanted to see
 Owen's mark. Everybody wanted to see Jonah's too, and Jonah was so happy
 to show it that he soaked the tablecloth twice.
 
-Nobody asked Owen to do Hold again, because Tess did it for him instead.
+Nobody asked Owen to do Lighten again, because Tess did it for him instead.
 She acted out the milk bottle for every new person who came through the
 door, with sound effects, getting bigger and more dramatic every time,
 until by the fifth telling the bottle had been falling from the *ceiling*.
@@ -658,7 +669,7 @@ string. Inside were two tickets for Saturday at Harbor Arena, front row,
 with a note in the same handwriting as Tess's card:
 
 *Real seats. Told you. Happy birthday, both of you. I'm sorry about
-today. I'm sorry about a lot of days. Owen, you'd better be able to stop a
+today. I'm sorry about a lot of days. Owen, you'd better be able to lift a
 tram by Saturday. —T.*
 
 *P.S. Jonah, I know you drew the mustache.*
@@ -732,7 +743,7 @@ Jonah didn't get mad. He just nodded. "Yeah. For about a week. So were you."
 water book on his knees and smiled at it, a real smile, not a joke one. "I
 don't feel like that anymore, though. I got water. It's good. It's
 *mine.*" He glanced sideways at Owen's book, the thick grey one with the
-dark mark. "And you got Time, so now you're the weird one, and Talia's the
+dark mark. "And you got Gravity, so now you're the weird one, and Talia's the
 famous one, and I'm the handsome one. It all worked out."
 
 "You're not the handsome one."
@@ -780,8 +791,8 @@ his wristwatch. *I'm sorry about a lot of days.*
 "It's not like that," he said. "It's not Grandmaster. It's just rare."
 
 "I know it's not." Mom squeezed his hand once and let go. "I'm just
-telling you. Now go to bed. You've got school in the morning. Time or no
-time."
+telling you. Now go to bed. You've got school in the morning. Gravity or no
+gravity."
 
 ---
 
@@ -794,13 +805,13 @@ very top, the Ministry towers, where one of the high windows was still lit.
 He wondered if it was Talia's. Probably not. There were a lot of windows.
 
 He turned the empty pages under the streetlight, one after another, trying
-to imagine what would be on them. Stopping a tram. Stopping a fight.
+to imagine what would be on them. Lifting a tram. Catching someone falling off a crane.
 Being good enough at something that he could stand next to Talia in the
 white coat without feeling like he'd wandered in from the docks by
 mistake.
 
 The thing he kept coming back to, though, wasn't the milk bottle or the
-rope. It was that half second at the desk before the tick. The heat and
+rope. It was that half second at the desk before the weight. The heat and
 the cold and the floor tipping. He'd asked Jonah on the walk home, and
 Jonah had said his own book had just gone cold and wet, and that was all.
 No heat. No tipping floor.
@@ -817,7 +828,7 @@ bigger.
 
 He blinked.
 
-It was just the Time mark again. Just ink on grey cloth.
+It was just the Gravity mark again. Just ink on grey cloth.
 
 Owen yawned, tucked the book under his arm, and climbed back in through
 the window to bed.
@@ -845,7 +856,7 @@ Odile had thought they were fairy stories. Mostly, she still did.
 She unfolded the page and laid it flat under the lamp.
 
 On it, in her grandmother's careful hand, were seven marks drawn in faded
-ink, each with a word written underneath. Time was one of them. It looked
+ink, each with a word written underneath. Gravity was one of them. It looked
 exactly like the one she'd stamped into the ledger that morning.
 
 But that wasn't the one she was looking at.
@@ -854,7 +865,7 @@ At the very bottom of the page, set apart from the others, there was one
 more mark, larger than the rest. Her grandmother had drawn it with more
 care than all the others put together. And inside it, if you knew where to
 look, fitted neatly among its lines as if it had always been just one small
-piece of something bigger, was the Time mark.
+piece of something bigger, was the Gravity mark.
 
 Under it, her grandmother had written a single word:
 
@@ -863,7 +874,7 @@ Under it, her grandmother had written a single word:
 And under that, in smaller letters: *All of them.*
 
 Mrs. Harrow sat and looked at it for a long time. She thought about the
-clock behind Mr. Pettibone's desk, stopping for one breath. She thought
+pencil on Mr. Pettibone's desk, rolling the wrong way for one breath. She thought
 about the boy's face when she'd asked him what he'd felt, and the half
 second he'd waited before he said *cold.*
 

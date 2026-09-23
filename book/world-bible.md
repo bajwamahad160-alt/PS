@@ -89,7 +89,7 @@ schoolbooks, or the Bindery's records.
 **Reqrium** is the author's own word. It means **all of them**: the power
 of every other griamore in one book.
 
-### Rare powers: how Time can be "rare" if everyone forgot
+### Rare powers: how Gravity can be "rare" if everyone forgot
 
 Weak everyday versions of the demonic powers (Time, Space, Gravity, and so
 on) still get handed out at the Bindery, but they're **rare**: maybe one
@@ -101,8 +101,12 @@ that the books are demonic, and that one of them is Reqrium.
 ### Owen's griamore
 
 Owen holds **Reqrium** and doesn't know it. When it bound to him, it showed
-only the Time mark and filled only its first page. The Bindery filed it as
-a rare Time book, and Owen believes that's what he has. The reader
+only the Gravity mark and filled only its first page. The Bindery filed it
+as a rare Gravity book, and Owen believes that's what he has.
+
+Why Gravity *(author's decision)*: gravity and light travel at the same
+speed, which ties Owen to Talia, the Light Grandmaster. In Chapter 1 she
+tells him that means he'll always keep up with her. The reader
 learns the truth at the end of Chapter 1. Owen doesn't.
 
 ## Open questions
@@ -118,14 +122,15 @@ learns the truth at the end of Chapter 1. Owen doesn't.
 
 ## Seeds planted in Chapter 1
 
-- **Hold** is Owen's first spell. It only works if he focuses on the thing
-  itself, and it causes a sharp headache after about one breath.
+- **Lighten** ("for a moment, the thing you name weighs nothing") is
+  Owen's first spell. It only works if he focuses on the thing itself, and
+  it causes a sharp headache after about one breath.
 - When Owen touched his book, he felt every power at once for half a
-  second before it settled into Time. He told Mrs. Harrow he only felt
-  "cold."
+  second before it settled into weight. At the desk, a pencil rolled
+  the wrong way toward his book. He told Mrs. Harrow he only felt "cold."
 - **Mrs. Harrow** remembers the Demonic Seven only as her grandmother's
   "fairy stories." Her grandmother, who also worked at the Bindery, left
-  her a page with all seven demonic marks, including Reqrium with the Time
+  her a page with all seven demonic marks, including Reqrium with the Gravity
   mark hidden inside it.
 - Talia's hand is always warm now, and she went still for a second when
   she held Owen's book.

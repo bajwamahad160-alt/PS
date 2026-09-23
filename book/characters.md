@@ -13,9 +13,9 @@ A guy named Owen. Everything past that is still open.
 - **Background:** grew up working-class on the docks of the big city.
   Knows every Grandmaster's stats off the trading cards and assumed he'd
   end up with a small, ordinary fire griamore like his dad.
-- **The hook:** at the Bindery his griamore shows the Time mark, a rare
+- **The hook:** at the Bindery his griamore shows the Gravity mark, a rare
   power, and he's thrilled. It's actually **Reqrium**, the most
-  powerful of the forgotten Demonic Seven, wearing Time as a disguise.
+  powerful of the forgotten Demonic Seven, wearing Gravity as a disguise.
   Owen doesn't know. *(Author's decision.)*
 
 ## Supporting cast

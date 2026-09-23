@@ -31,7 +31,7 @@ is **medium**, since an opening chapter has a lot of setup to cover.
 **Chapter 1 drafted** (`chapters/chapter-01.md`, medium, ~6,800 words).
 
 - `world-bible.md` covers the world, how griamores work, the Elemental
-  Seven, the Demonic Seven, and the Irregulars.
+  Seven, the Demonic Seven, and rare powers.
 - `characters.md` covers Owen and the cast so far.
 - Logos for all 14 griamores are **still to come from the author**. The
   chapter only calls them "the mark" so the real designs can slot in.

@@ -1,41 +1,53 @@
 # Chapter One: The Bindery
 
-The radio in the kitchen was already shouting when Owen came down the
-stairs.
+The radio in the kitchen was already going when Owen came down the stairs.
 
-"...and that's the fourth straight title defense for the Flame Grandmaster,
-folks! Cassius Rourke! I have been calling duels at Harbor Arena for eleven
-years, and I have never, never seen a man set the *air itself* on fire..."
+"...and the new Light Grandmaster was back at Harbor Arena last night,
+folks, for her very first exhibition. Sixteen years old and five months on
+the job, and I don't mind telling you, when Talia Reyes lit up that arena I
+had to take my hat off to shade my eyes..."
 
-"Turn it down, Tess."
+"Turn it up!" Tess said.
 
-"It's the replay." His sister didn't look up. She was ten, sitting
-cross-legged on a kitchen chair with her trading cards spread over the table
-in neat rows, like she was running a bank. The seven Grandmasters had the
-middle of the table to themselves. Seven foil cards, a little bent at the
-corners, the only seven she would never trade. "You can't turn down a
-replay. That's the rule."
+"It's loud enough."
 
-"Whose rule?"
+"It's *Talia*." His sister was ten, sitting cross-legged on a kitchen chair
+with her trading cards spread over the table in neat rows, like she was
+running a bank. The seven Grandmasters had the middle of the table to
+themselves. The newest card sat right in the center, still shiny, with no
+bent corners at all. It showed a girl with her dark hair tied back and her
+hand raised, light pouring off her fingers. Across the bottom, in gold
+letters: TALIA REYES, LIGHT GRANDMASTER.
 
-"Mine."
+And under that, in blue ink and slightly smudged, in handwriting Owen had
+been reading off notes passed in class since they were seven: *To Tess, my
+number one fan. Don't trade me. —T.*
+
+"I'm never trading her," Tess said, as though Owen had suggested it. "Not
+even for Rourke."
+
+"Nobody asked you to trade her."
+
+"People ask me *every day.*"
 
 Pop was at the stove with his sleeves rolled up and his work shirt already
 buttoned for the early shift at the Eastside power station. He snapped his
-fingers over the burner, and a flame the size of a match flicked to life and
-caught the gas. It was the same small, tidy flame he'd made every morning
-of Owen's life, the same one he fed into the boilers at the station eight
-hours a day, six days a week. His griamore sat on the windowsill with its
-cloth cover faded from red to a tired pink. It was thin. Most people's were.
+fingers over the burner, and a flame the size of a match flicked to life
+and caught the gas. It was the same small, tidy flame he'd made every
+morning of Owen's life, the same one he fed into the boilers at the station
+eight hours a day, six days a week. His griamore sat on the windowsill with
+its cloth cover faded from red to a tired pink. It was thin. Most people's
+were.
 
 "There he is," Pop said. "Sixteen. How's it feel?"
 
 "Same as fifteen."
 
-"Give it till lunch." Pop slid a plate across the table, one fried egg and
-a bun with a candle stuck in it that nobody had lit yet. "Your mother left
-that before her shift. Says happy birthday, says don't be a smart mouth at
-the Bindery, says wear the good shirt."
+"Give it till lunch." Pop slid a plate across the table: one fried egg and a
+bun with a candle stuck in it. "Your mother left that before her shift.
+Says happy birthday, says don't be a smart mouth at the Bindery, says wear
+the good shirt. Oh, and says tell Jonah happy birthday, and that his mother
+owes her a cake tin from last year."
 
 "I'm wearing the good shirt."
 
@@ -43,530 +55,471 @@ Pop looked at the shirt. "That's the good shirt?"
 
 "It's the one without the hole."
 
-Tess finally looked up from her cards. "Light the candle. You have to make
-a wish."
+Tess looked up from her cards. "Light the candle. You have to make a wish."
 
 "I'm not making a wish."
 
 "Everyone makes a wish on Bindery day," Tess said, with the patience of
-someone explaining something to a very small child. "You wish for your
-book. Everyone wishes for Grandmaster. Nobody gets it, but you wish anyway."
+someone explaining something to a very small child. "Talia made a wish."
+
+That stopped him for a second. It was true. Five months ago, in this same
+kitchen, on Talia's sixteenth birthday, she'd sat right where Owen was
+sitting now, and Pop had lit a candle in a bun for her too, because her own
+dad worked nights and somebody had to. She'd squeezed her eyes shut and
+wished so hard her nose wrinkled. Afterward Owen had asked what she'd wished
+for, and she'd said, *Something good. Something that gets us out of here.*
+*Us,* she'd said, not *me.*
+
+Then she'd gone up the hill to the Bindery and come back the Light
+Grandmaster.
 
 Pop reached over and snapped his fingers above the bun. The candle caught.
 
 Owen looked at it. Everybody knew the odds. Seven Grandmaster books in the
-whole world, and they came around once a generation, to seven people out
-of millions. You didn't wish for Grandmaster. You might as well wish for
-the moon. You wished for fire, because fire was steady work at the power
-station. Water was good too, since the canals and the fire brigade were
-always hiring. Earth got you onto a construction crew, and the pay was good
-if you didn't mind heights. Air was harder, mostly airship work, though
-some people got rich off it.
+whole world, and a Grandmaster book only came free when its holder died.
+The old Light Grandmaster had passed away last winter, at ninety-one, in
+his sleep. For three months after that, every sixteen-year-old in the
+country had gone to the Bindery holding their breath. Then one Tuesday in
+the spring, a girl from Cable Street had put her hand on a blank book, and
+that had been that.
 
-What Owen actually wanted was harder to say out loud. He didn't need
-Grandmaster. He wanted something that wasn't the docks. He wanted a book
-with a few more pages in it than Pop's, enough that he might get to be
-something other than a file number with a flame the size of a match.
+Lightning didn't strike the same street twice. You didn't wish for
+Grandmaster. You wished for something good and steady, the kind of book
+people could build a life on: fire for the power station, water for the
+canals and the fire brigade, earth for the construction crews. Or one of
+the hundred other kinds of books people got every day. Strength for the
+docks. Healing for the hospital. Sound, if you wanted to work in radio.
+Metal, if you wanted to work anywhere at all, because the foundries were
+always hiring.
+
+What Owen wanted was harder to say out loud. He didn't need Grandmaster. He
+just didn't want to be left standing on Cable Street waving while the
+people he loved got on airships.
 
 He blew out the candle and didn't say what he'd wished for.
 
-"Did you wish for Flame?" Tess demanded. "You wished for Flame. Everyone
-wishes for Flame."
+"Did you wish for Grandmaster?" Tess demanded. "You wished for
+Grandmaster. You can't. Talia already got Light and all the other ones are
+old but not *that* old."
 
 "Eat your breakfast, Tess."
 
 "I already ate my breakfast. I'm doing inventory."
 
-On the stairs down, every landing had something to say about it. Mrs.
-Abernathy on the second floor was out on her doorstep in her housecoat,
-watering the geraniums in her window box by crooking one finger at them.
-Her water came up out of the can in a thin, lazy thread. She'd been doing
-it that way for forty years.
-
-"Bindery day!" she called. "Look at you in the good shirt. You come show me
-the minute you're back, you hear? I want to see it before your sister puts
-it on a card."
-
-"Yes, Mrs. Abernathy."
-
-On the first floor, the Delgado twins, who were twelve and terrible, were
-sitting on the bottom step waiting for him. They'd made a sign on the back
-of a cereal box that said GOOD LUCK OWEN in crayon, and under it, smaller,
-PLEASE GET AIR SO YOU CAN FLY US AROUND.
-
-"Nobody flies with air," Owen told them. "That's only the Grandmaster."
-
-"*You* could be the Grandmaster," said one of the twins.
-
-"The Air Grandmaster is forty-two and lives in the capital, in a house
-with an airship dock on the roof."
-
-"She might die," the other twin said hopefully.
-
-"Don't say that," said Owen. "That's a horrible thing to say," and he took
-the sign anyway, because they'd used a lot of crayon on it, and folded it
-into his back pocket, and went out the door into the morning.
-
 ---
 
-Jonah was waiting at the tram stop at the bottom of Cable Street, leaning on
-the lamppost in a cap too big for him. He'd gotten his griamore last month,
-an ordinary water book, blue-grey, with about twenty pages filled. When he
-saw Owen coming he flicked two fingers, and a spit of water came up out of
-the gutter and hit Owen square in the ear.
+Jonah was waiting at the bottom of Cable Street, leaning on the lamppost in
+his brother's old cap, which was too big for him. He had a paper crown on
+top of it that said BIRTHDAY BOY in his little sister's handwriting.
 
-"Happy birthday."
+"Happy birthday," Owen said.
 
-"You're gonna get arrested for that one day."
+"Happy birthday," Jonah said back.
 
-"For water? Nobody gets arrested for water." Jonah grinned. "Nervous?"
+They'd been saying it to each other every year for sixteen years. Their
+mothers had been in the same ward at Harbor Hospital on the same night,
+in beds right next to each other, and Owen had been born at eleven at
+night and Jonah twenty minutes after midnight. Technically, that meant they
+had different birthdays. Jonah's mother had gone to the records office
+twice to argue about it, and lost both times, and so Jonah's birth
+certificate said one date and Owen's said the day before. Neither family
+had ever once paid attention to that. They'd had every birthday party
+together since they were born: one cake, two names on it, and a fight every
+year about whose name went on top.
 
-"No."
+Which meant, according to the Bindery, Owen was supposed to register today
+and Jonah tomorrow.
 
-"You're nervous. I threw up, before mine. Right on the steps. There's a guy
-there, all he does is mop." The tram came clanking down the hill, sparking
+"I'm not coming back tomorrow," Jonah said. "I asked. You can come a day
+early if you bring your mother and she yells. My mother's meeting us there.
+She's going to yell."
+
+"She's good at that."
+
+"She's the best at it. It's her griamore. She's got sound." Jonah grinned.
+"Talia coming?"
+
+"She said she'd try."
+
+"She *said.*" Jonah pulled the paper crown off and turned it around in his
+hands. "She said she'd come to the picture house last week too."
+
+"She had a thing at the Ministry."
+
+"She's always got a thing at the Ministry."
+
+Owen didn't say anything. The tram came clanking down the hill, sparking
 on the overhead wire, and they swung up onto the back rail without paying.
-"Don't worry about it. You'll get fire. Your pop got fire, your grandpa got
-fire, you'll get fire, you'll get a job at the station, and in thirty years
-you'll be snapping your fingers at a stove, just like him."
 
-"Thanks, Jonah. That's great. That's real inspiring."
+Port Aldren rolled past: the fish markets and the cannery smokestacks,
+the big cranes at the harbor where the earth crews and the strength crews
+lifted cargo off freighters by hand, the laundry lines strung between
+tenements. Farther up, the city climbed the hill. The buildings got taller
+and cleaner there, with electric signs in the windows and motorcars
+shining at the curbs. At the very top, the Ministry's white towers stood
+with a government airship moored at the mast, its silver belly catching
+the morning sun.
 
-"I'm just saying. It's a good life."
+At the corner of Market Street, the tram passed a warehouse with a poster
+on the side of it twenty feet tall. It was Talia, the same picture as on
+Tess's card: hand raised, light pouring off her fingers, her face calm
+and serious in a way Owen had never once seen it look in real life. Under
+her, in huge letters: THE LIGHT OF PORT ALDREN.
 
-It *was* a good life. That was the problem. Owen stood on the back rail
-with the wind in his face and watched Port Aldren roll past: the fish
-markets and the cannery smokestacks, the big cranes at the harbor where the
-earth crews lifted cargo off freighters with their bare hands, the laundry
-lines strung between tenements. Farther up, the city climbed the hill. The
-buildings got taller and cleaner there, with electric signs in the windows
-and motorcars shining at the curbs. At the very top, the Ministry's white
-towers stood with a government airship moored at the mast, its silver belly
-catching the morning sun.
+Somebody had drawn a mustache on her.
 
-At the Market Street stop a newsboy jumped onto the running board with a
-stack of papers under his arm, yelling the headline before the tram had
-even slowed down. "*Rourke keeps the crown! Flame Grandmaster four for four!
-Water Grandmaster sails for the Southern Isles, read all about it!*" Nobody
-bought one. Everybody had heard it on the radio already. The boy jumped off
-again at the next corner, where a poster of the Water Grandmaster, twenty
-feet tall, was peeling off the side of a warehouse. Her face was faded by
-the weather, and somebody had drawn a mustache on her.
+Owen looked at Jonah.
 
-"You ever think about it?" Owen said.
+"What?" said Jonah innocently.
 
-"About what?"
+"You didn't."
 
-"Being one of them. Being on the side of a building."
+"She *likes* it. I told her. She laughed so hard she snorted." Jonah
+settled his crown back on his cap. "Somebody's got to remind her she used
+to eat paste."
 
-Jonah snorted. "Everyone thinks about it. You think about it for about a
-week when you're eight, and then you grow up and get a job." He tugged his
-cap down against the wind. "My cousin thought about it. He went to the
-Bindery, got air, thought he was gonna be a big shot. Now he stands on top
-of a mast at the airship dock blowing on the ropes so they don't tangle.
-Twelve hours a day. He says his lips hurt."
+"She never ate paste."
 
-"That's a real job?"
+"She ate paste *once*, and I'll never let it go, because that's what
+friends are for."
 
-"That's a real job, Owen. That's the point. They're all real jobs."
-
-Owen didn't say anything to that. The tram ground its way up the hill.
-
-Halfway up the hill sat the Bindery.
+Owen laughed, and for a minute it felt like any other birthday. Then the
+tram ground its way up the hill, and the Bindery came into view.
 
 ---
-
-Up close it was even bigger than it looked from the tram. Wide white steps
-climbed up to a row of columns, and over the bronze doors, carved into the
-stone in letters as tall as Owen, were the words every kid in the country
-learned before they could read:
-
-SEVEN GIFTS. ONE PEOPLE. A BOOK FOR EVERY HAND.
-
-Under the words, the seven Grandmaster marks were cut into the stone in a
-long row. Somebody had put a lot of care into making the row look finished.
-It began exactly at the left edge of the doorway and ended exactly at the
-right, with no space left over anywhere. Owen had seen that carving in his
-schoolbooks a hundred times. He'd never noticed before how *tight* it was.
-It looked less like a row than like a fence.
-
-"This is the spot," said Jonah, pointing at a step with deep satisfaction.
-"This is where I threw up."
-
-"Thank you, Jonah."
-
-"Historic spot. They should put a plaque."
 
 It was the biggest building Owen had ever been inside. The whole place was
-marble, cold and echoing, with brass rails that split the floor into long
-lines and a ceiling painted with the seven Grandmaster marks in gold leaf,
-so high up you had to lean back to see them. Clocks hung all along the far
-wall, dozens of them, one for every district office in the country, all
-ticking together. The ticking was the first thing you noticed and the last
-thing you stopped hearing.
+white marble, cold and echoing, with brass rails that split the floor into
+long lines and a ceiling painted with the seven Grandmaster marks in gold
+leaf, so high up you had to lean back to see them. A big clock hung on the
+wall behind every clerk's desk, and all of them ticked together, so the
+whole hall had a slow, steady pulse to it.
 
 The line was full of sixteen-year-olds and their mothers. A sign at the
 front said HAVE YOUR BIRTH CERTIFICATE READY in letters two feet tall. A
 man with a mop was leaning against the wall by the door, looking bored.
 
-"Told you," Jonah whispered.
+Mrs. Pike was already there, halfway to the front, holding her place in
+line with her elbows. "*There* you are," she said, in a voice that carried
+the whole length of the hall without her having to raise it at all. That
+was her sound griamore. She could whisper and be heard from across a
+street, which had made her the most feared mother on Cable Street. "Get
+in here. Happy birthday, both of you. Owen, your mother owes me a cake
+tin."
 
-It went slowly. At the front of each line was a desk, and at each desk was
-a clerk in a green visor, and in front of each clerk was a stack of blank
-books, plain grey cloth, all the same. You gave your name. You put your
+"She says you owe her one."
+
+"She's a liar and I love her. Get in line."
+
+It went slowly. At the front of each line was a desk, at each desk was a
+clerk in a green visor, and in front of each clerk was a stack of blank
+books: plain grey cloth, all the same. You gave your name. You put your
 hand on a book. And then something happened.
 
-A girl two lines over put her hand down and the cover went hot enough to
-smoke. A red mark inked itself onto it, and her whole family screamed and
-hugged each other, because fire was steady work, fire was the power station.
-A tall boy at the next desk got water, and the book soaked through and
-dripped onto the marble, and the man with the mop sighed and went over to
-it. A skinny kid near the front got nature, and a little green shoot pushed
-its way up out of the spine of his book. He looked like he might cry, and
-not because he was happy.
+Owen had been to watch before, and none of it surprised him. It was the
+same every year. A girl two lines over put her hand down and her book went
+hot and smoked a little, and a red mark inked itself onto the cover, and
+her whole family cheered, because fire was the power station. A tall boy
+got water, and his book soaked through and dripped on the marble, and the
+man with the mop sighed and went over to it. A heavyset kid got strength
+and accidentally lifted the front of the desk an inch off the floor, and
+the clerk said "*Put it down, please,*" without even looking up. A small
+girl got healing, and a boy right after her got sound and said "Oh!" so
+loud it rattled the windows, and then clapped both hands over his mouth,
+horrified, while everybody laughed.
 
-Then a stocky boy at the fourth desk put his hand down and yelled, because
-his book didn't just go hot. It *went up.* A column of flame shot straight
-off the cover, higher than his head, and caught the edge of a velvet rope,
-and for one second the whole line jumped back screaming.
+Nobody made a fuss over any of it. A book was a book. A mark was a mark. It
+was a good day, and a normal one.
 
-A woman in a grey Bindery uniform was already moving. She didn't run. She
-walked over, opened her own griamore with one hand, and made a small
-closing motion with the other, like she was shutting a drawer. The fire
-folded down into itself and went out with a hiss, and a puff of cold steam
-drifted up toward the gold ceiling. The velvet rope smoked a little. The
-stocky boy stood there white as paper, holding a book that was still too
-hot to look at.
+"Remember Talia's?" Jonah said quietly.
 
-"First touch," the woman said to his mother, not unkindly. "Happens twice
-a week. He'll want lessons. There's a leaflet at the door." Then she went
-back to her post by the wall, and the line shuffled forward like nothing
-had happened.
+Owen remembered.
 
-"Twice a week," Jonah muttered. "Great. Love that."
+He and Jonah had skipped school to come up with her that day, five months
+ago. They'd stood right about here. She'd put her hand on the cover, and
+nothing had happened for a second. Then the gold Light mark on the ceiling
+above them, eighty feet up, had started to *glow*, and a clean white light
+had poured down out of it and filled the whole hall, every corner, so bright
+that for a moment there were no shadows anywhere. Everybody in the building
+had gone completely silent. Talia had stood there in the middle of it with
+her hand on the book and turned around to look at the two of them, and Owen
+would never forget her face. She hadn't looked happy. She'd looked
+*scared,* as if she'd been trying to find them in the crowd before
+everything changed.
 
-Owen realized his hands were sweating. He wiped them on his trousers.
+After that, it was men in grey suits and a motorcar and the Ministry and the
+papers. She'd come back to Cable Street, the first few weeks. Then less.
+She had her own rooms up the hill now, in the Ministry towers, and a trainer
+and a handler and a schedule. Last month she'd had dinner with the Prime
+Minister. She'd written Owen a letter about it that was four pages long and
+mostly about how the soup had had a whole fish in it, head and all, looking
+at her.
 
-"What if I get nothing?" he said quietly.
+He still had the letter. He'd read it maybe thirty times.
 
-"Nobody gets nothing."
+"She'll come," Owen said.
 
-"What if I get something small, then? Like, really small. Like Pop's."
+Behind them, somebody in the line gasped. Then somebody else did. Then the
+whole back half of the hall went quiet, and a murmur started at the doors
+and rolled forward like a wave: *it's her, it's her, that's the Light
+Grandmaster.*
 
-Jonah looked at him sideways, and for a second he wasn't joking. "Would
-that be so bad?"
+Owen turned around.
 
-Owen thought about Pop coming home every night with soot in the creases of
-his knuckles. About Pop falling asleep in his chair before the radio
-program was over. About the way Mom counted coins out on the kitchen table
-at the end of every week, twice, to be sure.
+Talia was coming across the marble floor. She was wearing a long white coat
+with the Light mark stitched on the shoulder in gold, the kind of coat
+Grandmasters wore in the newsreels. There was a man in a grey suit right
+behind her, walking fast and checking his wristwatch. People were stepping
+back out of her way. A little boy pointed and his mother pulled his hand
+down.
 
-"No," he said. "It wouldn't be bad. I just..." He didn't know how to finish
-it. "I want it to be *mine*. You know? Not just the next one in line."
+Talia didn't seem to see any of them. She was looking up and down the lines,
+searching, and then she found Owen and Jonah and her whole face changed, and
+she broke into a run.
 
-Jonah didn't say anything for a while. Then he flicked Owen in the ear
-again, gently this time, with no water at all.
+She hit Owen so hard in the hug that he stumbled back into Mrs. Pike, who
+said "*Oof*," loud enough to echo off the ceiling.
 
-"You're weird on your birthday," he said.
+"Happy birthday," Talia said into his shoulder. "Happy birthday, happy
+birthday. I thought I was going to miss it. There was a *thing.*"
 
-And then, at the desk nearest the front, a boy in a real suit put his hand
-on his book, and the whole hall went bright.
+"There's always a thing," Jonah said.
 
-It wasn't dangerous, just bright, a clean white light that washed out
-every shadow in the room for a full second before it faded. People turned
-to stare. The boy's book had gone thick, easily sixty pages filled at a
-glance, and the mark on its cover glowed faintly gold.
+Talia let go of Owen and grabbed Jonah, crown and all, and hugged him too.
+"Don't start. Happy birthday, Jonah. I like your crown."
 
-"Light," Jonah breathed. "Strong one, too. Look at the pages on that."
+"Thank you. I like your mustache."
 
-"Who is he?"
+She shoved him, laughing, and she snorted a little, exactly like she used
+to. Up close, she looked tired. There were shadows under her eyes that
+hadn't been there five months ago. But she was still Talia, with a scab
+on her knuckle from something and a pencil stuck behind her ear, and Owen
+felt something unclench in his chest that he hadn't known was clenched.
 
-"That's Julian Vance. Hill family. Look at his shoes." Jonah shook his head. "Of
-course the hill kid gets sixty pages."
+The man in the grey suit cleared his throat. "Miss Reyes. Twenty minutes.
+The airfield."
 
-Julian Vance didn't look surprised. He looked like someone who had been
-told what he would get and had simply been proven right. He tucked the book
-under his arm, nodded to the clerk like the clerk worked for him, and walked
-out past the lines. On his way by, his eyes landed on Owen's shirt, the good
-shirt, for exactly as long as it took to decide what it was worth.
+"I know, Mr. Crane."
+
+"The *Prime Minister's* airfield."
+
+"I *know,* Mr. Crane." Talia turned back to them and rolled her eyes where
+only they could see. "I have to go stand next to a ribbon while somebody
+cuts it. Very important Grandmaster business. I've got twenty minutes and
+I'm spending them here." She took Owen's hand and squeezed it. Her hand was
+warm, much warmer than a normal hand, as if she'd been holding a cup of
+tea. "So what's it going to be? Fire? You'll get fire. Your dad got fire."
+
+"Everyone keeps saying that."
+
+"Because it's *true.* You'll get fire, and Jonah will get water, because
+Jonah's already so annoying, and water's the most annoying one."
+
+"Hey," said Jonah.
+
+"And then we'll all go get a cake at Sorrell's, except I can't, because of
+the ribbon." Her face fell for a second. "I'm sorry. I really am."
+
+"It's fine," Owen said, and he mostly meant it.
+
+People were still staring. The clerks were staring. The woman at the next
+desk had actually stopped stamping. Talia pretended not to notice, and Owen
+realized with a small jolt that she'd had five months of practice at
+pretending not to notice.
+
+"*Next,*" called the clerk at the front of the line, a little louder than
+he needed to.
+
+It was Jonah.
+
+---
+
+Jonah gave his name and his certificate, and Mrs. Pike leaned over his
+shoulder and explained to the clerk, at length and at great volume, that
+the birth certificate was *wrong* and her son had been born on the same day
+as Owen Calder in every way that counted. The clerk, who had clearly heard
+every possible argument from every possible mother in twenty years behind
+that desk, just said "Hand on the book, please."
+
+Jonah put his hand on the book.
+
+It went cold and wet at once, and water ran out from under his palm and
+soaked the whole cover, dripping off the edge of the desk. A blue mark
+inked itself onto the front, a clean, simple one.
+
+"Water," said the clerk, and stamped it.
+
+Jonah stared at his book. Then he grinned, wide, and turned around and held
+it up to Talia. "*Annoying,*" he said. "Look at that. Twenty pages. I'm
+gonna be so annoying."
+
+"You already were," said Talia, but she was beaming. Mrs. Pike kissed him
+on both cheeks and then on top of the crown. The man with the mop sighed and
+came over.
 
 Then it was Owen's turn.
 
 ---
 
 The clerk was a thin, tired man with a pencil behind his ear and a nameplate
-that said MR. PETTIBONE. He didn't look up.
+that said MR. PETTIBONE. He looked at Owen's certificate, looked at his
+ledger, wrote a number, and slid a blank book across the desk. Just grey
+cloth and blank pages, with a faint smell of dust and glue.
 
-"Name."
+"Palm flat on the cover," Mr. Pettibone said. "Don't pull away, whatever
+it feels like."
 
-"Owen Calder."
-
-"Certificate."
-
-Owen handed it over. Mr. Pettibone looked at it, looked at a ledger, wrote
-a number, and slid a blank book across the desk. It was just grey cloth and
-blank pages, with a faint smell of dust and glue.
-
-"Palm flat on the cover," Mr. Pettibone said. "Don't pull away, whatever it
-feels like. Some people get warm. Some people get wet."
-
-"Wet?"
-
-"Water books." Mr. Pettibone pointed at the man with the mop without
-looking. "Why do you think we have him?"
-
-Owen wiped his hand on his trousers. His heart was going hard. Behind him,
-Jonah said, "Go on," and somebody's mother said, "*Some* of us have
-somewhere to be," and the clocks ticked along the far wall, all of them
-together.
+Owen wiped his hand on his trousers. His heart was going hard. He could
+feel Talia standing right behind him, and Jonah dripping on his shoe, and
+the clock on the wall behind Mr. Pettibone's desk ticking along with all
+the others.
 
 He put his hand on the book.
 
-It didn't get warm and it didn't get wet. For one second it was
-*everything.*
+For about half a second, it was too much. It felt like standing too close
+to the boilers at the station, and also like jumping into the harbor in
+January, and also like the floor had tipped a little under his feet. It
+was everything at once, far too much to hold.
 
-Heat, like standing in front of the station furnace. Cold, like jumping
-off the pier in January. A wind that wasn't blowing. A weight in his
-stomach, as if the floor had tipped and the whole building were sliding
-toward him. A hum under everything, like the wires on the tram. And
-something that was almost a voice, almost somebody else's thought, sitting
-right at the edge of his mind, close enough to touch.
-
-Then it all slammed shut, as if someone had kicked a door closed, and it
-narrowed down to one single thing.
+Then it narrowed down, the way a crowd goes quiet when a door shuts, and
+all that was left was one small, clear feeling.
 
 *Tick.*
 
-Every clock in the Bindery stopped.
+The clock on the wall behind Mr. Pettibone stopped.
 
-Not just the nearest one. All of them, every clock on the far wall, dozens
-of them, stopped at the same moment. The ticking that filled the hall, the
-sound you stopped hearing after five minutes, was suddenly gone. The quiet
-was so total that Owen heard the man with the mop set his bucket down.
+Only that one. The rest of the clocks in the hall went on ticking, and
+nobody in the other lines noticed a thing. But that one clock, right in
+front of Owen, stopped with its second hand stuck halfway between two
+marks. It hung there for the length of a breath. Then it jumped forward and
+went on ticking as if nothing had happened.
 
-People turned. Mr. Pettibone finally looked up, at the wall and then at
-Owen. Down the row, the woman in the grey uniform had taken two quick steps
-toward his desk with her hand on her own griamore, and then she stopped,
-because there was nothing to put out. There was no fire and no water on the
-floor. There was just a skinny dock kid with his hand on a book, and a room
-full of clocks that had forgotten how to move.
+Mr. Pettibone glanced at the clock, frowned, and glanced back down.
 
-And under the silence, Owen could still hear one tick.
+The book under Owen's hand had gone cool and quiet. A mark was inking
+itself onto the grey cloth, slowly, dark as a bruise. It wasn't a flame
+or a wave or any of the others from the ceiling. Owen didn't recognize it.
+Behind him, Jonah whispered, "What's *that* one?"
 
-It wasn't coming from the wall. It was coming from inside his own chest,
-right behind his breastbone, slow and steady, like a second heartbeat that
-had always been there and that he'd just never been quiet enough to hear.
-*Tick.* A long, long pause. *Tick.* He had the strangest feeling that if he
-wanted to, he could reach in and hold it still, and the whole room would
-stay exactly like this, forever. Every face turned toward him. Every mouth
-half open. Every clock stopped.
+Mr. Pettibone didn't know either, but he didn't seem bothered. He pulled
+a big, heavy registry off the shelf behind him, a book as thick as a loaf
+of bread with a mark on every page, and began flipping through it. Past
+fire and water and earth, past strength and healing and sound and metal and
+dozens more, all the way to a thin section at the very back with a faded
+red tab that said RARE.
 
-He didn't want to. The thought scared him badly. He let go of it.
+He stopped. He looked at the page, and then at Owen's book, and then at the
+page again.
 
-Then the clocks started again, all of them, together, exactly one second
-late.
-
-Owen pulled his hand back. The book was cold under his palm, colder than it
-should have been. On the grey cover, slowly, as if an invisible pen were
-drawing it, a mark was inking itself into the cloth. It was dark, almost
-black. It wasn't a flame or a wave. It wasn't anything from the ceiling or
-from Tess's cards.
-
-Mr. Pettibone stared at it.
-
-"That's not elemental," he said.
-
-"What?"
-
-"That's not—" Mr. Pettibone stood up, which Owen got the impression he did
-not do often. "Stay here. Don't touch anything. Don't touch *that.*" He
-leaned over and called down the row of desks, in a voice that went up at
-the end: "Mrs. Harrow?"
+"Huh," said Mr. Pettibone. Then, over his shoulder, "Mrs. Harrow? Can
+you check one?"
 
 ---
 
 Mrs. Harrow was old, older than anyone else working the floor, with white
 hair pinned up tight and a pair of reading glasses on a chain around her
-neck. She came down the row of desks without hurrying. She looked at the
-clocks on the wall once, the way you'd look at a dog that had just barked
-at nothing. Then she looked at the book.
+neck. She came down the row of desks without hurrying, put on the glasses,
+and looked at the registry. Then she looked at the book.
 
-She looked at it for a long time.
+She looked at the book for a long time.
 
-It was, Owen would think later, just a little bit too long.
+It was, Owen would think later, a little bit too long.
 
-Then she looked at him instead. She had pale grey eyes, sharp as a
-tailor's pins, and they went over his face slowly, like she was reading
-small print.
+"Yes," she said at last. "That's Time."
 
-"When you touched it," she said, quietly enough that only he and Mr.
-Pettibone could hear, "what did you feel?"
+Behind Owen, Talia made a small sound.
 
-Owen opened his mouth to tell her. *Everything. Hot and cold and heavy and
-a voice.* But something about the way she was asking stopped him. She
-wasn't asking the way the woman in the grey uniform had talked to the stocky boy's
-mother, easy and bored, *happens twice a week.* She was asking like the
-answer was the only thing in the building that mattered.
+"Time?" Owen said.
 
-"Cold," Owen heard himself say. "It went cold. And then it ticked."
-
-Mrs. Harrow held his eyes for another second.
-
-"Cold," she repeated. "And then it ticked." She nodded slowly, as if he'd
-told her exactly what she'd expected to hear, and Owen couldn't tell
-whether she believed him at all.
-
-"Irregular," she said finally. "Mr. Pettibone, the key."
-
-Mr. Pettibone fumbled a small brass key off his ring. Mrs. Harrow unlocked
-a drawer at the bottom of his desk that Owen suspected had not been opened
-in years, and took out a thin binder, the thinnest one Owen had ever seen.
-It was stamped IRREGULARS on the spine in faded letters. She turned the
-pages slowly. There weren't many of them. Each page held one mark, and each
-mark had a word written under it in neat old handwriting.
-
-She stopped on one. She held the page up next to Owen's book.
-
-It was the same mark.
-
-"Time," Mrs. Harrow said.
-
-The word went down the lines of the Bindery like a stone dropped in a pond.
-Owen heard it get passed back, *time, he said time, the dock kid got time,*
-and he heard somebody's mother say, "Is that a *thing?*"
-
-"Is it..." Owen's mouth was dry. "Is that good?"
-
-"It's rare." Mrs. Harrow closed the binder. "The last Time irregular
-registered in Port Aldren came through this building thirty-one years ago.
-Before that, sixty-some. It's not an element, Mr. Calder. You won't be
-lighting stoves with it." She slid the book back across the desk toward
-him. "Open it."
+"Time. It's rare." Mrs. Harrow took her glasses off and let them fall on
+their chain. "There are a handful in the country. Maybe one every few years
+in a city this size. I've been at this desk thirty-eight years and I've
+stamped two." She said it simply, the way you'd tell someone the weather.
+"Open it."
 
 He did. The first page had filled. There was a single word written at the
-top in dark ink, and under it a line that explained what it did, as plainly
-as if it had always been printed there:
+top in dark ink, and under it a line that explained what it did, as
+plainly as if it had always been printed there:
 
 **Hold.** *For a moment, the thing you name does not move forward.*
 
-He turned the page. Blank. The next one, blank. He flipped through, faster.
-The book was thick, much thicker than Pop's, thicker than the Vance boy's,
-and every single page after the first was empty.
+He turned the page. It was blank. So was the next one. He flipped through
+faster. The book was thick, thicker than Pop's, thicker than Jonah's, and
+every page after the first was empty.
 
-"It's broken," he said. "Is it broken?"
+"Is it broken?"
 
-"Rare books fill slowly," Mrs. Harrow said. "Pages come when you're ready
-for them. Or when you need them." She picked up the big stamp from the
-desk, inked it, and brought it down on the ledger with a sound like a
-gunshot. "File number four-four-one-nine. Irregular, temporal. Happy
-birthday, Mr. Calder."
+"No. Rare books fill slowly," Mrs. Harrow said. "The pages come when you're
+ready for them." Then she looked at him with pale grey eyes, sharp as a
+tailor's pins, and asked quietly, "When you touched it, what did you feel?"
 
-She turned and walked away down the row of desks, not hurrying, with the
-thin binder tucked under her arm.
+Owen opened his mouth to tell her. *Too much. Hot and cold and heavy, all
+at once.* But it had only lasted half a second, and it sounded stupid even
+in his own head, and there was a whole line of people waiting behind him.
 
-Jonah was pounding him on the back. "*Time!* You got *time!* Nobody gets
-time! Owen, they're gonna put you in the paper! They're gonna put you on a
-*card!*"
+"Cold," he said. "And then it ticked."
 
-Owen looked down at the book in his hands. At the dark mark on the cover.
-At the single filled page and the hundreds of empty ones after it.
+Mrs. Harrow held his eyes for one more moment. Then she nodded, once, and
+picked up the big stamp and brought it down on the ledger.
 
-Nobody gets time.
+"File number four-four-one-nine," she said. "Time. Happy birthday, Mr.
+Calder."
 
-He started to grin, and couldn't stop.
+She walked back down the row of desks, not hurrying.
 
----
+Talia grabbed Owen from behind before he'd even turned around, both arms
+tight around his neck, and she was laughing. "*Time!* Owen! That's *so*
+much better than fire!"
 
-The word had gotten outside before they did.
+"Don't tell my dad that."
 
-When Owen and Jonah came out through the big bronze doors, there was a man
-waiting at the top of the steps with a flash camera and a press card
-tucked in his hatband. He had a pencil in his teeth and the look of a man
-who'd been sent to take a picture of a Light kid from the hill and had just
-heard about something better.
+"I'm telling *everyone.*" She let go and grabbed the book out of his hands
+to look at the mark, turning it in the light. For a second, she went still,
+her thumb on the cover. Then she handed it back and smiled. "It suits you.
+You were always late for everything. Now you've got an excuse."
 
-"You Calder? The time kid?" He didn't wait for an answer. "Frank Doyle,
-*Port Aldren Herald.* Hold the book up. No, higher. Show the mark. Look
-like you're happy about it, kid, it's your birthday."
+"That's not how it works."
 
-Owen held up the book. The flash went off with a bang and a puff of smoke,
-and for a second all he could see was a purple blot.
+"How do you know? You've had it for one minute."
 
-"Time," said Doyle, scribbling. "Irregular. Docks. Sixteen. What's your
-father do?"
+"Miss Reyes," said Mr. Crane from somewhere behind them, in the voice of a
+man looking at his wristwatch. "*The airfield.*"
 
-"He's a stoker. Eastside station."
+Talia's smile went a little thin at the edges. "I know." She hugged Owen
+again, fast and hard, and then Jonah, dripping and all. "Come to the arena
+Saturday. Both of you. I'll get you seats. Real ones, not up in the
+rafters."
 
-"*Beautiful*," said Doyle, with deep satisfaction, and wrote it down.
-"Stoker's son stops the clocks. That's page three at least. Maybe page two
-if nobody gets shot." He tipped his hat and was gone down the steps before
-Owen could ask him what that meant.
+"You said that last time," Jonah said.
 
-"Page three," Jonah said, stunned. "*Page three,* Owen."
+"I *mean* it this time." She was already walking backward toward the door,
+Mr. Crane at her elbow, people parting around her white coat. "Happy
+birthday! Happy birthday! Owen, *Time!*"
 
-"Page three is where they put the dog shows."
+Then she was gone through the big bronze doors, and the hall went back to
+its normal noise, and the clocks went on ticking.
 
-"Page three is where they put *famous people's dogs.*"
+Jonah looked at Owen, and at the book, and at the doors.
 
-At the bottom of the steps a long black motorcar was idling at the curb,
-polished so bright you could see the whole street bent across its doors. A
-driver in a cap stood beside it with the back door open. Julian Vance was
-standing next to it, his new griamore under one arm, not getting in. He
-was watching Owen come down the stairs.
+"*Time,*" he said. "You got Time. Nobody gets Time."
 
-Up close he was about Owen's height, with neat dark hair and a face that
-looked like it had never once been out in the rain. He didn't look angry.
-He looked *interested,* which Owen found worse.
+"Mrs. Harrow's stamped two."
 
-"Time," Julian said. It wasn't a question. "I heard the clocks stop."
+"In thirty-eight *years,* Owen."
 
-"Yeah."
-
-"Everyone heard the clocks stop." Julian looked down at the book under
-Owen's arm and seemed to count the pages from the outside. "Thick book.
-How many filled?"
-
-Owen didn't answer, which was an answer.
-
-"One," Julian said, and something in his face relaxed. "One page. Huh." He
-glanced back at the doors of the Bindery, then at Owen's shoes, which had
-been Pop's shoes first and had newspaper stuffed in the toes. "You know
-what irregular means, don't you? On the hill we use it for the family that
-lives over the garage. It means *doesn't fit.*"
-
-"Hey," said Jonah.
-
-"I'm not insulting him," Julian said mildly. "I'm telling him. Things that
-don't fit get looked at. By people who aren't me." He climbed into the back
-of the motorcar and looked up at Owen through the open door. "Enjoy page
-three, Calder."
-
-The driver shut the door. The motorcar pulled away from the curb, smooth
-and nearly silent, and for a second as it went past, Owen saw his own
-reflection bent across the black paint: a dock kid in a thin shirt,
-holding a thick grey book like it might run away.
-
-"What a *guy,*" Jonah said. "What a *prince.* You should've stopped his
-car."
-
-"I can't stop a car."
-
-"You don't know that. You don't know what you can do yet." Jonah was
-grinning again. "That's the whole thing, isn't it? Nobody knows. Not even
-you."
-
-Owen looked down at the mark on his book. *Doesn't fit.*
-
-He decided he didn't mind that as much as Julian Vance wanted him to.
+Owen looked down at the dark mark on the grey cloth, at the one filled
+page and all the empty ones after it. He tried not to grin, and failed
+completely.
 
 ---
 
-On the way home he tried it once, just to see.
+On the way home, he tried it, just to see.
 
-They were walking the last stretch along the docks, where the big cranes
-swung cargo off the freighters and the gulls fought over the fish guts
-behind the cannery. A gull was diving at a crate of mackerel. Owen put his
-hand on the book, pointed with the other, and whispered, "*Hold.*"
+They were walking the last stretch along the docks, Mrs. Pike somewhere up
+ahead telling a man selling eels exactly what she thought of his prices.
+The big cranes were swinging cargo off the freighters. A gull was diving at
+a crate of mackerel. Owen put his hand on the book, pointed with the
+other, and whispered, "*Hold.*"
 
 Nothing happened.
 
@@ -574,20 +527,19 @@ The gull grabbed a fish and wheeled away, screaming.
 
 "Maybe it's broken," Jonah said helpfully.
 
-"It's not broken." Owen frowned at the book. He'd said it right. He'd had
-his hand on it. The word was right there on the page. He tried to remember
-exactly what it had felt like in the Bindery, that single tick, the moment
-everything narrowed down to one point, and realized he'd been looking at
-the book, not the gull. Thinking about the word, not the thing.
+"It's not broken." Owen frowned. He'd said it right. He'd had his hand on
+it. He tried to remember exactly what it had felt like at the desk, that
+one clear tick, and realized that he'd been looking at the book, not at the
+gull. Thinking about the word, not the thing.
 
 *For a moment, the thing you name does not move forward.*
 
 The thing you *name.*
 
-A rope was swinging loose from the nearest crane, knocking against the
-side of a crate, back and forth. Owen looked at it. Really looked at it,
-the way you'd look at somebody you were about to shout at across a
-crowded room. *That rope.*
+A rope was swinging loose from the nearest crane, knocking against the side
+of a crate, back and forth. Owen looked at it. Really looked at it, the way
+you'd look at somebody you were about to shout to across a crowded room.
+*That* rope.
 
 "*Hold.*"
 
@@ -595,29 +547,35 @@ The rope stopped in the middle of its swing, bent in a curve, like a
 drawing of a rope.
 
 It lasted about as long as it takes to breathe in. Then something sharp
-went through the middle of Owen's head, right behind the eyes, like a
-headache arriving all at once instead of slowly, and the rope finished its
-swing and knocked against the crate, *thunk*, as if nothing had happened.
+went through Owen's head, right behind his eyes, like a headache arriving
+all at once instead of slowly, and the rope finished its swing and knocked
+against the crate, *thunk*, as if nothing had happened.
 
 Owen sat down hard on a bollard.
 
-"Whoa," said Jonah. "Whoa, you okay? You went grey."
+"Whoa. You okay? You went grey."
 
-"Yeah." Owen pressed the heel of his hand against his eye. "It costs
+"Yeah." Owen pressed the heel of his hand into his eye. "It costs
 something. It *hurts.*"
 
-"Everything costs something," said Jonah, who was sixteen and had heard
-his mother say it about a thousand times. Then he looked at the rope, and
-then at Owen, and he started to laugh, delighted. "But you *stopped* it,
-Owen. You stopped a *rope.*"
+"Everything costs something," said Jonah, who was sixteen, or would be
+tomorrow, and had heard his mother say it about a thousand times. Then he
+looked at the rope, then at Owen, and started to laugh. "But you *stopped*
+it, Owen. You stopped a *rope.*"
+
+Owen started laughing too, even though it made his head throb.
+
+"Don't tell Talia it was a rope," he said. "Tell her it was a tram."
+
+"I'm telling her it was an airship."
 
 ---
 
 At home, he didn't mean to show off. He really didn't. But Tess knocked the
-milk bottle off the edge of the table while she was reaching for her
-cards, the way she knocked something off the table about twice a day, and
-before Owen could think about it his hand was flat on the book and the word
-was in his mouth.
+milk bottle off the edge of the table while she was reaching for her cards,
+the way she knocked something off the table about twice a day, and before
+Owen could think about it his hand was flat on the book and he was looking
+right at the bottle.
 
 "*Hold.*"
 
@@ -630,37 +588,35 @@ light caught inside it.
 
 Nobody breathed.
 
-Then Owen's head gave a sharp, bright throb behind his eyes, and the moment
-let go, and the bottle hit the floor and smashed and milk went everywhere.
+Then Owen's head gave a sharp, bright throb behind his eyes, the moment let
+go, the bottle hit the floor and smashed, and milk went everywhere.
 
 "*OWEN,*" Tess shrieked, and she wasn't mad at all. She was the happiest
 Owen had ever seen her. "*DO IT AGAIN.*"
 
-"There's milk on the floor—"
+"There's milk on the floor..."
 
 "*DO IT AGAIN!*"
 
 Pop was standing in the doorway in his work clothes, soot still on his
 hands from the station. He looked at the broken bottle. He looked at the
-book. He looked at his son for a long, long moment, and something went
-across his face that Owen had never seen there before, and it took Owen
-until much later that night to understand it was pride.
+book. He looked at his son for a long moment, and something went across
+his face that Owen had never seen there before. It took Owen until much
+later that night to understand it was pride.
 
 "Well," Pop said, and his voice came out rough. "I'll be damned."
 
 Then he went and got the mop, because some things don't change just
-because your son can stop time. On his way past the stove, the little blue
-gas flame under the kettle leaned toward Owen, just slightly, the way a
-flower leans toward a window. Nobody noticed. Pop didn't. Owen didn't.
+because your son can stop a milk bottle.
 
 ---
 
 Mom came home from the cannery at six, smelling like brine and tin the way
 she always did. She'd barely gotten through the door before Tess was
-hanging off her arm, shouting the whole day at her in one breath: *the
-clocks stopped, all of them, and he's going to be in the paper, and he
-froze the milk, Mom, in the AIR, and it's TIME, nobody gets time, Jonah said
-so.*
+hanging off her arm, shouting the whole day at her in one breath: *he got
+Time, it's rare, the lady's only stamped two, and he froze the milk, Mom,
+in the AIR, and Talia came, and she hugged him, and she's getting us
+seats at the arena.*
 
 Mom set her bag down on the hook. She looked at Owen, who was sitting at
 the table with the book in front of him, trying not to look like he was
@@ -668,213 +624,256 @@ waiting for her.
 
 "Let's see it, then," she said.
 
-He slid it across. She didn't open it. She ran her fingers over the mark on
-the cover, slowly, the way she checked a tin can for dents on the line. She
-turned it over and looked at the back. She weighed it in her hands.
+He slid it across. She didn't open it. She ran her fingers over the mark
+on the cover, slowly, the way she checked a tin can for dents on the line.
+She turned it over and looked at the back. She weighed it in her hands.
 
 "It's heavy," she said.
 
 "It's thick. Mrs. Harrow said the pages fill slowly. For rare ones."
 
-"Mm." Mom set it down. Then she came around the table and put both hands
-on the sides of his face, and held it, and looked at him the way she used
-to when he was little and had a fever, like she was checking him for
-something. "Happy birthday, sweetheart," she said, and kissed his forehead.
+"Mm." Mom set it down. Then she came around the table and put both hands on
+the sides of his face, and looked at him the way she used to when he was
+little and had a fever, like she was checking him for something. "Happy
+birthday, sweetheart," she said, and kissed his forehead.
 
-It was a good night after that. Pop went down to the corner and came back
-with a cake from Sorrell's bakery, the kind with real sugar icing, which
-they could not afford and which nobody mentioned. Mrs. Abernathy came up
-from downstairs because she'd heard the shouting, and then the Pikes came
-over because Jonah had told his mother, and then half the landing was
-crowded into the kitchen with the windows steamed up and the radio playing
-dance music. Everybody wanted to see the mark. Everybody wanted Owen to do
-it again, and he wouldn't, because his head still hurt from the rope. So
-Tess did it for him instead, acting out the milk bottle for each new person
-with sound effects, getting bigger and more dramatic every time, until by
-the fifth telling the bottle had been falling from the *ceiling*.
+It was a good night after that. The Pikes came up at seven with Jonah's
+half of the birthday: his grandmother, his brother, his little sister, a
+pot of stew, and Mrs. Pike's voice, which filled the kitchen from wall to
+wall without trying. The cake came from Sorrell's bakery, with real sugar
+icing and both their names on it. Owen's name was on top this year, which
+Jonah contested bitterly. Mrs. Abernathy came up from downstairs because
+she'd heard the noise, and brought a jar of plums. Everybody wanted to see
+Owen's mark. Everybody wanted to see Jonah's too, and Jonah was so happy
+to show it that he soaked the tablecloth twice.
 
-Later, when the neighbors had gone and Tess had fallen asleep on the couch
-with her cards in her fist, Owen came back into the kitchen for a glass of
-water and found his parents at the table, talking low. They stopped when
-he came in.
+Nobody asked Owen to do Hold again, because Tess did it for him instead.
+She acted out the milk bottle for every new person who came through the
+door, with sound effects, getting bigger and more dramatic every time,
+until by the fifth telling the bottle had been falling from the *ceiling*.
+
+At half past eight there was a knock, and a boy in a Ministry messenger's
+uniform stood on the landing holding a small white box tied with gold
+string. Inside were two tickets for Saturday at Harbor Arena, front row,
+with a note in the same handwriting as Tess's card:
+
+*Real seats. Told you. Happy birthday, both of you. I'm sorry about
+today. I'm sorry about a lot of days. Owen, you'd better be able to stop a
+tram by Saturday. —T.*
+
+*P.S. Jonah, I know you drew the mustache.*
+
+Jonah read it over Owen's shoulder and laughed so hard he had to sit down.
+
+---
+
+Later, when the kitchen got too hot and too loud, Owen and Jonah slipped
+out onto the landing and sat on the top step, the way they'd done at every
+birthday party since they were small enough to fit on it side by side. Now
+their knees bumped. Through the door behind them they could hear Mrs. Pike
+telling a story, and Mrs. Abernathy laughing at it, and Tess dropping
+something.
+
+Jonah had his new book on his knees. Every so often he'd lift a finger,
+and a little ball of water the size of a marble would come up out of the
+cover and float there, wobbling, before he let it splash back down. He
+couldn't stop doing it.
+
+"She looked tired," Jonah said, after a while.
+
+"Yeah."
+
+"Like, *really* tired. Did you see her eyes?"
+
+"Yeah."
+
+Jonah made the water ball float again. It wobbled. "My ma says the
+Ministry's got her doing three things a day. Arena, then the newsreel
+people, then some dinner with men in hats. Every day. My ma heard it from
+Mrs. Delgado, who heard it from her cousin who cleans up there." He let the
+water drop. "She's sixteen, Owen. She's the same age as us. Well. She's
+older than us."
+
+"Five months."
+
+"Five months older and she's having dinner with the Prime Minister and a
+fish looking at her."
+
+Owen laughed a little. Then he didn't. "Do you think she's okay?"
+
+Jonah thought about it for real, which was something he only did about
+once a week, so Owen knew it mattered.
+
+"I think she came to the Bindery today when a man in a suit told her she
+had twenty minutes," Jonah said slowly. "And she spent all twenty on us.
+And then she sent seats. Front row." He shrugged. "I think she's lonely.
+And I think she's scared of it being different with us. That's what the
+note was about. *I'm sorry about a lot of days.*"
+
+Owen was quiet. He'd read the note four times already, and he'd gotten
+stuck on that line every time.
+
+"Is it different?" he asked.
+
+"Course it's different. She's on the side of a *warehouse.*" Jonah bumped
+his knee into Owen's. "But she still snorts when she laughs. And she still
+knew I drew the mustache. So, not that different."
+
+"You were jealous," Owen said. "At first. When she got it."
+
+He hadn't planned to say it. It had just come out, the way things did
+sometimes on the top step.
+
+Jonah didn't get mad. He just nodded. "Yeah. For about a week. So were you."
+
+"I wasn't..." Owen stopped. "Yeah. Maybe for about a week."
+
+"Everyone was. Every kid on Cable Street was." Jonah looked down at the
+water book on his knees and smiled at it, a real smile, not a joke one. "I
+don't feel like that anymore, though. I got water. It's good. It's
+*mine.*" He glanced sideways at Owen's book, the thick grey one with the
+dark mark. "And you got Time, so now you're the weird one, and Talia's the
+famous one, and I'm the handsome one. It all worked out."
+
+"You're not the handsome one."
+
+"I'm wearing a *crown,* Owen."
+
+They sat there a while longer, listening to the party through the door.
+Down in the street, a tram went by with its wire sparking blue, and
+somebody's radio was playing the same dance song for the third time that
+night.
+
+"Saturday," Jonah said.
+
+"Saturday," Owen agreed. "Front row."
+
+"We're gonna yell her name so loud she's gonna be embarrassed."
+
+"You're gonna bring your ma to do it for you."
+
+"I'm gonna bring my ma to do it for me," Jonah said happily, and made the
+water ball float one more time, and this time it held steady.
+
+---
+
+Later, when the Pikes had gone home and Tess had fallen asleep on the couch
+with her cards in her fist, Owen came into the kitchen for a glass of water
+and found his parents at the table, talking low. They stopped when he came
+in.
 
 "What?" he said.
 
 "Nothing," said Pop.
 
-Mom looked at Pop, and then at Owen. She'd always been the one who told
-him the truth when Pop wanted to spare him from it.
+Mom looked at Pop, and then at Owen. She'd always been the one who told him
+the truth when Pop wanted to spare him from it.
 
-"Rare things get noticed, Owen," she said. "That's all. People are going
-to want things from you now. Some of them will be nice about it and some
-of them won't. You understand?"
+"You watch what's happened to Talia," she said. "That girl hasn't slept
+right in five months. Rare things get noticed, Owen. People are going to
+want things from you now. Some of them will be nice about it and some of
+them won't. You understand?"
 
-He thought about Julian Vance leaning out of the motorcar. *Things that
-don't fit get looked at.*
+He thought about the shadows under Talia's eyes. About Mr. Crane checking
+his wristwatch. *I'm sorry about a lot of days.*
 
-"I understand," he said.
+"It's not like that," he said. "It's not Grandmaster. It's just rare."
 
-"Good." Mom squeezed his hand once, hard, and let go. "Now go to bed.
-You've got school in the morning. Time or no time."
+"I know it's not." Mom squeezed his hand once and let go. "I'm just
+telling you. Now go to bed. You've got school in the morning. Time or no
+time."
 
 ---
 
 Owen couldn't sleep.
 
-He sat up on the roof of the tenement with his back against the chimney and
-the book in his lap. Below him, Port Aldren glittered all the way up the
-hill, with the harbor lights and the neon and the red warning lamp on the
-Ministry airship blinking far away at the top. Somewhere down the street a
-radio was still playing the Flame Grandmaster's replay. He could hear the
-crowd roaring, tinny and small.
+He climbed out his window and sat on the roof of the tenement with his back
+against the chimney and the book in his lap. Below him, Port Aldren
+glittered all the way up the hill: the harbor lights, the neon, and at the
+very top, the Ministry towers, where one of the high windows was still lit.
+He wondered if it was Talia's. Probably not. There were a lot of windows.
 
-*Nobody gets time.*
+He turned the empty pages under the streetlight, one after another, trying
+to imagine what would be on them. Stopping a tram. Stopping a fight.
+Being good enough at something that he could stand next to Talia in the
+white coat without feeling like he'd wandered in from the docks by
+mistake.
 
-He turned the empty pages under the streetlight, one after another. He
-tried to imagine what would be on them. Stopping a tram. Stopping a fight.
-Stopping a fire before it started. He'd be in the paper. He'd be on a
-card. He'd get out of the docks, and he'd get Pop out of the station, and
-Mom out of the cannery.
+The thing he kept coming back to, though, wasn't the milk bottle or the
+rope. It was that half second at the desk before the tick. The heat and
+the cold and the floor tipping. He'd asked Jonah on the walk home, and
+Jonah had said his own book had just gone cold and wet, and that was all.
+No heat. No tipping floor.
 
-But the thing he kept coming back to wasn't the clocks, or the rope, or
-page three. It was the second before the clocks stopped. That moment when
-he'd put his hand on the cover and felt *everything*: the furnace heat and
-the January cold, the wind and the weight, the hum. And that thing at the
-edge of his mind that had felt, for one second, like someone else standing
-very close. Then it had all slammed shut, like a door.
-
-Mrs. Harrow hadn't said anything about that. Jonah hadn't felt anything
-like it at his own touch; Owen had asked on the walk home. *It got wet,*
-Jonah had said. *That's it. It just got wet.*
-
-Owen had decided not to tell anyone else. He wasn't sure why. It just felt
-like the kind of thing that, once you said it out loud, you couldn't take
-back.
+Owen had decided not to mention it to anyone else. It had only been half a
+second. It was probably nerves.
 
 He closed the book and ran his thumb over the mark on the cover.
 
-For a second, just one second under the streetlight, it looked wrong. The
-lines seemed deeper than they should have been, as if one mark had been
-drawn carefully over the top of another one, and the one underneath was
-much, much bigger.
+For a second, under the streetlight, it looked a little wrong. The lines
+seemed deeper than they should have been, as if the mark had been drawn
+very carefully over the top of a different one, and the one underneath was
+bigger.
 
 He blinked.
 
 It was just the Time mark again. Just ink on grey cloth.
 
-Owen yawned, tucked the book under his arm, and climbed back in through the
-window to bed.
+Owen yawned, tucked the book under his arm, and climbed back in through
+the window to bed.
 
 ---
 
-Far up the hill, long after the Bindery had closed and the clerks had gone
-home, Mrs. Harrow walked across the great hall alone.
+Across town, in a small apartment above a shoe repair shop, Mrs. Harrow
+sat at her kitchen table with a cup of tea going cold beside her.
 
-The electric lights were off. The only light came in through the high
-windows from the streetlamps outside, pale and yellow, laid across the
-marble in long stripes. Her footsteps echoed. Above her, the seven
-Grandmaster marks glinted on the ceiling in their gold leaf: flame and
-water and air, earth and light, ice and nature. Seven. Painted there a
-hundred years ago by people who had carefully made sure there was room for
-exactly seven and not one more.
+In front of her was a tin box that had belonged to her grandmother. She
+hadn't opened it in years. Inside, under a bundle of old letters and a
+pair of spectacles with one lens cracked, was a single folded page, soft
+as cloth from being folded and unfolded so many times.
 
-She stopped in the middle of the floor and looked up at them for a while.
+Her grandmother had worked at the Bindery too, a long time ago. When Odile
+was a girl, her grandmother used to sit her on her knee and tell her
+stories that nobody else's grandmother told. She said there had once been
+fourteen marks on the Bindery ceiling, not seven. She said people had
+simply stopped talking about the other seven, and then stopped teaching
+them, and then, after long enough, stopped remembering them at all, the
+way a town forgets the name of a street after the sign falls down.
 
-When she was a girl, there had been a different ceiling. She remembered it,
-though nobody else did. She remembered a painter on a scaffold, and a
-great deal of white paint, and her own mother holding her hand very tight
-and telling her not to look.
+Odile had thought they were fairy stories. Mostly, she still did.
 
-Along the far wall, the clocks were ticking. All of them together. All of
-them one second late. Nobody else had noticed yet that they had never
-caught back up. By the end of the week somebody would, and they'd send a
-man to reset them, and he would reset them, and by the next morning they
-would be one second late again.
+She unfolded the page and laid it flat under the lamp.
 
-Mrs. Harrow went down the stairs to the basement.
+On it, in her grandmother's careful hand, were seven marks drawn in faded
+ink, each with a word written underneath. Time was one of them. It looked
+exactly like the one she'd stamped into the ledger that morning.
 
-There was a single desk lamp there, in the records room, among the tall
-filing cabinets full of eleven million file numbers. She switched it on
-and sat under it with two sheets of paper in front of her.
+But that wasn't the one she was looking at.
 
-The first was the imprint from the ledger, file number four-four-one-nine,
-Owen Calder's mark stamped in ink. The second was very old. It wasn't from
-the Irregulars binder or from any binder at all. She had kept it folded
-inside the lining of her own coat for forty years, and until tonight she
-had never once taken it out in this building.
+At the very bottom of the page, set apart from the others, there was one
+more mark, larger than the rest. Her grandmother had drawn it with more
+care than all the others put together. And inside it, if you knew where to
+look, fitted neatly among its lines as if it had always been just one small
+piece of something bigger, was the Time mark.
 
-She laid the ledger imprint over the old page and held both of them up to
-the lamp.
+Under it, her grandmother had written a single word:
 
-The Time mark sat on top. Underneath it, showing through the paper, every
-line fitting perfectly around it as if the Time mark had only ever been one
-small piece of it, was the other mark. The one that was on no card and no
-ceiling and in no registry. The one that nobody alive was supposed to
-remember.
+*Reqrium.*
 
-Mrs. Harrow set the papers down. Her hands, she noticed, were not quite
-steady. She reached for the telephone on the corner of the desk, lifted
-the earpiece off its hook, and asked the night operator for a number that
-wasn't listed in any directory in Port Aldren.
+And under that, in smaller letters: *All of them.*
 
-It rang for a long time. Then someone picked up and said nothing.
+Mrs. Harrow sat and looked at it for a long time. She thought about the
+clock behind Mr. Pettibone's desk, stopping for one breath. She thought
+about the boy's face when she'd asked him what he'd felt, and the half
+second he'd waited before he said *cold.*
 
-"It's woken up," Mrs. Harrow said. "The last one."
+Then she folded the page back up along its soft old creases, put it back
+in the tin box under the letters, and closed the lid.
 
-The silence on the other end went on for so long she thought the line had
-died. Then:
+It was probably nothing. It was probably just a rare book and an old
+woman's memory of fairy stories.
 
-"You're certain?"
+But tomorrow, she decided, she would pull the file for number
+four-four-one-nine and find out where Owen Calder lived.
 
-"Every clock in the hall stopped. Every single one of them, not just the
-nearest. Time doesn't do that on the first touch. Time never did that." She
-looked at the old page under the lamp. "It's wearing Time as a coat. It
-filled one page. It's *hiding.*"
-
-"Who is he?"
-
-"A dock boy. Sixteen today." Mrs. Harrow closed her eyes. "His father
-stokes the boilers at the Eastside station. He thinks he got lucky."
-
-Another long silence.
-
-"Then let him think so," said the voice on the other end. "For now."
-
-"The *Herald* already has his picture. It'll be on page three by morning."
-
-"Good."
-
-Mrs. Harrow's grip tightened on the earpiece. "*Good?*"
-
-"A boy with a rare Time book, in the newspaper, on page three. Everyone
-will know exactly what he is." A pause. "Which means nobody will think to
-look for what he actually is. Let them all see the coat, Odile. It's the
-best place to hide him."
-
-She had no answer to that. She looked at the old page again, at the lines
-of the mark that nobody alive was supposed to remember, and something she
-had not let herself ask in forty years came up out of her anyway.
-
-"If this one's awake," she said, "what about the others?"
-
-The silence on the line was different this time. Heavier.
-
-"Two of them never went to sleep," the voice said. "And a third opened
-last spring, in the south. We lost track of it."
-
-"And the boy's is the last one."
-
-"The boy's is *all* of them," said the voice. "Keep him close. Keep him
-ordinary. Don't let him find out what he's carrying until we know who else
-is looking." Another pause. "And Odile? Burn that page."
-
-The line clicked dead.
-
-Mrs. Harrow looked at the old page for a long time. Then, instead of
-holding it to the lamp's flame, she folded it along its worn creases, the
-same way she had folded it every night for forty years, and slid it back
-into the lining of her coat.
-
-She sat alone in the basement of the Bindery for a long time after that,
-listening to the clocks tick on the floor above her, all of them together,
-all of them exactly one second late.
+Just to keep an eye on him.

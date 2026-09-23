@@ -36,9 +36,12 @@ and keeps it clearly separate from Black Clover's tower ceremony.
 
 ### Everyday magic
 
-**Anyone can use elemental powers**, not just the Grandmasters. Most people
-have an ordinary elemental griamore: a bit of fire, a bit of water, and so
-on. Those powers are useful, tradeable, and hireable.
+**Anyone can use elemental powers**, not just the Grandmasters. And
+getting a power that *isn't* elemental is **completely normal**: strength,
+healing, sound, metal, and dozens more are handed out every day at the
+Bindery. The registry is a book as thick as a loaf of bread with one mark
+per page. All of these powers are useful and hireable (fire for the power
+station, strength for the docks, sound for radio, and so on).
 
 ### The Elemental Seven: the Grandmasters
 
@@ -56,10 +59,16 @@ griamores. Their power is the same element everyone else uses, pushed to an
 | Ice | Ice Grandmaster | *(author to provide)* |
 | Nature | Nature Grandmaster | *(author to provide)* |
 
-*(proposed)* In this era the Grandmasters are **celebrities**. Their faces
-are on posters and trading cards, their duels are broadcast on the radio,
-and the papers track their every move. When a Grandmaster dies, their
-griamore goes blank and waits for the next generation's holder.
+In this era the Grandmasters are **celebrities**. Their faces are on
+posters and trading cards, their duels are broadcast on the radio, and the
+papers track their every move. A Grandmaster book only comes free when its
+holder dies. The next sixteen-year-old to touch it at the Bindery becomes
+the new Grandmaster, and when that happens, the matching mark on the
+Bindery ceiling lights up.
+
+**Current Light Grandmaster: Talia Reyes**, Owen's best friend. She got it
+on her sixteenth birthday, five months before Chapter 1, after the old
+Light Grandmaster died of old age.
 
 ### The Demonic Seven: the forgotten books
 
@@ -80,20 +89,20 @@ schoolbooks, or the Bindery's records.
 **Reqrium** is the author's own word. It means **all of them**: the power
 of every other griamore in one book.
 
-### Irregulars: how Time can be "rare" if everyone forgot
+### Rare powers: how Time can be "rare" if everyone forgot
 
-This works the same way as the elementals. Weak everyday versions of the
-demonic powers exist, but they're **rare**: a few per city per generation.
-The Bindery keeps them in a thin locked binder labeled *Irregulars* and
-treats them as oddities. What people have forgotten is that seven true
-books sit behind those powers, that the books are demonic, and that one of
-them is Reqrium.
+Weak everyday versions of the demonic powers (Time, Space, Gravity, and so
+on) still get handed out at the Bindery, but they're **rare**: maybe one
+every few years in a big city. They sit in a small RARE section at the
+back of the registry. Nobody treats them as scary, just unusual. What
+people have forgotten is that seven true books sit behind those powers,
+that the books are demonic, and that one of them is Reqrium.
 
 ### Owen's griamore
 
 Owen holds **Reqrium** and doesn't know it. When it bound to him, it showed
 only the Time mark and filled only its first page. The Bindery filed it as
-a rare Time irregular, and Owen believes that's what he has. The reader
+a rare Time book, and Owen believes that's what he has. The reader
 learns the truth at the end of Chapter 1. Owen doesn't.
 
 ## Open questions
@@ -109,14 +118,16 @@ learns the truth at the end of Chapter 1. Owen doesn't.
 
 ## Seeds planted in Chapter 1
 
-- **Hold** is Owen's first spell. It only works if he focuses on the
-  thing itself, and it causes a sharp headache after about one breath.
-- The Bindery's clocks stopped when Owen touched his book, and they now
-  stay **one second late** even after being reset.
-- The Bindery's ceiling was **painted over** when Mrs. Harrow was a girl,
-  and the carving over the doors has room for exactly seven marks.
-- According to the voice on the phone, **two demonic books never went
-  dormant**, and **a third woke last spring in the south** and has been
-  lost track of.
-- Mrs. Harrow was told to burn her old page with the Reqrium mark. She
-  kept it.
+- **Hold** is Owen's first spell. It only works if he focuses on the thing
+  itself, and it causes a sharp headache after about one breath.
+- When Owen touched his book, he felt every power at once for half a
+  second before it settled into Time. He told Mrs. Harrow he only felt
+  "cold."
+- **Mrs. Harrow** remembers the Demonic Seven only as her grandmother's
+  "fairy stories." Her grandmother, who also worked at the Bindery, left
+  her a page with all seven demonic marks, including Reqrium with the Time
+  mark hidden inside it.
+- Talia's hand is always warm now, and she went still for a second when
+  she held Owen's book.
+- Talia has invited Owen and Jonah to her exhibition at Harbor Arena on
+  Saturday.

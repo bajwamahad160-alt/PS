@@ -14,7 +14,7 @@ A guy named Owen. Everything past that is still open.
   Knows every Grandmaster's stats off the trading cards and assumed he'd
   end up with a small, ordinary fire griamore like his dad.
 - **The hook:** at the Bindery his griamore shows the Time mark, a rare
-  irregular power, and he's thrilled. It's actually **Reqrium**, the most
+  power, and he's thrilled. It's actually **Reqrium**, the most
   powerful of the forgotten Demonic Seven, wearing Time as a disguise.
   Owen doesn't know. *(Author's decision.)*
 
@@ -33,29 +33,32 @@ A guy named Owen. Everything past that is still open.
 
 ## Introduced in Chapter 1
 
-*(proposed names, all easy to change)*
+*(names are proposals unless noted, all easy to change)*
 
+- **Talia Reyes** — Owen's best friend *(author's decision)*. Five months
+  older than Owen. Became the **Light Grandmaster** on her sixteenth
+  birthday. Now lives in the Ministry towers with a handler and a packed
+  schedule, and she's tired and a little lonely, but she's still Talia.
+  Her hands always run warm.
+- **Jonah Pike** — Owen's other best friend. Shares Owen's birthday
+  *(author's decision)*: born twenty minutes apart in neighboring hospital
+  beds, on either side of midnight. The two families have always had one
+  party with one cake. Gets an ordinary water griamore the same day as
+  Owen. Drew a mustache on Talia's poster.
 - **Pop** — Owen's dad. Stokes the boilers at the Eastside power station
-  with a small, ordinary fire griamore.
-- **Mom** — works the early shift at the cannery.
-- **Tess** — Owen's ten-year-old sister. Collects Grandmaster trading cards
-  and takes them very seriously.
-- **Jonah Pike** — Owen's best friend from the docks. Got an ordinary water
-  griamore last month and uses it mostly to annoy Owen.
-- **Julian Vance** — rich kid from the hill who got a strong Light
-  griamore (about 60 pages) the same morning. Tells Owen that "irregular"
-  means *doesn't fit*. Set up as a future rival.
+  with a small fire griamore.
+- **Mom** — works the early shift at the cannery. Tells Owen the truth when
+  Pop wants to spare him.
+- **Tess** — Owen's ten-year-old sister. Collects Grandmaster trading
+  cards and owns a signed Talia card she will never trade.
+- **Mrs. Pike** — Jonah's mom. Has a sound griamore and can be heard from
+  across a street without raising her voice.
+- **Mr. Crane** — Talia's Ministry handler. Always checking his watch.
 - **Mr. Pettibone** — tired Bindery clerk.
-- **Mrs. Odile Harrow** — old Bindery supervisor who somehow *remembers* the
-  Demonic Seven. Recognizes Owen's book as Reqrium and reports it to an
-  unknown voice on the phone.
-- **Mrs. Abernathy** — downstairs neighbor with a lazy water griamore.
-- **The Delgado twins** — twelve and terrible. Made Owen a crayon good
-  luck sign.
-- **Frank Doyle** — *Port Aldren Herald* reporter who puts Owen on page
-  three.
-- **The voice on the phone** — unknown. Knows about the Demonic Seven and
-  wants Owen kept ordinary and in the dark.
+- **Mrs. Odile Harrow** — old Bindery supervisor who half-remembers the
+  Demonic Seven from her grandmother's stories. Plans to keep an eye on
+  Owen.
+- **Mrs. Abernathy** — downstairs neighbor.
 - **Cassius Rourke** — the current Flame Grandmaster, heard only on the
   radio so far.
 - **Port Aldren** — the harbor city where the story starts.

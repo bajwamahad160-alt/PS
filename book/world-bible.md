@@ -106,3 +106,17 @@ learns the truth at the end of Chapter 1. Owen doesn't.
    worst possible moment.
 3. **Are the demonic books evil, or just feared?** Does using one tempt you
    toward its sin?
+
+## Seeds planted in Chapter 1
+
+- **Hold** is Owen's first spell. It only works if he focuses on the
+  thing itself, and it causes a sharp headache after about one breath.
+- The Bindery's clocks stopped when Owen touched his book, and they now
+  stay **one second late** even after being reset.
+- The Bindery's ceiling was **painted over** when Mrs. Harrow was a girl,
+  and the carving over the doors has room for exactly seven marks.
+- According to the voice on the phone, **two demonic books never went
+  dormant**, and **a third woke last spring in the south** and has been
+  lost track of.
+- Mrs. Harrow was told to burn her old page with the Reqrium mark. She
+  kept it.

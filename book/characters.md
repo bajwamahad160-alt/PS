@@ -40,14 +40,22 @@ A guy named Owen. Everything past that is still open.
 - **Mom** — works the early shift at the cannery.
 - **Tess** — Owen's ten-year-old sister. Collects Grandmaster trading cards
   and takes them very seriously.
-- **Jonah** — Owen's best friend from the docks. Got an ordinary water
+- **Jonah Pike** — Owen's best friend from the docks. Got an ordinary water
   griamore last month and uses it mostly to annoy Owen.
-- **The Vance boy** — a rich kid from the hill who got a strong Light
-  griamore the same morning. Set up as a future rival.
+- **Julian Vance** — rich kid from the hill who got a strong Light
+  griamore (about 60 pages) the same morning. Tells Owen that "irregular"
+  means *doesn't fit*. Set up as a future rival.
 - **Mr. Pettibone** — tired Bindery clerk.
-- **Mrs. Harrow** — old Bindery supervisor who somehow *remembers* the
+- **Mrs. Odile Harrow** — old Bindery supervisor who somehow *remembers* the
   Demonic Seven. Recognizes Owen's book as Reqrium and reports it to an
   unknown voice on the phone.
+- **Mrs. Abernathy** — downstairs neighbor with a lazy water griamore.
+- **The Delgado twins** — twelve and terrible. Made Owen a crayon good
+  luck sign.
+- **Frank Doyle** — *Port Aldren Herald* reporter who puts Owen on page
+  three.
+- **The voice on the phone** — unknown. Knows about the Demonic Seven and
+  wants Owen kept ordinary and in the dark.
 - **Cassius Rourke** — the current Flame Grandmaster, heard only on the
   radio so far.
 - **Port Aldren** — the harbor city where the story starts.

@@ -15,9 +15,20 @@ A world at roughly 1920s tech (radio, motorcars, airships, electric
 streetlights, newsreels, big industrial cities) where magic never went away.
 It got industrialized and regulated, and it runs through the everyday.
 
+## Chapter length
+
+| Size | Words |
+|---|---|
+| Small | ~4,000 |
+| Medium | ~7,000 |
+| Large | ~10,000 |
+
+The author picks a size per chapter, or leaves it to judgment. Chapter 1
+is **medium**, since an opening chapter has a lot of setup to cover.
+
 ## Status
 
-**Chapter 1 drafted** (`chapters/chapter-01.md`).
+**Chapter 1 drafted** (`chapters/chapter-01.md`, medium, ~6,800 words).
 
 - `world-bible.md` covers the world, how griamores work, the Elemental
   Seven, the Demonic Seven, and the Irregulars.

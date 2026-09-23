@@ -207,9 +207,8 @@ to lean back to see them. The Light mark had been freshly regilded this
 spring, and it shone brighter than the others. Owen couldn't look at it
 without thinking *Talia.* Under the Thunder mark, somebody had hung a long
 black ribbon for mourning, and it stirred a little in the draft from the
-doors. A big clock hung on the
-wall behind every clerk's desk, and all of them ticked together, so the
-whole hall had a slow, steady pulse to it.
+doors. A big clock hung on the wall behind every clerk's desk, and all of
+them ticked together, so the whole hall had a slow, steady pulse to it.
 
 The line was full of sixteen-year-olds and their mothers. A sign at the
 front said HAVE YOUR BIRTH CERTIFICATE READY in letters two feet tall. A
@@ -452,9 +451,10 @@ It was Owen.
 ---
 
 Up close, the clerk was a thin, tired man with a pencil behind his ear and
-a nameplate that said MR. PETTIBONE. He looked at Owen's certificate, looked at his
-ledger, wrote a number with a slightly unsteady hand, and slid a blank book
-across the desk.
+a nameplate that said MR. PETTIBONE. He looked at Owen's certificate,
+looked at his ledger, wrote a number with a slightly unsteady hand, and slid a blank book
+across the desk. Just grey cloth and blank pages, with a faint smell of
+dust and glue.
 
 Nobody was watching. Owen realized it all at once. The whole hall was still
 staring at Jonah, whispering, pointing up at the Thunder mark on the
@@ -462,16 +462,14 @@ ceiling, which was still faintly glowing. Mrs. Pike was crying into Jonah's
 shoulder. Talia was holding his hand. Owen was standing at the desk on his
 own birthday, and it was as if he'd turned invisible.
 
-He found he didn't mind as much as he'd have thought. It made it easier. Just grey
-cloth and blank pages, with a faint smell of dust and glue.
+He found he didn't mind as much as he'd have thought. It made it easier.
 
 "Palm flat on the cover," Mr. Pettibone said. "Don't pull away, whatever
 it feels like."
 
 Owen wiped his hand on his trousers. His heart was going hard. He could
 feel Talia standing right behind him, and Jonah behind her smelling of
-burnt paper, and
-the clock on the wall ticking along with all the others.
+burnt paper, and the clock on the wall ticking along with all the others.
 
 He put his hand on the book.
 
@@ -497,8 +495,8 @@ lay there like a pencil.
 
 Mr. Pettibone looked at the pencil, frowned, and picked it back up.
 
-The book under Owen's hand had gone cool and quiet, and very heavy. A mark was inking
-itself onto the grey cloth, slowly, dark as a bruise. It wasn't a flame
+The book under Owen's hand had gone cool and quiet, and very heavy. A mark
+was inking itself onto the grey cloth, slowly, dark as a bruise. It wasn't a flame
 or a wave or any of the others from the ceiling. Owen didn't recognize it.
 Behind him, Jonah whispered, "What's *that* one?"
 
@@ -751,7 +749,8 @@ Mom stood very still in the doorway with her bag still on her shoulder.
 
 Mom sat down in the nearest chair without taking her coat off.
 
-Mom set her bag down on the hook. She looked at Owen, who was sitting at
+After a while she got up again, hung her bag on the hook, and looked at
+Owen, who was sitting at
 the table with the book in front of him, trying not to look like he was
 waiting for her.
 
@@ -920,8 +919,8 @@ the truth when Pop wanted to spare him from it.
 
 "You watch what's happened to Talia," she said. "That girl hasn't slept
 right in five months. And now Jonah, starting tomorrow, God help Ruth
-Pike." She shook her head. "Rare things get noticed, Owen. People are going to
-want things from you now. Some of them will be nice about it and some of
+Pike." She shook her head. "Rare things get noticed, Owen. People are
+going to want things from you now. Some of them will be nice about it and some of
 them won't. You understand?"
 
 He thought about the shadows under Talia's eyes. About Mr. Crane asking for
@@ -945,8 +944,8 @@ He wondered if it was Talia's. Probably not. There were a lot of windows.
 By tomorrow night, one of them would be Jonah's.
 
 He turned the empty pages under the streetlight, one after another, trying
-to imagine what would be on them. Lifting a tram. Catching someone falling off a crane.
-Being good enough at something that he could stand next to Talia and Jonah
+to imagine what would be on them. Lifting a tram. Catching someone falling
+off a crane. Being good enough at something that he could stand next to Talia and Jonah
 without feeling like he'd wandered in from the docks by mistake.
 
 The thing he kept coming back to, though, wasn't the milk bottle or the
@@ -994,8 +993,8 @@ Odile had thought they were fairy stories. Mostly, she still did.
 
 She unfolded the page and laid it flat under the lamp.
 
-On it, in her grandmother's careful hand, were seven marks drawn in faded
-ink, each with a word written underneath. Gravity was one of them. It looked
+On it, in her grandmother's careful hand, were six marks drawn in a row in
+faded ink, each with a word written underneath. Gravity was one of them. It looked
 exactly like the one she'd stamped into the ledger that morning.
 
 But that wasn't the one she was looking at.
@@ -1015,9 +1014,9 @@ And under that, in smaller letters: *All of them.*
 Mrs. Harrow sat and looked at it for a long time. Two Grandmasters from one
 little street in five months, she thought. She had never seen anything like
 it in thirty-eight years. And then, at the very same desk, not two minutes
-later, a boy nobody was watching. She thought about the
-pencil on Mr. Pettibone's desk, rolling the wrong way for one breath. She thought
-about the boy's face when she'd asked him what he'd felt, and the half
+later, a boy nobody was watching. She thought about the pencil on Mr.
+Pettibone's desk, rolling the wrong way for one breath. She thought about
+the boy's face when she'd asked him what he'd felt, and the half
 second he'd waited before he said *cold.*
 
 Then she folded the page back up along its soft old creases, put it back

@@ -57,7 +57,7 @@ griamores. Their power is the same element everyone else uses, pushed to an
 | Earth | Earth Grandmaster | *(author to provide)* |
 | Light | Light Grandmaster | *(author to provide)* |
 | Ice | Ice Grandmaster | *(author to provide)* |
-| Nature | Nature Grandmaster | *(author to provide)* |
+| Thunder | Thunder Grandmaster | *(author to provide)* |
 
 In this era the Grandmasters are **celebrities**. Their faces are on
 posters and trading cards, their duels are broadcast on the radio, and the

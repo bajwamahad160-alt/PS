@@ -67,15 +67,15 @@ There are seven more griamores, one for each of the seven deadly sins.
 **Everyone has forgotten they exist.** They aren't in the registry, the
 schoolbooks, or the Bindery's records.
 
-| Griamore | Sin *(proposed pairing)* | Why it fits | Logo |
+| Griamore | Sin | Why it fits | Logo |
 |---|---|---|---|
 | Time | Sloth | Wanting to stop the clock and never have to move | *(author to provide)* |
 | Space | Greed | Wanting to be everywhere and hold everything | *(author to provide)* |
 | Gravity | Gluttony | Pulling everything in and devouring it | *(author to provide)* |
 | Mind | Envy | Getting inside other people and taking what's theirs | *(author to provide)* |
-| Energy | Wrath | Raw force with nowhere to go but out | *(author to provide)* |
+| Energy | Pride | Power that burns to be seen, and never believes it has limits | *(author to provide)* |
 | Soul | Lust | Wanting another person's very being | *(author to provide)* |
-| **Reqrium** | Pride | All of them at once, the sin of wanting to be everything | *(author to provide)* |
+| **Reqrium** | Wrath | Every power at once, unleashed the way only fury would | *(author to provide)* |
 
 **Reqrium** is the author's own word. It means **all of them**: the power
 of every other griamore in one book.

@@ -1,133 +1,92 @@
-# World Bible — *The Kettle at the End of the World*
+# World Bible: *The Forgotten Seven*
 
-## The one true fact of this world
+Items marked *(proposed)* are drafting suggestions and still need the
+author's approval. Everything else is the author's decision.
 
-**The world is cooling.** Not in a season — forever. Somewhere in the
-unrecorded past there was a warmth that filled everything the way water
-fills a valley, and then something broke, and ever since the warmth has been
-draining out of the world like heat off a stone at dusk. The people call the
-event the **Guttering** and mostly don't think about it, the way you don't
-think about the sun going down until you're the one left outside.
+## The era
 
-The cold advances as a slow tide called the **Grey**: a band of frost and
-fog and silence that swallows a little more land each generation. Behind the
-Grey nothing moves. It is not haunted. That's the horror of it — it is
-simply *finished.*
+The tech level matches *The Legend of Korra* (roughly the 1920s). Korra
+herself and anything else from that show do not appear. The world is its
+own.
 
-## Warmth is magic
+- Radio broadcasts, newspapers, newsreels at the picture house
+- Motorcars, trams, trains, and airships
+- Electric light in the cities, oil lamps in the country
+- Factories, unions, police departments, government ministries
+- Magic sits *inside* all of this. Fire users work the power stations, water
+  users run the canals and fire brigades, earth users build the skyscrapers.
 
-Heat, in this world, is not only physical. It carries a thin charge of the
-same force that once filled everything. Living things make it; fire holds
-it; and a rare few people can *move* it. This is the whole of magic. There
-are no wizards throwing fire. There are people who can take the warmth from
-one place and put it in another — and everything follows from how terrible
-and how tender that simple power turns out to be.
+*(proposed)* A central city as the main stage, something like Republic City
+but its own place: a big harbor city of smokestacks and neon, with rich
+districts on the hill and tenements on the docks. Name still to be chosen.
 
-**Terms:**
+## Griamores
 
-- **Ember-warmth / the Quick.** The magical charge in heat. A campfire has a
-  little; a living heart has more; grief and love and fury run hotter than
-  the body alone can account for, which is a fact the Chantry would rather
-  people not dwell on.
-- **Emberwrights.** People who can sense and move the Quick. Perhaps one in
-  a few thousand. Untrained, they run warm as children and cold as adults
-  and never know why. Trained, they can bank a fire that lasts a winter,
-  warm a dying man's blood, or — the forbidden thing — pull the warmth *out*
-  of a living person and leave a husk. That last act is called **reaping**,
-  and it is the sin the whole culture is organized around not committing.
-- **Coals of memory / quick-coals.** Warmth can be bound into a physical
-  coal that holds its charge for years. These are the coin, medicine,
-  fuel, and dowry of the Emberline. A wrapped quick-coal in your coat is the
-  difference between reaching the next town and not.
-- **The Hearthbond.** A town's central, always-tended flame. Kill a town's
-  hearth and the Grey moves in within a season. Hearths are tended by
-  **hearthwardens** — part priest, part firefighter, part civic backbone.
-  Wren used to be one. This matters.
+Everyone in the world gets a magic book called a **griamore**. Each
+griamore's cover carries a **logo** that represents the power held inside
+it.
 
-**The rule the plot turns on:** warmth is *conserved.* You can move it, hold
-it, hide it — but to make more of it than the living world produces, you
-must take it from something living. There is no free fire. Every warm room
-on the Emberline is warm because something, somewhere, is colder. Most
-people never have to know what. The story is about the people who do.
+*(proposed)* **How you get one: the Bindery.** Every citizen registers at
+the national Bindery on their sixteenth birthday. They're handed a blank
+book, and when they touch it, the book binds to them. The pages fill and
+the logo inks itself onto the cover. A clerk stamps the logo into the
+registry, and you walk out with a power and a file number. It's part
+coming-of-age ceremony and part government paperwork, which suits the era
+and keeps it clearly separate from Black Clover's tower ceremony.
 
-## Geography
+### Everyday magic
 
-- **The Emberline.** A chain of hearth-towns strung along the last warm
-  latitude, like beads on a wire, each within a hard day's travel of the
-  next. To the north: the Grey, and the swallowed towns behind it. To the
-  south: the **Sink**, warmer but drowned and fever-ridden, which is its own
-  slow death and another book.
-- **The Warm Road.** The trade track that threads the Emberline together.
-  Losing a town means the Road reroutes south, longer and colder, and the
-  towns beyond the gap begin to die.
-- **Lowfen.** Our town. A small, stubborn hearth-town near the *end* of the
-  Emberline's northern arm — one of the last beads on the wire before the
-  Road bends south. Half its buildings are shuttered; its young people
-  leave; its hearth is old. It is exactly the kind of place the map is
-  quietly giving up on. It is also, for reasons no one yet understands, the
-  place the ember comes to.
-- **The Kettle-and-Coal.** Wren's teahouse and waystation on Lowfen's north
-  edge — the last warm door before the Road runs out. Two rooms to let, a
-  long common table, a hearth Wren keeps better than the town keeps its own.
+**Anyone can use elemental powers**, not just the Grandmasters. Most people
+have an ordinary elemental griamore: a bit of fire, a bit of water, and so
+on. Those powers are useful, tradeable, and hireable.
 
-## The war (the dark bones)
+### The Elemental Seven: the Grandmasters
 
-A generation ago the Emberline fought the **Warmth War** — never called
-that by anyone who was in it, who just call it *the reaping years.* When the
-Grey took three towns in a single decade, desperate hearthwardens discovered
-that reaped warmth — warmth pulled from the living — burned hotter and
-banked longer than any honest fire. It could hold a hearth against the Grey.
-It could, some believed, turn the tide.
+Every generation, seven lucky people receive one of the seven Grandmaster
+griamores. Their power is the same element everyone else uses, pushed to an
+**overpowered** level.
 
-The Emberline tore itself in half over the question of whether it was
-allowed to survive that way. Wren was on the side that won the argument
-militarily and lost it morally — the side that used reaping to hold the line
-"just until the crisis passed," and then discovered a crisis never quite
-passes. She did things. She stopped. She walked south to the smallest town
-that would have her and started boiling water for strangers. The war is
-over. Nothing about it is settled.
+| Griamore | Holder's title | Logo |
+|---|---|---|
+| Flame | Flame Grandmaster | *(author to provide)* |
+| Water | Water Grandmaster | *(author to provide)* |
+| Air | Air Grandmaster | *(author to provide)* |
+| Earth | Earth Grandmaster | *(author to provide)* |
+| Light | Light Grandmaster | *(author to provide)* |
+| Ice | Ice Grandmaster | *(author to provide)* |
+| Nature | Nature Grandmaster | *(author to provide)* |
 
-## The factions (no one is clean)
+*(proposed)* In this era the Grandmasters are **celebrities**. Their faces
+are on posters and trading cards, their duels are broadcast on the radio,
+and the papers track their every move. When a Grandmaster dies, their
+griamore goes blank and waits for the next generation's holder.
 
-- **The Chantry of the Long Cold.** The reaction *against* the reaping
-  years. Their doctrine: the world is dying because it is *meant* to, and
-  every stolen fire only prolongs the suffering. A good death is warm,
-  brief, and freely given; a good world lets go. In practice they range from
-  gentle hospice-priests who ease the dying, to zealots who would snuff a
-  hearth to "let a town rest." They are not wrong about reaping. They are
-  monstrous about the conclusion. Their symbol is a covered flame.
-- **The Ashguard.** The militarized remnant of Wren's old side, reformed
-  into an order that hunts illegal reaping — and, quietly, hoards the
-  knowledge of how to do it "correctly," against the day they decide the
-  crisis has come again. Disciplined, sincere, and one bad winter away from
-  becoming the thing they police. They want the ember to *use* it. Their
-  symbol is a hand cupped around a coal.
-- **Ordinary people**, who mostly want their kids to stay, their hearth to
-  hold, and the tea to be hot — and who are the whole reason any of this is
-  worth arguing about.
+### The Demonic Seven: the forgotten books
 
-## The ember (the epic crack)
+There are seven more griamores, one for each of the seven deadly sins.
+**Everyone has forgotten they exist.** They aren't in the registry, the
+schoolbooks, or the Bindery's records.
 
-The thing the child carries in Chapter 1 is a coal that **does not cool and
-was never reaped.** It produces warmth without taking it from anything
-living — the one thing the rule of this world says is impossible. It is
-either a fragment of the original warmth that filled everything (in which
-case it is the seed of turning back the Grey), or it is something that only
-appears to give freely and takes in a way no one has learned to see yet (in
-which case it will be the worst thing that ever happened to the Emberline).
+| Griamore | Sin *(proposed pairing)* | Why it fits | Logo |
+|---|---|---|---|
+| Time | Sloth | Wanting to stop the clock and never have to move | *(author to provide)* |
+| Space | Greed | Wanting to be everywhere and hold everything | *(author to provide)* |
+| Gravity | Gluttony | Pulling everything in and devouring it | *(author to provide)* |
+| Mind | Envy | Getting inside other people and taking what's theirs | *(author to provide)* |
+| Energy | Wrath | Raw force with nowhere to go but out | *(author to provide)* |
+| Soul | Lust | Wanting another person's very being | *(author to provide)* |
+| **Reqrium** | Pride | All of them at once, the sin of wanting to be everything | *(author to provide)* |
 
-The book does not answer which for a long time. Both factions believe they
-know. Wren, who has been wrong before about exactly this kind of certainty,
-does not get to be sure — and that's the engine of the whole thing.
+**Reqrium** is the author's own word. It means **all of them**: the power
+of every other griamore in one book.
 
-## Rules of tone (for the writing)
+## Open questions
 
-1. **Warmth is always specific.** Never "it was cozy." Steam on a cold
-   window, the particular click of a kettle, wet wool drying, a regular's
-   standing order. Cozy is built from nouns.
-2. **The dark is never gratuitous.** Violence and cruelty are expensive and
-   have a cost we watch someone pay. No suffering for flavor.
-3. **The epic is measured in the small.** We feel the Grey through a
-   shuttered window and an empty chair, not a map with an arrow on it.
-4. **Nobody is a mouthpiece.** Even the Chantry zealot loves someone. Even
-   the Ashguard captain is tired and means well.
+1. **Why was the Demonic Seven forgotten?** It could have been
+   deliberately erased (a war, a cover-up by the Grandmasters or the
+   government), or it could be magic that makes people forget.
+2. **How do demonic griamores find their holders?** *(proposed)* They skip
+   the Bindery entirely and pick their holders on their own, often at the
+   worst possible moment.
+3. **Are the demonic books evil, or just feared?** Does using one tempt you
+   toward its sin?

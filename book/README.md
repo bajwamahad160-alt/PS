@@ -1,49 +1,30 @@
-# The Kettle at the End of the World
+# The Forgotten Seven
 
-*A fantasy novel — working title.*
+*A fantasy novel. Working title, easy to change.*
 
 ## Logline
 
-In a world that is slowly, quietly freezing to death, warmth is the only
-magic that matters — and an ex-soldier who keeps a teahouse at the edge of
-the last warm road must decide what she'll burn to protect the impossible
-ember a runaway child carries in her hands.
+Everyone gets a griamore. Everyone knows the seven Elemental Grandmasters,
+since they're on the radio and in every newspaper. Nobody remembers the
+other seven books. Then Owen gets his griamore, and its logo isn't in any
+record in the world.
 
-## Tone
+## The setting in one line
 
-A deliberate braid of three flavors:
-
-- **Cozy** — the daily texture of the Kettle-and-Coal: tea steeped just so,
-  regulars with standing orders, bread, mending, the small mercies of a
-  warm room on a cold night. The reader should *want to live here.*
-- **Dark** — the world beneath the warmth. A war that was lost for good
-  reasons and won for bad ones. Two factions who would each commit an
-  atrocity to save everyone. No one is purely right.
-- **Epic** — the Grey is coming for everything, and the ember in Chapter 1
-  is the first crack in a much larger story about whether a dying world
-  deserves to be saved, or allowed to rest.
-
-The book opens small and warm on purpose. The stakes widen one chapter at a
-time until the teahouse is the last human-scale thing left, and that's the
-point: the epic is measured against the cozy, not the other way around.
-
-## Structure
-
-- **Part One — The Warm Road.** Cozy-forward. Establish Lowfen, the Kettle,
-  Wren, and the town. The child arrives at the end.
-- **Part Two — What the Cold Wants.** The factions arrive. The war Wren ran
-  from comes to her door. Darker, faster.
-- **Part Three — The Long Morning.** The epic choice. What warmth costs, and
-  who pays it.
-
-## Files
-
-- `world-bible.md` — the world, the magic, the factions, the map, the rules.
-- `characters.md` — the cast.
-- `outline.md` — the three-part outline and chapter beats.
-- `chapters/` — the prose drafts. Chapter 1 is written.
+A world at roughly 1920s tech (radio, motorcars, airships, electric
+streetlights, newsreels, big industrial cities) where magic never went away.
+It got industrialized and regulated, and it runs through the everyday.
 
 ## Status
 
-Foundation + Chapter 1 drafted. Everything is a first pass and meant to be
-argued with.
+**Concept stage. Waiting on approval.**
+
+- `world-bible.md` covers the world, how griamores work, the Elemental
+  Seven, and the Demonic Seven.
+- `characters.md` covers Owen and the proposed supporting cast.
+- Logos for all 14 griamores are **still to come from the author**.
+- Anything marked *(proposed)* is a suggestion from the drafting pass and
+  hasn't been decided yet.
+
+The earlier concept (*The Kettle at the End of the World*) was dropped. It's
+still in the git history if any piece of it is ever wanted back.

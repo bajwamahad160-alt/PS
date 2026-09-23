@@ -80,6 +80,22 @@ schoolbooks, or the Bindery's records.
 **Reqrium** is the author's own word. It means **all of them**: the power
 of every other griamore in one book.
 
+### Irregulars: how Time can be "rare" if everyone forgot
+
+This works the same way as the elementals. Weak everyday versions of the
+demonic powers exist, but they're **rare**: a few per city per generation.
+The Bindery keeps them in a thin locked binder labeled *Irregulars* and
+treats them as oddities. What people have forgotten is that seven true
+books sit behind those powers, that the books are demonic, and that one of
+them is Reqrium.
+
+### Owen's griamore
+
+Owen holds **Reqrium** and doesn't know it. When it bound to him, it showed
+only the Time mark and filled only its first page. The Bindery filed it as
+a rare Time irregular, and Owen believes that's what he has. The reader
+learns the truth at the end of Chapter 1. Owen doesn't.
+
 ## Open questions
 
 1. **Why was the Demonic Seven forgotten?** It could have been

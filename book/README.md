@@ -17,12 +17,13 @@ It got industrialized and regulated, and it runs through the everyday.
 
 ## Status
 
-**Concept stage. Waiting on approval.**
+**Chapter 1 drafted** (`chapters/chapter-01.md`).
 
 - `world-bible.md` covers the world, how griamores work, the Elemental
-  Seven, and the Demonic Seven.
-- `characters.md` covers Owen and the proposed supporting cast.
-- Logos for all 14 griamores are **still to come from the author**.
+  Seven, the Demonic Seven, and the Irregulars.
+- `characters.md` covers Owen and the cast so far.
+- Logos for all 14 griamores are **still to come from the author**. The
+  chapter only calls them "the mark" so the real designs can slot in.
 - Anything marked *(proposed)* is a suggestion from the drafting pass and
   hasn't been decided yet.
 

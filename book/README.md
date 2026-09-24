@@ -26,13 +26,17 @@ It got industrialized and regulated, and it runs through the everyday.
 The author picks a size per chapter, or leaves it to judgment. Chapter 1
 runs about 5,300 words, between small and medium.
 
-## The book PDF
+## Reading the book
 
-`The-Forgotten-Seven.pdf` is the whole book so far: cover, title page,
-contents and every chapter. It is rebuilt after every chapter change with:
+- **Web page (easiest):** https://claude.ai/artifact/JE9K5sFr7yEWdKcQWg64Sf
+- **PDF:** `The-Forgotten-Seven.pdf`, with cover, title page, contents and
+  every chapter.
+
+Both are rebuilt after every chapter change with:
 
 ```
 python3 book/build_pdf.py
+python3 book/build_web.py
 ```
 
 Drop a finished cover image at `art/cover.png` and the next build uses it.

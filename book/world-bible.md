@@ -80,9 +80,17 @@ are still unnamed.
 
 ### The Demonic Seven: the forgotten books
 
-There are seven more griamores, one for each of the seven deadly sins.
+There are seven demonic griamores, tied to the seven deadly sins.
 **Everyone has forgotten they exist.** They aren't in the registry, the
 schoolbooks, or the Bindery's records.
+
+**How the seven work** *(author's decision)*:
+1. **Six people are chosen**, one for each of the six demonic books: Time,
+   Space, Gravity, Mind, Energy and Soul.
+2. **The strongest of the six becomes Reqrium**, the book that holds all of
+   them.
+3. **A new person is then chosen** to fill the open place, which makes it
+   seven again.
 
 | Griamore | Sin | Why it fits | Logo |
 |---|---|---|---|
@@ -94,62 +102,59 @@ schoolbooks, or the Bindery's records.
 | Soul | Lust | Wanting another person's very being | *(author to provide)* |
 | **Reqrium** | Wrath | Every power at once, unleashed the way only fury would | Three crescents in three-way symmetry, linked by a ring (`art/reqrium-logo.png`) |
 
-**Reqrium** is the author's own word. It means **all of them**: the power
-of every other griamore in one book.
+**Reqrium** is the author's own word. It means **all of them**.
 
-### Rare powers: how Gravity can be "rare" if everyone forgot
+### Rare powers
 
 Weak everyday versions of the demonic powers (Time, Space, Gravity, and so
 on) still get handed out at the Bindery, but they're **rare**: maybe one
 every few years in a big city. They sit in a small RARE section at the
-back of the registry. Nobody treats them as scary, just unusual. What
-people have forgotten is that seven true books sit behind those powers,
-that the books are demonic, and that one of them is Reqrium.
+back of the registry. Nobody treats them as scary, just unusual.
 
 ### Owen's griamore
 
-Owen holds **Reqrium** and doesn't know it. When it bound to him, it showed
-only the Gravity mark and filled only its first page. The Bindery filed it
-as a rare Gravity book, and Owen believes that's what he has.
+Owen starts with **Gravity**, one of the six true demonic books *(author's
+decision)*. It is nothing like the rare everyday version: on his first
+touch, gravity in the whole Bindery went to maximum and crushed everyone to
+the floor except him. The Bindery wardens cuffed him on the spot.
 
 Why Gravity *(author's decision)*: gravity and light travel at the same
-speed, which ties Owen to Talia, the Light Grandmaster. In Chapter 1 she
-tells him that means he'll always keep up with her. The reader
-learns the truth at the end of Chapter 1. Owen doesn't.
+speed, which ties Owen to Talia, the Light Grandmaster.
 
 ## Open questions
 
 1. **Why was the Demonic Seven forgotten?** It could have been
    deliberately erased (a war, a cover-up by the Grandmasters or the
    government), or it could be magic that makes people forget.
-2. **How do demonic griamores find their holders?** *(proposed)* They skip
-   the Bindery entirely and pick their holders on their own, often at the
-   worst possible moment.
+2. **Who knows?** The wardens carry iron cuffs cut with unregistered marks
+   that shut Owen's power off, so someone clearly prepared for this.
 3. **Are the demonic books evil, or just feared?** Does using one tempt you
    toward its sin?
+4. **Who are the other five demonic holders**, and will Owen be the one who
+   becomes Reqrium?
 
 ## Seeds planted in Chapter 1
 
-- **Lighten** ("for a moment, the thing you name weighs nothing") is
-  Owen's first spell. It only works if he focuses on the thing itself, and
-  it causes a sharp headache after about one breath.
-- When Owen touched his book, he felt every power at once for half a
-  second before it settled into weight. At the desk, a pencil rolled the
-  wrong way toward his book. He told Mrs. Harrow he only felt "cold."
-- **Mrs. Harrow** remembers the Demonic Seven only as her grandmother's
-  "fairy stories." Her grandmother, who also worked at the Bindery, left
-  her a page with the demonic marks, including Reqrium with the Gravity
-  crescent inside it.
-- **The falling-out** *(author's decision)*: on Talia's Bindery day, Owen
-  pushed through the crowd to congratulate her, and she looked at him like
-  a stranger and walked past him without a word. She never wrote or
-  visited for five months, though she sent Tess a signed card. On Owen's
-  Bindery day she comes, and he ignores her and walks past her the same
-  way.
-- **Talia's reason** is still a secret. Her note says she's "not allowed to
-  put it in a letter" and she'll explain on Saturday.
-- Owen drew the mustache on Talia's poster, and she knows it.
+- **The falling-out** *(author's decision)*: on Talia's Bindery day she
+  celebrated with Owen, hugging him and saying "Us." She shouted for him to
+  come over that night and bring cake. When he showed up at her family's
+  flat with a cake that said TALIA in gold, she looked at him like a
+  stranger and shut the door. She moved up the hill that night and never
+  wrote, though she sent Tess a signed card. That's why Owen hates her.
+- On Owen's Bindery day, Talia comes and says there's a reason she "can't"
+  explain. He ignores her.
+- **Mr. Crane** was the man at Talia's shoulder on the landing that night.
+- When gravity crushed the hall, Talia was the only one who could fight
+  it. She got to one knee and talked Owen into letting go.
+- For a moment Owen felt light and liked that everyone was watching him.
+  That frightened him. (Gravity's sin is Gluttony.)
+- The wardens' **iron cuffs**, cut with strange marks, shut off his power.
+  His book was locked in an iron box.
+- **Mrs. Harrow** saw the book and went white.
+- Mr. Crane told Talia: "You cannot be seen with this. Not after everything
+  we've..." Owen is starting to suspect her look on the landing wasn't what
+  he thought.
+- Owen drew the mustache on Talia's poster.
 - On the radio, Talia dedicates her exhibition to "Cable Street."
-- Talia sent Owen one front-row ticket to her exhibition at Harbor Arena on
-  Saturday. He doesn't know yet if he's going.
-- Mom's advice: "Things you leave too long get heavy."
+- Pop told Owen to come straight home after the Bindery. He didn't.
+- The Thunder Grandmaster book is still unclaimed.

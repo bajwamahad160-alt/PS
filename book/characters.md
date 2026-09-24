@@ -13,10 +13,10 @@ A guy named Owen. Everything past that is still open.
 - **Background:** grew up working-class on the docks of the big city.
   Knows every Grandmaster's stats off the trading cards and assumed he'd
   end up with a small, ordinary fire griamore like his dad.
-- **The hook:** at the Bindery his griamore shows the Gravity mark, a rare
-  power, and he's thrilled. It's actually **Reqrium**, the most
-  powerful of the forgotten Demonic Seven, wearing Gravity as a disguise.
-  Owen doesn't know. *(Author's decision.)*
+- **The hook:** his first touch of a griamore crushes everyone in the
+  Bindery to the floor. He holds **Gravity**, one of the six true demonic
+  books *(author's decision)*, and gets cuffed and taken away at the end of
+  Chapter 1.
 - **Look:** white, with fair skin *(author's decision)*.
 
 ## Supporting cast
@@ -38,11 +38,11 @@ A guy named Owen. Everything past that is still open.
 
 - **Talia Reyes** — Owen's best friend since they were seven *(author's
   decision)*. Five months older than Owen. Became the **Light Grandmaster**
-  on her sixteenth birthday. When Owen came to congratulate her, she walked
-  past him like a stranger, for a reason she isn't allowed to write down.
-  She hasn't contacted him since, but she shows up at his Bindery day and
-  stays even when he ignores her. Lives in the Ministry towers with a
-  handler and a packed schedule, and she's tired and lonely. Her hands
+  on her sixteenth birthday and celebrated with Owen at the Bindery. That
+  night, when he brought her a cake, she looked at him like a stranger and
+  shut the door, for a reason she says she "can't" explain. At his Bindery
+  day she's the only one who can fight his gravity, and she screams at the
+  wardens when they take him. Lives in the Ministry towers. Her hands
   always run warm. She is white, with fair skin *(author's decision)*.
 - **Jonah Pike** — *(not in Chapter 1 for now)*. Planned as Owen's other
   best friend and the future **Thunder Grandmaster** *(author's decision)*.
@@ -56,11 +56,13 @@ A guy named Owen. Everything past that is still open.
 - **Ruth Pike** — Jonah's mom *(not in Chapter 1 for now)*. Has a sound
   griamore and can be heard from across a street without raising her voice.
 - **Mr. Crane** — Talia's Ministry handler. Always checking his watch, and
-  worried about who's watching.
+  worried about who's watching. He was at her shoulder the night she shut
+  the door on Owen.
 - **Mr. Pettibone** — tired Bindery clerk.
-- **Mrs. Odile Harrow** — old Bindery supervisor who half-remembers the
-  Demonic Seven from her grandmother's stories. Plans to keep an eye on
-  Owen.
+- **Mrs. Odile Harrow** — old Bindery supervisor. She went white when she
+  saw Owen's book.
+- **The wardens** — Bindery guards in dark grey uniforms, carrying iron
+  cuffs cut with strange marks.
 - **Mrs. Abernathy** — downstairs neighbor.
 - **Barnaby Holt** — the old Thunder Grandmaster. Died six weeks before
   Chapter 1, in his armchair during a rainstorm.

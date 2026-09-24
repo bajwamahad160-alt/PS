@@ -31,15 +31,12 @@ Jonah is a working-class kid from the harbor docks of a 1920s-style magical city
 - A friendly, open, slightly long face with a pointed chin and big expressive eyebrows that move a lot.
 - Eyes: bright STORM-BLUE eyes (deep navy at the edges, fading to bright electric blue near the pupil), very detailed, with sharp white catchlights like tiny lightning glints.
 - LOTS of freckles across his nose and cheeks.
-- A big, wide, cheeky GRIN with a tiny gap between his front teeth.
+- A big, wide, cheeky GRIN with straight, even white teeth.
 - Expression in the neutral views: a relaxed, mischievous grin.
 
 === HAIR ===
-- Scruffy ASH-BROWN hair with lighter sandy tips. It STICKS UP in random directions from static electricity, fluffy and a little frizzy, poking out from under his cap.
+- Scruffy ASH-BROWN hair with lighter sandy tips, medium length and fully visible. It STICKS UP in random directions from static electricity, fluffy, a little frizzy and spiky, with a few strands falling over his forehead. It looks like he just touched a live wire, which he probably did.
 - Small tiny sparks occasionally flicker at the tips of a few strands.
-
-=== SIGNATURE HAT ===
-- A slightly OVERSIZED dark charcoal-grey NEWSBOY / FLAT CAP (it used to belong to his older brother), worn a little tilted. It has a small gold Thunder emblem pin on the side (placeholder: a bold zigzag lightning bolt). His staticky hair sticks out all around the edges.
 
 === OUTFIT: GREY AND DARK BLUE GRANDMASTER SUIT ===
 A cool, stylish, tailored suit that mixes a 1920s Art Deco look with modern anime hero design. Mostly STORM GREY with DARK NAVY BLUE, with silver and a few gold details (because he's a Grandmaster):
@@ -64,24 +61,23 @@ A cool, stylish, tailored suit that mixes a 1920s Art Deco look with modern anim
 A wide landscape character sheet (16:9) on a clean warm off-white/light parchment background with very faint grid lines, like a professional anime studio model sheet. Every view shows the SAME character with the SAME outfit, colors, proportions and height. Full-body figures stand on the same baseline at the same scale.
 
 TOP ROW, full-body turnaround in a neutral standing pose (relaxed, hands loosely at his sides, weight on one leg, easy grin):
-  1. FULL BODY FRONT VIEW: facing the viewer directly, showing the cap, the scarf, the mantle and clasp, the gold Thunder emblem on his chest, the suspenders, and the book holster on his right hip.
-  2. FULL BODY LEFT SIDE VIEW: exact left profile, showing his lanky silhouette, the scarf ends, the cap's brim, and the rolled-up sleeves.
-  3. FULL BODY BACK VIEW: facing away, showing the back of the storm-grey mantle with its silver zigzag trim, the scarf ends, and staticky hair sticking out under the cap.
-  4. FULL BODY RIGHT SIDE VIEW: exact right profile, showing the book holster, the gloves with silver studs, and the cap pin.
+  1. FULL BODY FRONT VIEW: facing the viewer directly, showing the static hair, the scarf, the mantle and clasp, the gold Thunder emblem on his chest, the suspenders, and the book holster on his right hip.
+  2. FULL BODY LEFT SIDE VIEW: exact left profile, showing his lanky silhouette, the scarf ends, the spiky hair silhouette, and the rolled-up sleeves.
+  3. FULL BODY BACK VIEW: facing away, showing the back of the storm-grey mantle with its silver zigzag trim, the scarf ends, and the staticky hair sticking up at the back.
+  4. FULL BODY RIGHT SIDE VIEW: exact right profile, showing the book holster and the gloves with silver studs.
 
 MIDDLE ROW, head and shoulders studies (larger scale, detailed faces):
-  5. HEAD FRONT VIEW: facing forward with a big cheeky grin showing the small gap in his teeth. Storm-blue eyes clearly detailed.
+  5. HEAD FRONT VIEW: facing forward with a big cheeky grin. Storm-blue eyes clearly detailed.
   6. HEAD THREE-QUARTER VIEW: turned about 45 degrees, laughing, eyebrows raised.
-  7. HEAD LEFT SIDE PROFILE: exact left profile, showing the cap's shape and the hair poking out.
-  8. HEAD RIGHT SIDE PROFILE: exact right profile, showing the gold cap pin and the scarf.
-  9. HEAD BACK VIEW: the back of his head, showing the back of the cap and the fluffy static hair underneath.
+  7. HEAD LEFT SIDE PROFILE: exact left profile, showing the spiky static hair silhouette and his pointed chin.
+  8. HEAD RIGHT SIDE PROFILE: exact right profile, showing the scarf wrapped around his neck.
+  9. HEAD BACK VIEW: the back of his head, showing the fluffy static hair sticking up in every direction.
 
 RIGHT SIDE / BOTTOM, large feature panel:
-  10. GRIAMORE MAGIC POSE: a dynamic, energetic full-body pose. His griamore floats open in the air ABOVE his head, with pages flipping wildly. THUNDER MAGIC explodes from it: bright blue-white lightning bolts arc from the open pages down to his raised hand, small dark storm clouds swirl around the book, and electric sparks jump between his gloved knuckle studs. His other hand holds his cap down on his head so it doesn't blow away. His hair stands completely straight up with static, his scarf and mantle whip wildly in the wind, and sparks run along his arms. His expression is a huge, wild, excited grin, half thrilled and half "oh no," with his storm-blue eyes glowing bright electric blue. Tiny blue sparks crackle around his boots on the ground.
+  10. GRIAMORE MAGIC POSE: a dynamic, energetic full-body pose. His griamore floats open in the air ABOVE his head, with pages flipping wildly. THUNDER MAGIC explodes from it: bright blue-white lightning bolts arc from the open pages down to his raised hand, small dark storm clouds swirl around the book, and electric sparks jump between his gloved knuckle studs. His other hand is clenched into a fist at his side, crackling with sparks. His hair stands completely straight up with static, his scarf and mantle whip wildly in the wind, and sparks run along his arms. His expression is a huge, wild, excited grin, half thrilled and half "oh no," with his storm-blue eyes glowing bright electric blue. Tiny blue sparks crackle around his boots on the ground.
 
 SMALL DETAIL CALLOUT BOXES (along the bottom edge):
   - A close-up of the griamore cover showing the gold Thunder emblem with blue sparks.
-  - A close-up of the newsboy cap with its gold lightning pin.
   - A close-up of the lightning-bolt mantle clasp.
   - A close-up of the fingerless glove with silver knuckle studs.
   - A close-up of a navy boot.
@@ -97,5 +93,5 @@ At the top of the sheet, a clean, small title: "JONAH PIKE — THUNDER GRANDMAST
 Masterpiece quality, highly detailed, sharp clean lineart, consistent character across all views, accurate anatomy, correct hands with five fingers, symmetrical eyes, professional anime studio character design sheet, 4K resolution.
 
 === AVOID ===
-Do not include: extra characters, different outfits between views, inconsistent hair, missing cap in some views, extra fingers, distorted hands, cropped feet, cropped heads, messy background, watermarks, signatures, misspelled text, chibi style, 3D render look, photorealism, neon colors, purple or white suits.
+Do not include: extra characters, different outfits between views, inconsistent hair, hats, caps, missing teeth, gaps between teeth, extra fingers, distorted hands, cropped feet, cropped heads, messy background, watermarks, signatures, misspelled text, chibi style, 3D render look, photorealism, neon colors, purple or white suits.
 ```

@@ -90,11 +90,11 @@ schoolbooks, or the Bindery's records.
 |---|---|---|---|
 | Time | Sloth | Wanting to stop the clock and never have to move | *(author to provide)* |
 | Space | Greed | Wanting to be everywhere and hold everything | *(author to provide)* |
-| Gravity | Gluttony | Pulling everything in and devouring it | *(author to provide)* |
+| Gravity | Gluttony | Pulling everything in and devouring it | One crescent from the Reqrium emblem, with the ring through it *(proposed)* |
 | Mind | Envy | Getting inside other people and taking what's theirs | *(author to provide)* |
 | Energy | Pride | Power that burns to be seen, and never believes it has limits | *(author to provide)* |
 | Soul | Lust | Wanting another person's very being | *(author to provide)* |
-| **Reqrium** | Wrath | Every power at once, unleashed the way only fury would | *(author to provide)* |
+| **Reqrium** | Wrath | Every power at once, unleashed the way only fury would | Three crescents in three-way symmetry, linked by a ring (`art/reqrium-logo.png`) |
 
 **Reqrium** is the author's own word. It means **all of them**: the power
 of every other griamore in one book.

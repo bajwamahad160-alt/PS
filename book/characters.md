@@ -39,7 +39,8 @@ A guy named Owen. Everything past that is still open.
   older than Owen. Became the **Light Grandmaster** on her sixteenth
   birthday. Now lives in the Ministry towers with a handler and a packed
   schedule, and she's tired and a little lonely, but she's still Talia.
-  Her hands always run warm.
+  Her hands always run warm. She is white, with fair skin *(author's
+  decision)*.
 - **Jonah Pike** — Owen's other best friend and the new **Thunder
   Grandmaster** *(author's decision)*. Shares Owen's birthday *(author's
   decision)*: they were born twenty minutes apart in neighboring hospital

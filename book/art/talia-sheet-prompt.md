@@ -15,7 +15,7 @@ The style is a modern premium anime illustration, like a high-end light novel co
 - Soft cel shading with 2-3 shadow tones, gently blended at the edges, and a subtle warm golden rim light.
 - Large, glossy, expressive anime eyes with layered iris gradients, two bright catchlights, and thick upper lashes.
 - Hair drawn in soft chunky locks that separate into fine strands at the tips, with gentle glossy highlights and slight color variation from roots to ends.
-- Warm skin with a soft blush on the cheeks and nose and a few very faint freckles.
+- Fair, light skin with a soft pink blush on the cheeks and nose and a few very faint freckles.
 - Slightly muted, desaturated color grading: warm highlights, cool shadows, nothing neon.
 - A faint paper/grain texture over the whole image and light hatching in fabric shadows, so it feels half painted and half drawn.
 - Believable fabric with real weight and natural folds.
@@ -35,7 +35,7 @@ Talia is a working-class girl from the harbor docks of a 1920s-style magical cit
 - Average height, a little shorter than her two best friends.
 
 === FACE ===
-- A warm, kind face that also looks capable and brave.
+- A warm, kind face that also looks capable and brave. She is white, with FAIR, LIGHT skin and a soft rosy undertone.
 - Eyes: large warm GOLDEN-AMBER eyes with honey-gold iris gradients, darker gold rims, and bright white catchlights. A very faint tiredness under her eyes (she works too hard), subtle and still pretty.
 - Soft blush and faint freckles across her nose and cheeks.
 - Expression in the neutral views: a small, confident, friendly smile.
@@ -89,10 +89,10 @@ SMALL DETAIL CALLOUT BOXES (along the bottom edge):
   - A close-up of the sunburst pendant necklace.
   - A close-up of the sunburst hair clip and the pencil behind her ear.
   - A close-up of a white and gold ankle boot.
-  - A color palette strip with swatches: pure white, cream white, bright gold, deep antique gold, honey-amber (eyes), deep brown-black (hair), warm skin tone.
+  - A color palette strip with swatches: pure white, cream white, bright gold, deep antique gold, honey-amber (eyes), deep brown-black (hair), fair light skin tone.
 
 === LIGHTING & COLOR ===
-Soft, even studio lighting for the turnaround views so every detail is clear. Warm glowing magical light only in the griamore magic pose. The main palette is white and gold, with her dark hair, golden eyes and warm skin as contrast. The colors stay slightly muted and elegant, matching the reference style.
+Soft, even studio lighting for the turnaround views so every detail is clear. Warm glowing magical light only in the griamore magic pose. The main palette is white and gold, with her dark hair, golden eyes and fair skin as contrast. The colors stay slightly muted and elegant, matching the reference style.
 
 === TEXT ===
 At the top of the sheet, a clean, small title: "TALIA REYES — LIGHT GRANDMASTER". Tiny clean labels under each view: "FRONT", "LEFT", "BACK", "RIGHT", "HEAD FRONT", "3/4", "LEFT PROFILE", "RIGHT PROFILE", "HEAD BACK", "GRIAMORE". All text spelled correctly. No other text.

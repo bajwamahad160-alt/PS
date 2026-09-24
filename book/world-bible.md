@@ -70,12 +70,10 @@ Bindery ceiling lights up.
 on her sixteenth birthday, five months before Chapter 1, after the old
 Light Grandmaster died of old age.
 
-**Current Thunder Grandmaster: Jonah Pike** *(author's decision)*, Owen's
-other best friend. He got it at the Bindery on the same day as Owen, six
-weeks after the old Thunder Grandmaster, Barnaby Holt, died. That makes two
-Grandmasters from Cable Street in five months. When a Grandmaster book
-binds, the matching ceiling mark lights up: clean white for Talia, and
-flickering blue-white with a real roll of thunder for Jonah.
+**Thunder Grandmaster: open.** The old Thunder Grandmaster, Barnaby Holt,
+died six weeks before Chapter 1, and his book is still unclaimed. **Jonah
+Pike** is planned to become the Thunder Grandmaster later *(author's
+decision)*, but he is out of Chapter 1 for now.
 
 **Current Flame Grandmaster: Cassius Rourke.** Water, Air, Earth, and Ice
 are still unnamed.
@@ -136,15 +134,22 @@ learns the truth at the end of Chapter 1. Owen doesn't.
   Owen's first spell. It only works if he focuses on the thing itself, and
   it causes a sharp headache after about one breath.
 - When Owen touched his book, he felt every power at once for half a
-  second before it settled into weight. At the desk, a pencil rolled
-  the wrong way toward his book. He told Mrs. Harrow he only felt "cold."
+  second before it settled into weight. At the desk, a pencil rolled the
+  wrong way toward his book. He told Mrs. Harrow he only felt "cold."
 - **Mrs. Harrow** remembers the Demonic Seven only as her grandmother's
   "fairy stories." Her grandmother, who also worked at the Bindery, left
-  her a page with all seven demonic marks, including Reqrium with the Gravity
-  mark hidden inside it.
-- Talia's hand is always warm now, and she went still for a second when
-  she held Owen's book.
-- Talia has invited Owen and Jonah to her exhibition at Harbor Arena on
-  Saturday.
-- A Ministry car picks Jonah up at **nine the next morning** to "relocate"
-  him for training. Owen promised to visit every Sunday.
+  her a page with the demonic marks, including Reqrium with the Gravity
+  crescent inside it.
+- **The falling-out** *(author's decision)*: on Talia's Bindery day, Owen
+  pushed through the crowd to congratulate her, and she looked at him like
+  a stranger and walked past him without a word. She never wrote or
+  visited for five months, though she sent Tess a signed card. On Owen's
+  Bindery day she comes, and he ignores her and walks past her the same
+  way.
+- **Talia's reason** is still a secret. Her note says she's "not allowed to
+  put it in a letter" and she'll explain on Saturday.
+- Owen drew the mustache on Talia's poster, and she knows it.
+- On the radio, Talia dedicates her exhibition to "Cable Street."
+- Talia sent Owen one front-row ticket to her exhibition at Harbor Arena on
+  Saturday. He doesn't know yet if he's going.
+- Mom's advice: "Things you leave too long get heavy."

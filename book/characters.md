@@ -36,28 +36,27 @@ A guy named Owen. Everything past that is still open.
 
 *(names are proposals unless noted, all easy to change)*
 
-- **Talia Reyes** — Owen's best friend *(author's decision)*. Five months
-  older than Owen. Became the **Light Grandmaster** on her sixteenth
-  birthday. Now lives in the Ministry towers with a handler and a packed
-  schedule, and she's tired and a little lonely, but she's still Talia.
-  Her hands always run warm. She is white, with fair skin *(author's
-  decision)*.
-- **Jonah Pike** — Owen's other best friend and the new **Thunder
-  Grandmaster** *(author's decision)*. Shares Owen's birthday *(author's
-  decision)*: they were born twenty minutes apart in neighboring hospital
-  beds, on either side of midnight. The two families have always had one
-  party with one cake. He wanted an ordinary water book and never wished
-  for Grandmaster. Drew a mustache on Talia's poster. White, with fair
-  skin *(author's decision)*.
+- **Talia Reyes** — Owen's best friend since they were seven *(author's
+  decision)*. Five months older than Owen. Became the **Light Grandmaster**
+  on her sixteenth birthday. When Owen came to congratulate her, she walked
+  past him like a stranger, for a reason she isn't allowed to write down.
+  She hasn't contacted him since, but she shows up at his Bindery day and
+  stays even when he ignores her. Lives in the Ministry towers with a
+  handler and a packed schedule, and she's tired and lonely. Her hands
+  always run warm. She is white, with fair skin *(author's decision)*.
+- **Jonah Pike** — *(not in Chapter 1 for now)*. Planned as Owen's other
+  best friend and the future **Thunder Grandmaster** *(author's decision)*.
+  Born the same night as Owen. White, with fair skin *(author's decision)*.
 - **Pop** — Owen's dad. Stokes the boilers at the Eastside power station
   with a small fire griamore.
 - **Mom** — works the early shift at the cannery. Tells Owen the truth when
   Pop wants to spare him.
 - **Tess** — Owen's ten-year-old sister. Collects Grandmaster trading
   cards and owns a signed Talia card she will never trade.
-- **Ruth Pike** — Jonah's mom. Has a sound griamore and can be heard from
-  across a street without raising her voice.
-- **Mr. Crane** — Talia's Ministry handler. Always checking his watch.
+- **Ruth Pike** — Jonah's mom *(not in Chapter 1 for now)*. Has a sound
+  griamore and can be heard from across a street without raising her voice.
+- **Mr. Crane** — Talia's Ministry handler. Always checking his watch, and
+  worried about who's watching.
 - **Mr. Pettibone** — tired Bindery clerk.
 - **Mrs. Odile Harrow** — old Bindery supervisor who half-remembers the
   Demonic Seven from her grandmother's stories. Plans to keep an eye on

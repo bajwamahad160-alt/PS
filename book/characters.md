@@ -17,6 +17,7 @@ A guy named Owen. Everything past that is still open.
   power, and he's thrilled. It's actually **Reqrium**, the most
   powerful of the forgotten Demonic Seven, wearing Gravity as a disguise.
   Owen doesn't know. *(Author's decision.)*
+- **Look:** white, with fair skin *(author's decision)*.
 
 ## Supporting cast
 
@@ -46,7 +47,8 @@ A guy named Owen. Everything past that is still open.
   decision)*: they were born twenty minutes apart in neighboring hospital
   beds, on either side of midnight. The two families have always had one
   party with one cake. He wanted an ordinary water book and never wished
-  for Grandmaster. Drew a mustache on Talia's poster.
+  for Grandmaster. Drew a mustache on Talia's poster. White, with fair
+  skin *(author's decision)*.
 - **Pop** — Owen's dad. Stokes the boilers at the Eastside power station
   with a small fire griamore.
 - **Mom** — works the early shift at the cannery. Tells Owen the truth when

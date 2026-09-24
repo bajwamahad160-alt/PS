@@ -14,7 +14,7 @@ The style is a modern premium anime illustration, like a high-end light novel co
 - Soft cel shading with 2-3 shadow tones, gently blended at the edges, and a subtle cool blue rim light.
 - Large, expressive anime eyes with layered iris gradients, two bright catchlights, and defined upper lashes.
 - Hair drawn in soft chunky locks that separate into fine strands at the tips, with gentle glossy highlights and slight color variation.
-- Warm skin with a light blush on the cheeks and nose, and freckles.
+- Fair, light skin with a light pink blush on the cheeks and nose, and freckles.
 - Slightly muted, desaturated color grading: warm highlights, cool shadows, nothing neon.
 - A faint paper/grain texture over the whole image and light hatching in fabric shadows, so it feels half painted and half drawn.
 - Believable fabric with real weight and natural folds.
@@ -28,6 +28,7 @@ Jonah is a working-class kid from the harbor docks of a 1920s-style magical city
 - The tallest of his friend group.
 
 === FACE ===
+- He is white, with FAIR, LIGHT, freckled skin.
 - A friendly, open, slightly long face with a pointed chin and big expressive eyebrows that move a lot.
 - Eyes: bright STORM-BLUE eyes (deep navy at the edges, fading to bright electric blue near the pupil), very detailed, with sharp white catchlights like tiny lightning glints.
 - LOTS of freckles across his nose and cheeks.
@@ -81,10 +82,10 @@ SMALL DETAIL CALLOUT BOXES (along the bottom edge):
   - A close-up of the lightning-bolt mantle clasp.
   - A close-up of the fingerless glove with silver knuckle studs.
   - A close-up of a navy boot.
-  - A color palette strip with swatches: storm grey, charcoal grey, dark navy blue, electric blue, silver, gold, ash-brown (hair), storm blue (eyes), warm freckled skin tone.
+  - A color palette strip with swatches: storm grey, charcoal grey, dark navy blue, electric blue, silver, gold, ash-brown (hair), storm blue (eyes), fair freckled skin tone.
 
 === LIGHTING & COLOR ===
-Soft, even studio lighting for the turnaround views so every detail is clear. Bright blue-white electric light only in the griamore magic pose, with dramatic flickering highlights and deep storm shadows. The main palette is storm grey and dark navy blue, with silver and small gold accents, and his warm freckled skin and ash-brown hair as contrast. The colors stay slightly muted and elegant, matching the reference style.
+Soft, even studio lighting for the turnaround views so every detail is clear. Bright blue-white electric light only in the griamore magic pose, with dramatic flickering highlights and deep storm shadows. The main palette is storm grey and dark navy blue, with silver and small gold accents, and his fair freckled skin and ash-brown hair as contrast. The colors stay slightly muted and elegant, matching the reference style.
 
 === TEXT ===
 At the top of the sheet, a clean, small title: "JONAH PIKE — THUNDER GRANDMASTER". Tiny clean labels under each view: "FRONT", "LEFT", "BACK", "RIGHT", "HEAD FRONT", "3/4", "LEFT PROFILE", "RIGHT PROFILE", "HEAD BACK", "GRIAMORE". All text spelled correctly. No other text.

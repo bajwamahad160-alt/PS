@@ -15,7 +15,7 @@ The style is a modern premium anime illustration, like a high-end light novel co
 - Soft cel shading with 2-3 shadow tones, gently blended at the edges, and a subtle cool rim light.
 - Large, expressive anime eyes with layered iris gradients, two bright catchlights, and defined upper lashes.
 - Hair drawn in soft chunky locks that separate into fine strands at the tips, with gentle glossy highlights and slight color variation.
-- Warm skin with a light blush on the cheeks and nose and a few faint freckles.
+- Fair, light skin with a light pink blush on the cheeks and nose and a few faint freckles.
 - Slightly muted, desaturated color grading: warm highlights, cool shadows, nothing neon.
 - A faint paper/grain texture over the whole image and light hatching in fabric shadows, so it feels half painted and half drawn.
 - Believable fabric with real weight and natural folds.
@@ -35,6 +35,7 @@ Owen has two emblems. One is hidden inside the other.
 - A little taller than average.
 
 === FACE ===
+- He is white, with FAIR, LIGHT skin (a little sun-touched from working outdoors on the docks).
 - A youthful, slightly angular face with a defined jaw that's still soft with youth. A straight nose and a friendly mouth.
 - Eyes: STEEL-GREY eyes with a faint DEEP VIOLET ring around the outer edge of each iris, very detailed, with bright catchlights. The violet ring should be subtle, only noticeable up close.
 - A tiny faded scar on his chin, from falling off a crane ladder as a kid.
@@ -91,10 +92,10 @@ SMALL DETAIL CALLOUT BOXES (along the bottom edge):
   - A close-up of the leather bracelet with the brass tram token.
   - A close-up of a black boot with purple laces.
   - A close-up of the fingerless glove.
-  - A color palette strip with swatches: deep matte black, charcoal black, royal purple, deep violet, gunmetal silver, steel grey (eyes), dim crimson (hidden emblem), warm skin tone.
+  - A color palette strip with swatches: deep matte black, charcoal black, royal purple, deep violet, gunmetal silver, steel grey (eyes), dim crimson (hidden emblem), fair light skin tone.
 
 === LIGHTING & COLOR ===
-Soft, even studio lighting for the turnaround views so every detail is clear. Moody violet magical light only in the griamore magic pose, with deep shadows and glowing purple highlights. The main palette is deep black and purple, with his warm skin and steel-grey eyes as contrast. The colors stay slightly muted and elegant, matching the reference style.
+Soft, even studio lighting for the turnaround views so every detail is clear. Moody violet magical light only in the griamore magic pose, with deep shadows and glowing purple highlights. The main palette is deep black and purple, with his fair skin and steel-grey eyes as contrast. The colors stay slightly muted and elegant, matching the reference style.
 
 === TEXT ===
 At the top of the sheet, a clean, small title: "OWEN CALDER — GRAVITY". Tiny clean labels under each view: "FRONT", "LEFT", "BACK", "RIGHT", "HEAD FRONT", "3/4", "LEFT PROFILE", "RIGHT PROFILE", "HEAD BACK", "GRIAMORE". All text spelled correctly. No other text.

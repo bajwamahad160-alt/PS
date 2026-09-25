@@ -82,7 +82,7 @@ A guy named Owen. Everything past that is still open.
   its eyes should be. Its voice comes from the stone, the iron and inside
   Owen's chest. It feeds on his anger, has chosen him, and offered him a
   deal. It likes him.
-- **Megravia** — the Gluttony demon of Owen's Gravity book *(name:
+- **Arcanula** — the Gluttony demon of Owen's Gravity book *(name:
   author's decision)*. She's said to be the oldest and hungriest of the
   demons. So far she's only a faint, patient hunger at the bottom of Owen's
   stomach.

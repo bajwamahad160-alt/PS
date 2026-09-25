@@ -367,7 +367,7 @@ Sloth, and its demon is called Sollumbre. Space is Greed: Karvesh. Mind is
 Envy: Visselth. Energy is Pride: Auranth. Soul is Lust: Lirrevain.
 
 "And Gravity," he said, "is Gluttony. The hunger. Your demon is called
-Megravia. She's the oldest of them, some say, and the hungriest."
+Arcanula. She's the oldest of them, some say, and the hungriest."
 
 He pronounced it carefully, the way you'd say the name of something you
 didn't want to hear you.
@@ -386,7 +386,7 @@ you liked it. Everybody looking at you. For once."
 
 Owen's face went hot. He looked at the floor.
 
-"That's Megravia," said Vey. "That's how it starts. She's hungry, and she'll
+"That's Arcanula," said Vey. "That's how it starts. She's hungry, and she'll
 teach you to be hungry too. For weight, for space, for attention. She'll
 never be full. Keep that in mind." He smiled. "Anyway. That's six."
 
@@ -463,7 +463,7 @@ form Owen had ever seen: the ones Mom filled out for the ration office, the
 ones Pop signed at the station every quarter. Neat boxes. Neat typed lines.
 
 HOLDER: *Owen Calder.* AGE: *16.* ADDRESS: *41 Cable Street, 3rd floor.*
-BOOK: *Gravity (Megravia).* DISPOSITION: and then a long empty line, and at
+BOOK: *Gravity (Arcanula).* DISPOSITION: and then a long empty line, and at
 the very bottom, beside a small printed X, another empty line for a
 signature.
 
@@ -627,7 +627,7 @@ The Binders on Owen's wrists had gone so cold they felt like they were on
 fire. He pressed his back against the stone wall.
 
 "*Oh, those,*" said Vorruk, sounding amused. "*Those were made for her.
-The hungry one. Megravia.*" The dark shape tilted its head at the book in
+The hungry one. Arcanula.*" The dark shape tilted its head at the book in
 the box. "*They were never made for me.*"
 
 "What do you want?"
@@ -766,7 +766,7 @@ him, small and quiet and endless, and he understood that it would always be
 there now, the way the sound of the harbor had always been there on Cable
 Street, so constant you stopped hearing it.
 
-*Megravia,* Vey had said, carefully, like the name of something you didn't
+*Arcanula,* Vey had said, carefully, like the name of something you didn't
 want to hear you.
 
 Owen pulled his foot back from the box. He wrapped himself in the thin grey

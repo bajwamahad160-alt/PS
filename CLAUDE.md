@@ -9,9 +9,12 @@ alongside the SAM Online site.
   `book/chapters/` is added or edited:
   1. Run `python3 book/build_pdf.py` and `python3 book/build_web.py`
      (they need `pip install reportlab pillow`).
-  2. Commit the updated `book/The-Forgotten-Seven.pdf` and
+  2. Commit the updated `book/The-Forgotten-Seven.pdf`,
+     `book/The-Forgotten-Seven.md` (the text edition) and
      `book/web/the-forgotten-seven.html` in the same commit.
-  3. Republish the reading page to its existing artifact,
+  3. Send the author `book/The-Forgotten-Seven.md` as a file so it opens in
+     their side panel. Their viewer can't show PDFs.
+  4. Republish the reading page to its existing artifact,
      https://claude.ai/artifact/JE9K5sFr7yEWdKcQWg64Sf , by publishing
      `book/web/the-forgotten-seven.html` with that URL. The author reads
      the book there because their file viewer can't show PDFs.

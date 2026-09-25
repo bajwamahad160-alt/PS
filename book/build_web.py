@@ -7,7 +7,8 @@ Run this after every chapter change, next to build_pdf.py:
 
 It writes book/web/the-forgotten-seven.html, a single self-contained page
 (cover, contents and every chapter) that is published as the book's
-reading page.
+reading page, and book/The-Forgotten-Seven.md, the whole book as one text
+file that opens in the session's file viewer.
 """
 
 import base64
@@ -29,6 +30,7 @@ from build_pdf import (
 )
 
 OUTPUT = os.path.join(BOOK_DIR, "web", "the-forgotten-seven.html")
+TEXT_OUTPUT = os.path.join(BOOK_DIR, "The-Forgotten-Seven.md")
 PDF_URL = ("https://github.com/bajwamahad160-alt/PS/blob/"
            "claude/awesome-hawking-r3k95u/book/The-Forgotten-Seven.pdf")
 
@@ -203,6 +205,21 @@ a:focus-visible {{ outline: 2px solid var(--gold); outline-offset: 3px; border-r
 """
 
 
+def write_text_edition(chapter_files):
+    """Write the whole book as one Markdown file that opens in the file viewer."""
+    parts = [f"# {TITLE}", "", f"*by {AUTHOR}*", "", "## Contents", ""]
+    for number, path in enumerate(chapter_files, start=1):
+        label, name, _ = parse_chapter(path, number)
+        parts.append(f"{number}. {label}: {name}")
+    for path in chapter_files:
+        with open(path, encoding="utf-8") as f:
+            text = f.read().strip()
+        parts += ["", "---", "", text.replace("# Chapter", "## Chapter", 1)]
+    with open(TEXT_OUTPUT, "w", encoding="utf-8") as f:
+        f.write("\n".join(parts) + "\n")
+    print(f"Wrote {os.path.relpath(TEXT_OUTPUT)}.")
+
+
 def build():
     chapter_files = sorted(glob.glob(os.path.join(CHAPTER_DIR, "chapter-*.md")))
     toc_items, chapter_html, word_total = [], [], 0
@@ -249,6 +266,7 @@ def build():
         toc="\n".join(toc_items),
         chapters="\n".join(chapter_html),
     )
+    write_text_edition(chapter_files)
     os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
     with open(OUTPUT, "w", encoding="utf-8") as f:
         f.write(page)

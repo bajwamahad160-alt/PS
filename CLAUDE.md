@@ -12,8 +12,8 @@ alongside the SAM Online site.
   2. Commit the updated `book/The-Forgotten-Seven.pdf`,
      `book/The-Forgotten-Seven.md` (the text edition) and
      `book/web/the-forgotten-seven.html` in the same commit.
-  3. Send the author `book/The-Forgotten-Seven.md` as a file so it opens in
-     their side panel. Their viewer can't show PDFs.
+  3. **Paste the full text of the new or changed chapter into the chat
+     reply.** That's where the author prefers to read it.
   4. Republish the reading page to its existing artifact,
      https://claude.ai/artifact/JE9K5sFr7yEWdKcQWg64Sf , by publishing
      `book/web/the-forgotten-seven.html` with that URL. The author reads

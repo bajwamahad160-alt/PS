@@ -2613,7 +2613,7 @@ Somebody laughed. Master Brand didn't.
 
 Owen got up, spitting sand. Across the circle, Julian's face had gone very still.
 
-Owen had his book open in his left hand. He had no idea what he was doing. He'd never fought anyone in his life except Jonah, when they were eight, over a plum, and Jonah had won by sitting on him. He watched Julian's hands, and his feet, and the smoke curling up off his knuckles, and he breathed. In for four. Out for eight.
+He still had his book open in his left hand. He still had no idea what he was doing. He'd never fought anyone in his life except Jonah, when they were eight, over a plum, and Jonah had won by sitting on him. He watched Julian's hands, and his feet, and the smoke curling up off his knuckles, and he breathed. In for four. Out for eight.
 
 "Everyone's still talking about the courtyard," said Julian quietly, as they circled. Too quietly for Master Brand to hear. "Did you know? They say you made me kneel."
 

@@ -222,3 +222,58 @@ speed, which ties Owen to Talia, the Light Grandmaster.
 - Owen's private promise: "I'll go up that hill one day. And when I do, I
   won't be waiting on the landing."
 - Training starts in Chapter 3.
+
+## The Aldren Institute *(from Chapter 3)*
+
+The country's elite academy, on the crown of the hill beside the Ministry
+towers, behind a high grey wall. The strongest young holders and every new
+Grandmaster train there *(author's decision: a Grandmaster academy)*. Owen
+attends as the "Gravity scholarship" boy.
+
+- Students wear charcoal-grey coats with a coloured stripe at the cuff for
+  their power (red for fire, blue for water, green for earth, and so on).
+  Grandmasters wear white or storm-grey coats with their mark.
+- **Headmistress: Ida Kessler**, the Earth Grandmaster. She knows what Owen
+  is. She trains him alone every afternoon in the **Deep Room**, a bare
+  stone chamber far under the clock tower.
+- **The Weighing Stone:** a two-ton block of Harbor granite that every
+  first-year must affect somehow at the placement trial.
+- Mornings are normal lessons, afternoons are private training, and Owen
+  sleeps in the east dormitory, room nine.
+
+## Owen's powers so far
+
+- **Page one, Gravity:** *Lighten* (the named thing weighs nothing),
+  *Press* (it weighs everything), *Pull* (everything falls toward him).
+  He has only used Lighten, on purpose.
+- **Page two, Hunger:** *"Whatever you take in, you keep."* It appeared
+  after his fight with Talia. What it does is still unknown.
+- **Control:** Kessler teaches him to breathe out longer than in ("in for
+  four, out for six"), because the hunger comes in on the in-breath.
+
+## Seeds planted in Chapter 3
+
+- **The kill switch is a bluff** *(author's decision)*. Vey says they put
+  "a little something" in Owen while he slept, and that he'll never wake up
+  if he runs, tells anyone what he is, or hurts the wrong person. Nothing
+  was done. The truth comes out later in the book.
+- Kessler has met four dark holders in 44 years, and all four died within a
+  year. She'd stop Owen if she had to. She says Vey "has never in his life
+  used a word by accident."
+- Jonah got the Thunder book at the Wren Street annex the day after Owen's
+  Bindery day, and he saw Talia visit Owen's mother that night.
+- Julian's father says the Ministry has a department for Bindery
+  "mistakes." Julian's cousin was in the hall and broke a tooth.
+- Owen nearly crushed Julian in the courtyard and held back. Jonah saw the
+  flattened circle and knows it wasn't a gas leak.
+- **Talia's reason:** she's "not allowed" to explain until spring, and "it
+  won't be me who gets hurt" if she breaks the rule.
+- On the roof, Talia's light showed her **something huge with horns
+  standing behind Owen, with its hand on his shoulder.** She's now afraid
+  of him.
+- **Arcanula** says the thing behind him on the roof was Vorruk, and that
+  Vorruk also touched him in the cell. She's furious and possessive.
+- Arcanula says she has been hungry for 61 years, since anyone last opened
+  her book. That's the same span as Reqrium's empty years.
+- Arcanula's realm is an endless banquet hall with thousands of empty
+  plates and chairs, and candles whose flames point down.

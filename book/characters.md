@@ -83,8 +83,36 @@ A guy named Owen. Everything past that is still open.
   Owen's chest. It feeds on his anger, has chosen him, and offered him a
   deal. It likes him.
 - **Arcanula** — the Gluttony demon of Owen's Gravity book *(name:
-  author's decision)*. She's said to be the oldest and hungriest of the
-  demons. So far she's only a faint, patient hunger at the bottom of Owen's
-  stomach.
+  author's decision)*. Said to be the oldest and hungriest of the demons.
+  Owen meets her in a dream at the end of Chapter 3. See below.
 - **The old warden** — grey moustache, a face "like a folded map." Held the
   iron box in the motorcar, gave Owen water, and warned him about the dark.
+
+## Introduced in Chapter 3
+
+- **Arcanula** *(design based on the author's direction: in the style of
+  Black Clover's devils)* — very tall, with bruise-grey-violet skin and long
+  black hair that floats as if underwater. Two black ridged horns curve
+  back like crescent moons. Thin glowing gold crescent markings run down
+  her cheeks, collarbones and arms. Black claws, black sclera, gold irises
+  ringed with violet, and a great many teeth. Her gown pools like spilled
+  ink and moves on its own. Her moods swing between playful ("my little
+  lightning rod"), possessive ("You are *mine*") and cold and ancient. She
+  lives in an endless banquet hall of empty plates.
+- **Ida Kessler** — Earth Grandmaster for 44 years and headmistress of the
+  Aldren Institute for 31. Small and upright, with short iron-grey hair, a
+  face "like a cliff" and a plain patched white coat. Her office is full of
+  rocks. Blunt, strict and fair, and she hates lateness. She knows what Owen
+  is and trains him personally.
+- **Julian Vance** — Owen's roommate. A rich Flame student whose father sits
+  on the Ministry council and whose godfather is Cassius Rourke. He set the
+  Weighing Stone on fire with white flame. He's cruel to Owen and now also
+  afraid of him.
+- **Jonah Pike** — Owen's old friend from Cable Street *(author's decision:
+  they drifted apart after Talia left)*. The new **Thunder Grandmaster**.
+  Tall, lanky, with static hair and a storm-grey coat. He split the Weighing
+  Stone with lightning and blew out every window, then said "Sorry."
+- **The thin teacher** — runs the placement trial, with a voice like a
+  creaking door.
+- **The old warden** — took off Owen's Binders and said they "won't be
+  seeing much of each other after today." He never gave his name.

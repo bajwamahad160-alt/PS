@@ -367,14 +367,14 @@ Sloth, and its demon is called Sollumbre. Space is Greed: Karvesh. Mind is
 Envy: Visselth. Energy is Pride: Auranth. Soul is Lust: Lirrevain.
 
 "And Gravity," he said, "is Gluttony. The hunger. Your demon is called
-Mawrenne."
+Megravia. She's the oldest of them, some say, and the hungriest."
 
 He pronounced it carefully, the way you'd say the name of something you
 didn't want to hear you.
 
-Owen looked at the book in the box. "It's... in there?"
+Owen looked at the book in the box. "She's... in there?"
 
-"In there, and in you, a little, from this morning on. Don't worry. It'll be
+"In there, and in you, a little, from this morning on. Don't worry. She'll be
 quiet for a while. They usually are, at first." Vey paused. "Tell me. When
 you had your hand on that book, and the whole hall was on the floor, how did
 you feel?"
@@ -386,8 +386,8 @@ you liked it. Everybody looking at you. For once."
 
 Owen's face went hot. He looked at the floor.
 
-"That's Mawrenne," said Vey. "That's how it starts. It's hungry, and it'll
-teach you to be hungry too. For weight, for space, for attention. It'll
+"That's Megravia," said Vey. "That's how it starts. She's hungry, and she'll
+teach you to be hungry too. For weight, for space, for attention. She'll
 never be full. Keep that in mind." He smiled. "Anyway. That's six."
 
 "You said seven," said Owen. "Fourteen marks. Seven dark ones."
@@ -463,7 +463,7 @@ form Owen had ever seen: the ones Mom filled out for the ration office, the
 ones Pop signed at the station every quarter. Neat boxes. Neat typed lines.
 
 HOLDER: *Owen Calder.* AGE: *16.* ADDRESS: *41 Cable Street, 3rd floor.*
-BOOK: *Gravity (Mawrenne).* DISPOSITION: and then a long empty line, and at
+BOOK: *Gravity (Megravia).* DISPOSITION: and then a long empty line, and at
 the very bottom, beside a small printed X, another empty line for a
 signature.
 
@@ -627,7 +627,7 @@ The Binders on Owen's wrists had gone so cold they felt like they were on
 fire. He pressed his back against the stone wall.
 
 "*Oh, those,*" said Vorruk, sounding amused. "*Those were made for her.
-The hungry one. Mawrenne.*" The dark shape tilted its head at the book in
+The hungry one. Megravia.*" The dark shape tilted its head at the book in
 the box. "*They were never made for me.*"
 
 "What do you want?"
@@ -766,7 +766,7 @@ him, small and quiet and endless, and he understood that it would always be
 there now, the way the sound of the harbor had always been there on Cable
 Street, so constant you stopped hearing it.
 
-*Mawrenne,* Vey had said, carefully, like the name of something you didn't
+*Megravia,* Vey had said, carefully, like the name of something you didn't
 want to hear you.
 
 Owen pulled his foot back from the box. He wrapped himself in the thin grey

@@ -96,7 +96,7 @@ schoolbooks, or the Bindery's records.
 |---|---|---|---|---|
 | Time | Sloth | Sollumbre *(proposed)* | Wanting to stop the clock and never have to move | *(author to provide)* |
 | Space | Greed | Karvesh *(proposed)* | Wanting to be everywhere and hold everything | *(author to provide)* |
-| Gravity | Gluttony | Mawrenne *(proposed)* | Pulling everything in and devouring it | One crescent from the Reqrium emblem, with the ring through it *(proposed)* |
+| Gravity | Gluttony | **Megravia** *(author's decision)*, female | Pulling everything in and devouring it | One crescent from the Reqrium emblem, with the ring through it *(proposed)* |
 | Mind | Envy | Visselth *(proposed)* | Getting inside other people and taking what's theirs | *(author to provide)* |
 | Energy | Pride | Auranth *(proposed)* | Power that burns to be seen, and never believes it has limits | *(author to provide)* |
 | Soul | Lust | Lirrevain *(proposed)* | Wanting another person's very being | *(author to provide)* |
@@ -137,7 +137,7 @@ reached by a hidden ramp, a tunnel and a long lift. Its symbol is a silver
 **closed eye**. It is run, at least as far as Owen sees, by **Ansel Vey**.
 
 - **Binders:** iron cuffs cut with marks that shut off a dark holder's
-  power. Vorruk says they were made for Mawrenne, not for him.
+  power. Vorruk says they were made for Megravia, not for him.
 - **The deal:** Owen lives as long as he races to fill his book and claim
   Reqrium for the Ministry before the other five. If he refuses or falls
   behind, they kill him. His family is told he got a scholarship to a
@@ -217,7 +217,7 @@ speed, which ties Owen to Talia, the Light Grandmaster.
   you could go, if you'd only let yourself."
 - Vorruk offered to free him in exchange for "a little room" inside him.
   Owen refused.
-- Mawrenne is a small, endless hunger at the bottom of Owen's stomach.
+- Megravia is a small, endless hunger at the bottom of Owen's stomach.
 - The kill form lists his address: 41 Cable Street, 3rd floor.
 - Owen's private promise: "I'll go up that hill one day. And when I do, I
   won't be waiting on the landing."

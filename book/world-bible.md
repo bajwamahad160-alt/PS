@@ -92,17 +92,56 @@ schoolbooks, or the Bindery's records.
 3. **A new person is then chosen** to fill the open place, which makes it
    seven again.
 
-| Griamore | Sin | Why it fits | Logo |
-|---|---|---|---|
-| Time | Sloth | Wanting to stop the clock and never have to move | *(author to provide)* |
-| Space | Greed | Wanting to be everywhere and hold everything | *(author to provide)* |
-| Gravity | Gluttony | Pulling everything in and devouring it | One crescent from the Reqrium emblem, with the ring through it *(proposed)* |
-| Mind | Envy | Getting inside other people and taking what's theirs | *(author to provide)* |
-| Energy | Pride | Power that burns to be seen, and never believes it has limits | *(author to provide)* |
-| Soul | Lust | Wanting another person's very being | *(author to provide)* |
-| **Reqrium** | Wrath | Every power at once, unleashed the way only fury would | Three crescents in three-way symmetry, linked by a ring (`art/reqrium-logo.png`) |
+| Griamore | Sin | Demon | Why it fits | Logo |
+|---|---|---|---|---|
+| Time | Sloth | Sollumbre *(proposed)* | Wanting to stop the clock and never have to move | *(author to provide)* |
+| Space | Greed | Karvesh *(proposed)* | Wanting to be everywhere and hold everything | *(author to provide)* |
+| Gravity | Gluttony | Mawrenne *(proposed)* | Pulling everything in and devouring it | One crescent from the Reqrium emblem, with the ring through it *(proposed)* |
+| Mind | Envy | Visselth *(proposed)* | Getting inside other people and taking what's theirs | *(author to provide)* |
+| Energy | Pride | Auranth *(proposed)* | Power that burns to be seen, and never believes it has limits | *(author to provide)* |
+| Soul | Lust | Lirrevain *(proposed)* | Wanting another person's very being | *(author to provide)* |
+| **Reqrium** | Wrath | **Vorruk** *(author's decision)* | Every power at once, unleashed the way only fury would | Three crescents in three-way symmetry, linked by a ring (`art/reqrium-logo.png`) |
+
+Every demon name is invented. None are taken from real demonology.
 
 **Reqrium** is the author's own word. It means **all of them**.
+
+### How the dark books work *(author's decisions, from Chapter 2)*
+
+- **Each dark book has a demon** tied to its sin. The demon gets a little of
+  what it wants from whoever carries the book.
+- **Pages fill three ways:** use (pushing your power past its limit),
+  feeling (grief, rage, fear, love) and fighting, especially fighting other
+  dark holders.
+- **The race:** the first of the six holders to fill every page of their
+  book can claim Reqrium. The book they leave behind then picks someone new.
+- **Reqrium** holds the power of all thirteen other books. It has had no
+  holder for 61 years. The book sits in **cell six** of the Low Office
+  vault, and Vorruk can appear to people nearby as a tall shadow figure.
+- **History:** about 120 years ago the six dark holders went to war. It
+  left the "Waste" on the eastern coast and put the old capital at the
+  bottom of a lake. Afterward the country deliberately forgot them over
+  about 40 years: ceilings painted over, books burned, marks scraped off.
+- **The Bindery is a net.** Dark books almost always wake on a sixteenth
+  birthday at the Bindery. The wardens exist to catch those holders, and
+  the Ministry normally kills them before the book starts to fill.
+- **This year is different:** all six dark books woke within 11 months.
+  Owen was the sixth. Of the other five, some were caught and lost, some
+  never came near a Bindery, one is somewhere the Ministry can't follow,
+  and one has killed the wardens sent after them.
+
+### The Low Office
+
+A secret Ministry office in an ancient vault far under the Bindery,
+reached by a hidden ramp, a tunnel and a long lift. Its symbol is a silver
+**closed eye**. It is run, at least as far as Owen sees, by **Ansel Vey**.
+
+- **Binders:** iron cuffs cut with marks that shut off a dark holder's
+  power. Vorruk says they were made for Mawrenne, not for him.
+- **The deal:** Owen lives as long as he races to fill his book and claim
+  Reqrium for the Ministry before the other five. If he refuses or falls
+  behind, they kill him. His family is told he got a scholarship to a
+  Ministry academy and will be left alone.
 
 ### Rare powers
 
@@ -132,6 +171,13 @@ speed, which ties Owen to Talia, the Light Grandmaster.
    toward its sin?
 4. **Who are the other five demonic holders**, and will Owen be the one who
    becomes Reqrium?
+5. **Talia's reason** for shutting the door: the Grandmaster rule, which
+   bans new Grandmasters from contact with their old life for a year
+   *(author's decision)*. Revealed later in the book, not yet.
+6. **Why did the last Reqrium holder live until 61 years ago** if the war
+   was 120 years ago?
+7. **What happened to "the last boy" in cell four** who talked back to
+   Vorruk?
 
 ## Seeds planted in Chapter 1
 
@@ -158,3 +204,21 @@ speed, which ties Owen to Talia, the Light Grandmaster.
 - On the radio, Talia dedicates her exhibition to "Cable Street."
 - Pop told Owen to come straight home after the Bindery. He didn't.
 - The Thunder Grandmaster book is still unclaimed.
+
+## Seeds planted in Chapter 2
+
+- Vey says Talia "has been very useful to us." Owen takes it as proof she's
+  part of what happened to him and is angrier than ever. The real reason is
+  the Grandmaster rule, revealed later.
+- An older warden warns Owen: if the light goes out, keep your eyes shut,
+  and don't talk back to anything, "not even no." The last boy in cell four
+  talked back. Owen says "no" to Vorruk anyway.
+- Owen's anger at Talia made a page try to open. Vorruk: "That's how fast
+  you could go, if you'd only let yourself."
+- Vorruk offered to free him in exchange for "a little room" inside him.
+  Owen refused.
+- Mawrenne is a small, endless hunger at the bottom of Owen's stomach.
+- The kill form lists his address: 41 Cable Street, 3rd floor.
+- Owen's private promise: "I'll go up that hill one day. And when I do, I
+  won't be waiting on the landing."
+- Training starts in Chapter 3.

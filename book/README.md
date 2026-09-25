@@ -43,7 +43,7 @@ Drop a finished cover image at `art/cover.png` and the next build uses it.
 
 ## Status
 
-**Chapter 1 drafted** (`chapters/chapter-01.md`, ~5,300 words).
+**Chapters 1–2 drafted.** Chapter 1 is about 5,300 words. Chapter 2 (medium) is about 6,700.
 
 - `world-bible.md` covers the world, how griamores work, the Elemental
   Seven, the Demonic Seven, and rare powers.

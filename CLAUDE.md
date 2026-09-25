@@ -18,6 +18,10 @@ alongside the SAM Online site.
 - **Chapter files** are `book/chapters/chapter-NN.md`, starting with a
   `# Chapter One: Title` heading. `---` on its own line is a scene break.
   Only `*italic*` and `**bold**` markup is supported.
+- **Before writing each chapter, ask the author 15-20 questions** with the
+  clickable question tool (4 per round, so 4-5 rounds). Cover where the
+  chapter goes, who's in it, what's revealed, tone, size and the ending.
+  Write the chapter only after the answers are in.
 - **Chapter sizes** set by the author: small ~4,000 words, medium ~7,000,
   large ~10,000. If the author doesn't pick one, use judgment and say
   which size you chose.

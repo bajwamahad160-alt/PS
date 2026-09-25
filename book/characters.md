@@ -69,3 +69,20 @@ A guy named Owen. Everything past that is still open.
 - **Cassius Rourke** — the current Flame Grandmaster, heard only on the
   radio so far.
 - **Port Aldren** — the harbor city where the story starts.
+
+## Introduced in Chapter 2
+
+- **Ansel Vey** *(name proposed)* — about 23, slim, pale, round wire
+  spectacles, a beautifully cut grey suit and a silver closed-eye pin. Runs
+  Owen's case at the Low Office. Bright, cheerful and ruthless; eats an
+  apple while explaining how they kill dark holders. Calls Owen "the
+  fastest horse we've got."
+- **Vorruk** — the Wrath demon of Reqrium *(name: author's decision)*. A
+  tall shadow that bends where it meets the ceiling, with deeper dark where
+  its eyes should be. Its voice comes from the stone, the iron and inside
+  Owen's chest. It feeds on his anger, has chosen him, and offered him a
+  deal. It likes him.
+- **Mawrenne** — the Gluttony demon of Owen's Gravity book *(name
+  proposed)*. So far only a faint, patient hunger.
+- **The old warden** — grey moustache, a face "like a folded map." Held the
+  iron box in the motorcar, gave Owen water, and warned him about the dark.

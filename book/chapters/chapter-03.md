@@ -686,15 +686,21 @@ He turned around.
 
 She was sitting on the table.
 
-She was sitting right on the white cloth among the silver plates, with her legs crossed at the ankle, as if she'd been there all along. She was tall, taller than any woman he'd ever seen, even sitting down, and her skin was the pale grey-violet of a bruise just starting to heal. Her hair was black, and long, and it didn't hang down. It floated up and around her head in a slow dark cloud, drifting and curling the way hair floats underwater, as if gravity itself had given up on it. Two horns curved back from her temples, black and smooth and ridged, bending around and forward again like a pair of crescent moons.
+She was sitting right on the white cloth among the silver plates, as if she'd been there all along. She was tall, taller than any woman he'd ever seen, even sitting down, and she was pale, so pale she almost glowed: a cold porcelain white with a faint grey-violet tint beneath it, like a doll that had been left too long in the dark. Her hair was a huge, wild cloud of pale cream curls, touched with lavender in the shadows, and it didn't hang down. It drifted around her head and shoulders, slow and weightless, the way hair floats underwater, as if gravity itself had given up on it. Two black horns curled up out of it, thick and ridged like a ram's, sweeping up and out and hooking back in at the tips.
 
-There were marks on her skin. Thin glowing lines of pale gold, running down her cheeks from the corners of her eyes and along her collarbones and down her bare grey arms, curving and looping into shapes. After a moment Owen recognized them. They were crescents. The same crescent that was stamped in black on the cover of his book.
+Her face was the strangest part. It was smooth and still and perfect, like a painted mask, with a small, thin, calm smile. In the middle of her forehead was a mark of glowing gold: a crescent moon with a thin ring passing through it. After a moment Owen recognized it. It was the same mark that was stamped in black on the cover of his book.
 
-Her fingers ended in long black claws. She wore something dark and flowing that pooled around her on the table like spilled ink, and moved slightly, all on its own, the way smoke moves.
+At her throat was a black band with a stiff, ruffled collar, like the ruff in an old painting of a queen. Below that, a great gown fell from her neck to the table and spilled over its edge onto the floor. It was made of layer upon layer of soft, rounded, overlapping panels, like the feathers of some huge pale bird, ivory and lavender, scattered with tiny dark crescents. It covered everything. Only her hands came out of it, from wide feathered sleeves: long, pale grey fingers ending in long black claws.
+
+Behind her, filling the dark above the table, were her wings.
+
+They were enormous, far wider than she was tall, black-violet and jagged at the edges like torn paper. And they were covered in eyes. Dozens of them, painted there or grown there, almond-shaped and gold with dark pupils, and every single one of them was looking at him.
+
+All around her, drifting through the air, coiling over her shoulders and looping lazily around the candlesticks, were long ribbons of *writing*: thick chains of cramped black handwriting, glowing faintly gold at the edges, as if someone had torn the lines out of an old book and let them float.
 
 And her eyes...
 
-The whites of her eyes were black. Pure black, like the inside of a well. And in the middle of each one was an iris of burning gold, ringed with violet, fixed on him with an interest so bright and so total that he felt it on his skin, like heat.
+They sat in rings of shadow, dark and plum-coloured, like a doll's painted eyes. The whites of them were black. Pure black, like the inside of a well. And in the middle of each one was an iris of burning gold, ringed with violet, fixed on him with an interest so bright and so total that he felt it on his skin, like heat.
 
 She smiled.
 
@@ -718,7 +724,7 @@ She laughed again, delighted, and straightened up.
 
 "*What does anyone want, darling?*" She smiled. "*I want to be* full."
 
-She slid down off the table in one long, fluid movement, and suddenly she was standing in front of him, and she was tall, so tall he had to tilt his head right back to see her face. The dark stuff of her gown pooled around his bare feet, cold as harbor water.
+She slid down off the table in one long, fluid movement, and suddenly she was standing in front of him, and she was tall, so tall he had to tilt his head right back to see her face. The soft pale layers of her gown spilled around his bare feet, cold as harbor water, and her wings rose up behind her until they blotted out the candles, and all their golden eyes looked down at him.
 
 "*You fed me today,*" she murmured. "*Did you know? Just a little. Just a taste. When you lifted the pretty rock and held it up for all of them to see, and you felt them watching you. When you pressed that boy into the gravel, and you felt him get small, and you liked it.*" She reached out with one long claw and very gently touched the center of his chest. It was so cold it burned. "*And on the roof. With the girl. Oh, that was lovely. That was the first real meal I've had in sixty years.*"
 
@@ -728,7 +734,7 @@ She slid down off the table in one long, fluid movement, and suddenly she was st
 
 And then, all at once, her face changed.
 
-The smile went out of it like a candle blown out. Her golden eyes narrowed. Her hair stopped drifting and went flat and still around her head. When she spoke again her voice was different: colder, much older, and very, very quiet.
+The smile went out of it like a candle blown out. Her golden eyes narrowed. Her curls stopped drifting and went flat and still around her head. Every eye on her wings narrowed with her. When she spoke again her voice was different: colder, much older, and very, very quiet.
 
 "*He touched you.*"
 
@@ -748,7 +754,7 @@ Then, just as suddenly, she let go, and laughed, and it was the playful laugh ag
 
 She turned, and her gown swept out behind her, and she walked away from him along the side of that endless table, trailing one claw along the white cloth so that it tore, very slightly, in a long thin line. The candles leaned toward her as she passed, their downward flames all bending her way.
 
-Halfway along, she stopped, and pulled out one of the thousands of empty chairs. Then she turned and looked back at him over her shoulder, with her black-and-gold eyes, and her floating hair, and her crescent horns, and all her teeth.
+Halfway along, she stopped, and pulled out one of the thousands of empty chairs. Then she turned and looked back at him over her shoulder, with her black-and-gold eyes, and her floating pale curls, and her black horns, and her wings full of watching eyes, and all her teeth.
 
 "*Well?*" said Arcanula. "*Come here, Owen Calder. Sit down.*"
 

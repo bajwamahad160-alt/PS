@@ -4,7 +4,7 @@
 
 His voice came out thin and small in that enormous hall, and it didn't echo. Nothing in here echoed. The sound just fell out of his mouth and dropped to the stone floor and lay there.
 
-Arcanula tilted her head. Her black hair drifted with the movement, slow as weed in a tide.
+Arcanula tilted her head. Her pale curls drifted with the movement, slow as weed in a tide. Behind her, in the dark, the gold eyes on her wings blinked, all together.
 
 "*No?*"
 
@@ -112,7 +112,7 @@ Owen didn't say anything.
 
 "*Or,*" said Arcanula, and her voice went soft again, almost gentle, "*you could say yes. And I'll stand between you and him. And you'll go faster than all of them. And one day you'll walk into that cell and pick up the whole world, and he'll fall down here into the dark where he belongs. And you'll only have lent me your shoes once in a while.*"
 
-She held out her hand across the table. Long grey fingers. Black claws. The thin gold crescents on her wrist glowing faintly.
+She held out her hand across the table. It came out of a wide sleeve of soft layered feathers. Long pale grey fingers. Black claws. Above it, the gold mark on her forehead glowed faintly.
 
 "*Well?*"
 
@@ -144,7 +144,7 @@ And the whole hall fell *upward*, and the candles went out, and Owen woke up in 
 
 He opened it.
 
-In the middle of his palm, faint and silvery, like an old scar that had been there for years, was the shape of a crescent moon.
+In the middle of his palm, faint and silvery, like an old scar that had been there for years, was the shape of a crescent moon, with a thin ring passing through it. The same mark she wore on her forehead.
 
 ---
 
@@ -530,7 +530,7 @@ Only this time she didn't scream. She didn't flinch. She just stared, very quiet
 
 "What?"
 
-"Last night it was... big. Dark. It had horns, and it was so *big.*" Her voice was barely a breath. "This one's a woman. She's got her arms around you. Her chin's on your shoulder. And she's..." Talia's lips were trembling. "She's *smiling* at me, Owen. She's got so many teeth."
+"Last night it was... big. Dark. It had horns, and it was so *big.*" Her voice was barely a breath. "This one's a woman. Her hair's all white curls, like smoke, and she's got wings, and they've got *eyes* on them, Owen, all over them. She's got her arms around you. Her chin's on your shoulder. And she's..." Talia's lips were trembling. "She's *smiling* at me, Owen. She's got so many teeth."
 
 Owen didn't turn around. He didn't need to. He could feel it: the cold, fond weight of something resting against his back, and a sharp chin on his shoulder, and a voice murmuring into his ear so softly that only he could hear it.
 
@@ -614,7 +614,7 @@ And the hand drew back through the tear, and the tear sealed itself up like a he
 
 Owen lay on his bed and didn't breathe.
 
-Deep inside him, under the fire, under the hunger, he felt Arcanula come fully awake. He felt her rise up, slow and huge and cold, to her full height inside his chest. He felt her hair stop drifting. He felt every one of her teeth.
+Deep inside him, under the fire, under the hunger, he felt Arcanula come fully awake. He felt her rise up, slow and huge and cold, to her full height inside his chest. He felt her curls go still, and her great wings spread wide in the dark, and every gold eye on them open at once. He felt every one of her teeth.
 
 *Space,* she hissed. *Greedy little thing. Karvesh's pet.*
 

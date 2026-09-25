@@ -90,13 +90,23 @@ A guy named Owen. Everything past that is still open.
 
 ## Introduced in Chapter 3
 
-- **Arcanula** *(design based on the author's direction: in the style of
-  Black Clover's devils)* — very tall, with bruise-grey-violet skin and long
-  black hair that floats as if underwater. Two black ridged horns curve
-  back like crescent moons. Thin glowing gold crescent markings run down
-  her cheeks, collarbones and arms. Black claws, black sclera, gold irises
-  ringed with violet, and a great many teeth. Her gown pools like spilled
-  ink and moves on its own. Her moods swing between playful ("my little
+- **Arcanula** *(design: author's decision, closely based on the author's
+  reference picture of Megicula's devil form from Black Clover, with small
+  tweaks; see `art/arcanula-sheet-prompt.md`)* — very tall. A pale,
+  porcelain, doll-like face with a faint grey-violet tint, like a painted
+  mask, and a small calm smile. Her eyes sit in dark plum rings, with black
+  sclera and gold irises ringed with violet. A huge, wild cloud of pale
+  cream curls, lavender in the shadows, floats as if underwater. Two thick
+  black ram's horns curl up and out. A glowing gold **crescent-and-ring
+  mark** (the Gravity emblem) sits on her forehead. She wears a black choker
+  with a stiff ruffled collar and a great **tiered gown of pale feather-like
+  layers** (ivory and lavender, scattered with tiny dark crescents) that
+  covers her from neck to floor. Only her face and hands show; her fingers
+  are long and pale grey with black claws. Behind her are **enormous
+  black-violet wings covered in gold eyes**, and **floating chains of
+  handwriting** coil around her like lines torn from a book. She has a great
+  many teeth. She is always fully covered and never drawn or written as
+  seductive *(author's decision)*. Her moods swing between playful ("my little
   lightning rod"), possessive ("You are *mine*") and cold and ancient. She
   lives in an endless banquet hall of empty plates.
 - **Ida Kessler** — Earth Grandmaster for 44 years and headmistress of the
@@ -142,8 +152,9 @@ A guy named Owen. Everything past that is still open.
 
 ## Changes in Chapter 4
 
-- **Owen** — made a deal with Arcanula and carries a silvery crescent scar
-  on his right palm. He hears her while awake, is always hungry, and can now
+- **Owen** — made a deal with Arcanula and carries a silvery
+  crescent-and-ring scar on his right palm, the same mark she wears on her
+  forehead. He hears her while awake, is always hungry, and can now
   swallow magic. He's holding Julian's white fire in his chest. He's
   starting to rebuild his friendship with Jonah and is confused about
   Talia.

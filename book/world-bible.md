@@ -306,7 +306,9 @@ attends as the "Gravity scholarship" boy.
   walk"**: time in Owen's body. Owen agreed to "only sometimes, an hour"
   and made her promise not to hurt anyone. She said "I won't hurt anyone
   *you love*," which isn't the same promise, and he knows it. The deal left
-  a **silvery crescent scar on his right palm**. Her walk hasn't happened
+  a **silvery scar on his right palm in the shape of the Gravity mark** (a
+  crescent with a ring through it), the same mark that glows gold on her
+  forehead. Her walk hasn't happened
   yet, but she says it's coming "very soon."
 - Arcanula now talks to Owen while he's awake, in the back of his head. She
   calls Talia "the little lamp."
@@ -314,8 +316,9 @@ attends as the "Gravity scholarship" boy.
   the Bindery ceiling. There are seven gaps between the seven Grandmaster
   marks, scraped off the printing plate and filled with little stars. Quill
   called it "decorative spacing," but his hand shook.
-- **Talia can see Arcanula** as a woman with her arms around Owen, chin on
-  his shoulder, smiling with too many teeth. On the roof the night before
+- **Talia can see Arcanula** as a woman with white curls like smoke and
+  wings covered in eyes, arms around Owen, chin on his shoulder, smiling
+  with too many teeth. On the roof the night before
   she saw Vorruk instead. She tells Owen she shut the door on the cake night
   "because they told me it was the only way to keep you safe," and that she
   thinks she may have been wrong. She ran before he could ask "safe from

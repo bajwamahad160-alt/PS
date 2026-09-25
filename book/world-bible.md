@@ -115,6 +115,13 @@ Every demon name is invented. None are taken from real demonology.
   dark holders.
 - **The race:** the first of the six holders to fill every page of their
   book can claim Reqrium. The book they leave behind then picks someone new.
+- **The demon swap** *(author's decision, Chapter 4)*: when a holder rises
+  to Reqrium, their demon rises with them and becomes the new sin of Wrath.
+  The old Reqrium demon falls into the empty book and takes on its sin. If
+  Owen rises, **Arcanula becomes Wrath** and **Vorruk becomes Gluttony**,
+  stuck in her hall of empty plates. Nobody living knows this rule, not Vey
+  and not Kessler. It's why Vorruk wanted "a little room" inside Owen: to
+  be sitting in him already so he'd stay on top.
 - **Reqrium** holds the power of all thirteen other books. It has had no
   holder for 61 years. The book sits in **cell six** of the Low Office
   vault, and Vorruk can appear to people nearby as a tall shadow figure.
@@ -247,9 +254,20 @@ attends as the "Gravity scholarship" boy.
   *Press* (it weighs everything), *Pull* (everything falls toward him).
   He has only used Lighten, on purpose.
 - **Page two, Hunger:** *"Whatever you take in, you keep."* It appeared
-  after his fight with Talia. What it does is still unknown.
+  after his fight with Talia. In Chapter 4 he learns what it does: with his
+  palm out and the word "Hunger," he swallowed Julian's full white fire and
+  every lamp in the armory. The fire now sits in his chest like a coal, and
+  he could let it back out, "twice as hot." Nearby flames lean toward him.
+- **Page three, Feast:** *"Whatever you keep, you become."* It appeared the
+  night after the armory. It suggests he can make what he swallows his own
+  permanently, and maybe more than fire.
 - **Control:** Kessler teaches him to breathe out longer than in ("in for
-  four, out for six"), because the hunger comes in on the in-breath.
+  four, out for six," raised to "out for eight" in Chapter 4), because the
+  hunger comes in on the in-breath.
+- **The Hunger grows slowly** *(author's decision: all of it, slowly)*.
+  Food no longer fills him. He can now also *feel* other people's emotions
+  (embarrassment, fear, homesickness) and they "smell good." He also hungers
+  for magic, starting with fire.
 
 ## Seeds planted in Chapter 3
 
@@ -277,3 +295,53 @@ attends as the "Gravity scholarship" boy.
   her book. That's the same span as Reqrium's empty years.
 - Arcanula's realm is an endless banquet hall with thousands of empty
   plates and chairs, and candles whose flames point down.
+
+## Seeds planted in Chapter 4
+
+- **Arcanula's deal** *(author's decision)*. Owen refused at first, and
+  she tipped the floor and dragged him into the chair. Her offer was
+  **speed** (she knows every page, including the last), **protection from
+  Vorruk**, and **the truth** about Talia, Vey and Kessler, served "for
+  dessert," meaning later. Her price: **"Now and then, I'd like to go for a
+  walk"**: time in Owen's body. Owen agreed to "only sometimes, an hour"
+  and made her promise not to hurt anyone. She said "I won't hurt anyone
+  *you love*," which isn't the same promise, and he knows it. The deal left
+  a **silvery crescent scar on his right palm**. Her walk hasn't happened
+  yet, but she says it's coming "very soon."
+- Arcanula now talks to Owen while he's awake, in the back of his head. She
+  calls Talia "the little lamp."
+- **Master Quill's textbook** (*The Seven: A History*) has a frontispiece of
+  the Bindery ceiling. There are seven gaps between the seven Grandmaster
+  marks, scraped off the printing plate and filled with little stars. Quill
+  called it "decorative spacing," but his hand shook.
+- **Talia can see Arcanula** as a woman with her arms around Owen, chin on
+  his shoulder, smiling with too many teeth. On the roof the night before
+  she saw Vorruk instead. She tells Owen she shut the door on the cake night
+  "because they told me it was the only way to keep you safe," and that she
+  thinks she may have been wrong. She ran before he could ask "safe from
+  what?"
+- **Newspaper headline: "WHOLE VILLAGE SLEEPS THREE DAYS."** All 300 people
+  in Marrowford, 40 miles north of Port Aldren, slept from the 14th to the
+  17th, and every clock stopped at 9:11. Arcanula: "Sollumbre. Lazy old
+  thing. Awake already." The **Time** holder is active and nearby.
+- **Kessler's four** all made deals too. Each had a mark afterward: one on
+  the wrist, one on the back of the neck, and one behind the ear. None of
+  them ever told her what they'd agreed to. The girl with the mark behind
+  her ear said "Nothing much," exactly as Owen does now, and died fifteen
+  days before her seventeenth birthday. She liked oranges. Owen doesn't tell
+  Kessler the price; Arcanula hushes him.
+- **The armory:** Julian's father phoned and asked "what a Vance was doing
+  on his knees in front of a dock rat." Julian threw his full fire in a
+  sparring match. Owen swallowed it, then **yielded** instead of throwing it
+  back. Julian knelt and asked, "What are you?" He has moved to the west
+  dormitory at his father's request: "Do not attempt to contact me."
+- **Owen and Jonah rebuilding** *(author's decision)*: plums on the roof, the
+  old Mrs. Abernathy plum fight, and Jonah's "Don't disappear on me again. I
+  knocked for three months." Jonah won't ask what's going on. "Same time
+  tomorrow."
+- **The Space holder finds Owen.** At midnight, on the eleventh stroke, a
+  tear opened in the air of room nine onto somewhere cold, blue and snowy. A
+  pale hand with a ring on every finger reached through. The voice was
+  young, girl or boy, hard to tell: "Found you... Gravity. Oh, the last one.
+  The very last one. They hid you so nicely... See you soon." Arcanula calls
+  them "Greedy little thing. Karvesh's pet," and "Dinner's coming to us."

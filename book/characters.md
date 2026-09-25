@@ -116,3 +116,46 @@ A guy named Owen. Everything past that is still open.
   creaking door.
 - **The old warden** — took off Owen's Binders and said they "won't be
   seeing much of each other after today." He never gave his name.
+
+## Introduced in Chapter 4
+
+- **Master Quill** — the thin teacher with the creaking-door voice from the
+  placement trial. Teaches **Grandmaster Lore**, which first-years and
+  Grandmasters take together ("a Grandmaster who does not know their own
+  history is merely a very loud accident"). Dry and sarcastic. He brushed
+  off the scraped gaps in the textbook, but his hand shook. He may know more.
+- **Master Brand** — the sparring teacher in the old armory. Huge, bald,
+  scarred, ex-army. His one rule: "Nobody dies on my sand!" Rough but fair;
+  he praised Owen's clumsy Lighten dodge ("Being alive is the whole point!").
+- **The Space holder** *(proposed: identity, age and gender left open)* —
+  holder of the Space book (Greed, demon Karvesh). Pale, slim hands with a
+  ring on every finger, crowded so thick they clink. Opens tears in the air
+  onto a cold, snowy, blue elsewhere. Young, pleased and patient, like
+  someone who has "been looking for a coin down the back of a very large
+  sofa." Has been hunting the Gravity holder and has now found Owen.
+- **The Time holder** — unseen. Put the whole village of Marrowford to sleep
+  for three days. Demon: Sollumbre.
+- **Kessler's girl** *(proposed)* — one of the four dark holders Kessler
+  trained. Her deal mark was behind her ear, and she said "Nothing much"
+  when asked what she'd promised. She peeled oranges in one long curl and
+  gave Kessler the peel. She died fifteen days before turning seventeen.
+
+## Changes in Chapter 4
+
+- **Owen** — made a deal with Arcanula and carries a silvery crescent scar
+  on his right palm. He hears her while awake, is always hungry, and can now
+  swallow magic. He's holding Julian's white fire in his chest. He's
+  starting to rebuild his friendship with Jonah and is confused about
+  Talia.
+- **Arcanula** — lives with Owen now, in the back of his head. Wants to
+  become Wrath. Price of the deal: to "go for a walk" in Owen's body now and
+  then. She "won't hurt anyone you love."
+- **Vorruk** — only mentioned in Chapter 4. Arcanula says he's afraid of
+  her, and that the "little room" was a plan to keep his place in Reqrium.
+- **Talia** — sees Arcanula whenever she tries to get close. Told Owen she
+  shut the door to "keep you safe."
+- **Jonah** — sits with Owen in Lore instead of on the Grandmaster bench.
+  Brings plums from the kitchen barrel. Won't ask; just asks Owen not to
+  disappear.
+- **Julian** — humiliated by his father. Threw his full fire at Owen, saw it
+  eaten, knelt. Moved to the west dormitory.
